@@ -1,4 +1,5 @@
 [
+  // Civilian units //
   {
     "name": "Cornae",
     "unitType": "Civilian",
@@ -12,6 +13,7 @@
 
     
   },
+  //Military Units
   {
     // Based on the Iris, which controls how light enters the eye by controlling the pupil
     "name": "Irae",
