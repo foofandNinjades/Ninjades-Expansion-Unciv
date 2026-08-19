@@ -5,6 +5,18 @@
     "uniqueTo": "Viewers Of Beyond",
     "replaces": "Worker",
     "movement": 2,
-    "cost": 70
+    "cost": 85
+
+    
+  }
+  {
+    "name": "Iria",
+    "unitType": "Sword",
+    "uniqueTo": "Viewers of Beyond",
+    "replaces": "Warrier",
+    "movement": 2,
+    "strength": 7,
+    "upgradesTo": "Dark Guardsman",
+    "promotions": ["Devoted Protection"]
   }
 ]
