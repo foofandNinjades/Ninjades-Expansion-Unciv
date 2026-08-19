@@ -5,7 +5,7 @@
     "[All] units gain the [Truth Seeking] promotion",
     "[+10]% [Science] [in all cities]"]
     "outerColor": [0, 0, 0]
-    "innerColor": [15, 5, 15]
+    "innerColor": [115, 50, 115]
     "cities": ["Viewpoint", "Cornar", "Aqeua", "Stahr", "Opti"]
     "spyNames": ["Foreseen", "Clairvoyant", "Theas", "Witness", "Axeus"]
   }
