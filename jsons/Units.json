@@ -17,7 +17,7 @@
     "movement": 2,
     "strength": 7,
     "upgradesTo": "Dark Guardsman",
-    "promotions": ["Devoted Protector"]
+    "promotions": ["Devoted Protector I"]
   },
   {
     "name": "Dark Guardsman",
@@ -27,6 +27,6 @@
     "movement": 2,
     "strength": 15,
     "uniques": ["[+30]% Strength <vs [Ranged] units> <when defending>", "[-25]% Strength <on foreign continents>"]
-    "promotions": ["Devoted Protector", "Devoted Protector II"]
+    "promotions": ["Devoted Protector I", "Devoted Protector II"]
   }
 ]
