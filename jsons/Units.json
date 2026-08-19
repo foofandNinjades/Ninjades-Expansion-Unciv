@@ -43,6 +43,7 @@
     "maintenance": 10,
     "strength": 150,
     "uniques": ["[+999]% Strength <vs [City-States]>", 
+      "[+999]% Strength <vs [Barbarians]>"
       "Limited to [3] per Civilization", 
       "[+50]% Strength <vs cities> <when attacking>",
       "Can see over obstacles"
