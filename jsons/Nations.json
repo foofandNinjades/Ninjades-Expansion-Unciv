@@ -1,9 +1,11 @@
 [
   {
     "name": "Viewers of Beyond",
+    "startBias": "Desert"
     "uniques": [
     "[All] units gain the [Truth Seeking] promotion",
-    "[+10]% [Science] [in all cities]"]
+    "[+10]% [Science] [in all cities]",
+    "Starts with [Rationalism] adopted"]
     "outerColor": [0, 0, 0]
     "innerColor": [115, 50, 115]
     "cities": ["Viewpoint", "Cornar", "Aqeua", "Stahr", "Opti"]
