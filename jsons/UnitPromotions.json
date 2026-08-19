@@ -8,6 +8,7 @@
   {
     "name:" "Devoted Protector I",
     "uniques": [
-    ]
+      "[+15]% Strength <in [Friendly Land] tiles>",
+      "[-10]% Strength <on foreign continents>"]
   }
 ]
