@@ -10,5 +10,12 @@
     "uniques": [
       "[+15]% Strength <in [Friendly Land] tiles>",
       "[-10]% Strength <on foreign continents>"]
+  },
+  {
+    "name:" "Devoted Protector II",
+    "uniques": [
+      "[+15]% Strength <in [Friendly Land] tiles>",
+      "[-5]% Strength <on foreign continents>",
+      "[+1] Movement <in [Friendly Land] tiles>"]
   }
 ]
