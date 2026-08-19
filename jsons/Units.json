@@ -53,7 +53,7 @@
       "Automation is a primary action"]
   },
   {
-    //Based on the macula which is used to provide the brain a clear image of what is in front of it
+    //Based on the vitreous humor which is a clear, jelly-like fluid in the eye for keeps the shape of the eye and helps with impacts
     "name": "Vitrea",
     "unitType": "Melee Water",
     "uniqueTo": "Viewers of Beyond",
