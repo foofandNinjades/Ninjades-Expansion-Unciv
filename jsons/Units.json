@@ -1,6 +1,9 @@
 [
   {
     "name": "Cornae",
-    "unitType":
+    "unitType": "Civilian",
+    "uniqueTo": "Viewers Of Beyond",
+    "replaces": "Worker",
+    "movement": 2,
   }
 ]
