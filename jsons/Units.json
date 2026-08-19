@@ -49,5 +49,19 @@
       "[+50]% Strength <vs cities> <when attacking>",
       "Can see over obstacles",
       "Automation is a primary action"]
+  },
+  {
+    //Based on the macula which is used to provide the brain a clear image of what is in front of it
+    "name": "Vitrea",
+    "unitType": "Melee Water",
+    "uniqueTo": "Viewers of Beyond",
+    "requiredTech": "Nuclear Fission",
+    "movement": 12,
+    "cost": 1750
+    "maintenance": 15,
+    "strength": 50,
+    "uniques": ["[+50]% Strength <when defending>",
+      "Limited to [2] per Civilization", 
+      "[+50]% Strength <vs cities> <when defending"]
   }
 ]
