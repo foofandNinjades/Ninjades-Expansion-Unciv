@@ -10,7 +10,7 @@
     "uniques": [
       "[+15]% Strength <in [Friendly Land] tiles>",
       "[-10]% Strength <on foreign continents>"]
-      "row": 2
+      "row": 1
       "column": 0
   },
   {
@@ -19,7 +19,7 @@
       "[+15]% Strength <in [Friendly Land] tiles>",
       "[-5]% Strength <on foreign continents>",
       "[+1] Movement <in [Friendly Land] tiles>"]
-      "row": 1
+      "row": 2
       "column": 0
   }
 ]
