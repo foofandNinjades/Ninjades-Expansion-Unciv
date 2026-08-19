@@ -8,6 +8,6 @@
     "happiness": 1,
     "science": 2,
     "production": 6,
-    "percentageStatBonus": {"production": 10}
+    "percentStatBonus": {"production": 10}
   }
 ]
