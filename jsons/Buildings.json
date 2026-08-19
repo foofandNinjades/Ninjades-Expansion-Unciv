@@ -1,1 +1,13 @@
-
+[
+  {
+    "name": "Glass Manufactory",
+    "uniqueTo": "Viewers Of Beyond",
+    "replaces": "Factory",
+    "cost": 400,
+    "requiredTech": "Industrialization",
+    "happiness": 1,
+    "science": 2,
+    "production": 6,
+    "percentageStatBonus": {"production": 10}
+  }
+]
