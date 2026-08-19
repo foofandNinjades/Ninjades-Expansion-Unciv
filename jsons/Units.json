@@ -30,5 +30,15 @@
     "strength": 15,
     "uniques": ["[+30]% Strength <vs [Ranged] units> <when defending>", "[-25]% Strength <on foreign continents>"]
     "promotions": ["Devoted Protector II", "Devoted Protector I"]
+  },
+  {
+    "name": "Maclulaus"
+    "unitType": "Helicopter"
+    "uniqueTo": "Viewers of Beyond",
+    "replaces": "Atomic Bomb",
+    "movement": 8,
+    "cost": 1200
+    "strength": 120,
+    "uniques": "[+1000]% <vs [City-States]", "Limited to [3] per civilization"]
   }
 ]
