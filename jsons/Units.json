@@ -33,6 +33,7 @@
     "promotions": ["Devoted Protector II", "Devoted Protector I"]
   },
   {
+    //Based on the macula which is used to provide the brain a clear image of what is in front of it
     "name": "Maclulaus"
     "unitType": "Helicopter"
     "uniqueTo": "Viewers of Beyond",
