@@ -34,13 +34,14 @@
   },
   {
     //Based on the macula which is used to provide the brain a clear image of what is in front of it
-    "name": "Maculaus"
-    "unitType": "Helicopter"
+    "name": "Maculaus",
+    "unitType": "Helicopter",
     "uniqueTo": "Viewers of Beyond",
     "replaces": "Atomic Bomb",
+    "requiredTech": "Nuclear Fission",
     "movement": 8,
-    "cost": 1500
-    "maintenance": 10,
+    "cost": 2500
+    "maintenance": 15,
     "strength": 150,
     "uniques": ["[+999]% Strength <vs [City-States]>", 
       "[+999]% Strength <vs [Barbarians]>",
