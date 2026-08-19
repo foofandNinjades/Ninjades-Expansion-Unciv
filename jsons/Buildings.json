@@ -8,7 +8,7 @@
     "happiness": 1,
     "science": 2,
     "production": 6,
-    "maintenance": 4,
+    "maintenance": 5,
     "percentStatBonus": {"production": 10, "science": 10}
     "greatPersonPoints": {"Great Scientist": 3}
   }
