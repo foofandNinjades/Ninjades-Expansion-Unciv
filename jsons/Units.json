@@ -5,5 +5,7 @@
     "uniqueTo": "Viewers Of Beyond",
     "replaces": "Worker",
     "movement": 2,
+    "cost": 70,
+    "promotions: 
   }
 ]
