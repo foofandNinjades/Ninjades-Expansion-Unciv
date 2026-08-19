@@ -15,7 +15,8 @@
     "uniqueTo": "Viewers of Beyond",
     "replaces": "Warrior",
     "movement": 2,
-    "strength": 7,
+    "cost": 35,
+    "strength": 6,
     "upgradesTo": "Dark Guardsman",
     "promotions": ["Devoted Protector I"]
   },
@@ -25,8 +26,9 @@
     "uniqueTo": "Viewers of Beyond",
     "replaces": "Swordsman",
     "movement": 2,
+    "cost": 70,
     "strength": 15,
     "uniques": ["[+30]% Strength <vs [Ranged] units> <when defending>", "[-25]% Strength <on foreign continents>"]
-    "promotions": ["Devoted Protector I", "Devoted Protector II"]
+    "promotions": ["Devoted Protector II", "Devoted Protector I"]
   }
 ]
