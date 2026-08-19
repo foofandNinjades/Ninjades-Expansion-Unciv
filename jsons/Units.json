@@ -1,6 +1,7 @@
 [
   // Civilian units \\
-  //Viewers of Beyond
+  
+  // Viewers of Beyond
   {
     "name": "Cornae",
     "unitType": "Civilian",
@@ -14,10 +15,11 @@
 
     
   },
-  //Military Units
+  // Military Units \\
+  
   // Viewers of Beyond
   {
-    // Based on the Iris, which controls how light enters the eye by controlling the pupil
+    //Based on the Iris, which controls how light enters the eye by controlling the pupil
     "name": "Irae",
     "unitType": "Sword",
     "uniqueTo": "Viewers of Beyond",
