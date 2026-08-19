@@ -9,8 +9,7 @@
     "science": 2,
     "production": 6,
     "maintenance": 4,
-    "percentStatBonus": {"production": 10}
+    "percentStatBonus": {"production": 10, "science": 10}
     "greatPersonPoints": {"Great Scientist": 3}
-    "quote": "Sand, no matter how impure, is still sand. -The Seer"
   }
 ]
