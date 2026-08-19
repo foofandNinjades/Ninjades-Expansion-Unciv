@@ -2,7 +2,7 @@
   {
     "name": "Cornae",
     "unitType": "Civilian",
-    "uniqueTo": "Viewers Of Beyond",
+    "uniqueTo": "Viewers of Beyond",
     "replaces": "Worker",
     "movement": 2,
     "cost": 85
