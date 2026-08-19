@@ -6,6 +6,9 @@
     "replaces": "Worker",
     "movement": 2,
     "cost": 85
+    "uniques": ["Can build [Land] improvements on tiles",
+    "Automation is a primary action",
+    "[-10]% construction time for [All] improvements"]
 
     
   },
