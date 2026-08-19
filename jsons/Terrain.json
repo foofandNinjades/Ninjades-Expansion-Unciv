@@ -2,7 +2,9 @@
   {
     "name": "Darkness",
     "type": "Land",
+    "movmentCost": 1,
     "defenceBonus": -0.15,
+    "RGB": [0,0,0]
     "uniques": ["Doesn't generate naturally"]
   }
 ]
