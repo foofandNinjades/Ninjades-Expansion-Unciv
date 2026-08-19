@@ -9,5 +9,6 @@
     "science": 2,
     "production": 6,
     "percentStatBonus": {"production": 10}
+    "greatPersonPoints": {"Great Scientist": 3}
   }
 ]
