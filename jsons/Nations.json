@@ -3,7 +3,7 @@
     "name": "Viewers of Beyond",
     "uniques": [
     "[All] units gain the [Truth Seeking] promotion",
-    "[+10]% [Science]"]
+    "[+10]% [Science] [in all cities]"]
     "cities": ["Viewpoint", "Cornar", "Aqeua", "Stahr", "Opti"]
     "spyNames": ["Foreseen", "Clairvoyant", "Theas", "Witness", "Axeus"]
   }
