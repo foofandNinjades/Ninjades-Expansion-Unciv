@@ -41,6 +41,6 @@
     "movement": 8,
     "cost": 1200
     "strength": 120,
-    "uniques": ["[+1000]% Strength <vs City-States>", "Limited to [3] per civilization"]
+    "uniques": ["[+1000]% Strength <vs [City-States]>", "Limited to [3] per civilization"]
   }
 ]
