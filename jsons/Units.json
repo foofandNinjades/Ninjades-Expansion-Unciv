@@ -10,6 +10,7 @@
     
   },
   {
+    // Based on the Iris, which controls how light enters the eye by controling the pupil
     "name": "Irae",
     "unitType": "Sword",
     "uniqueTo": "Viewers of Beyond",
