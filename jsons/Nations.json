@@ -5,6 +5,6 @@
     "[All] units gain the [Truth Seeking] promotion",
     "[+10]% [Science]"]
     "cities": ["Viewpoint", "Cornar", "Aqeua", "Stahr", "Opti"]
-    "spyNames": [
+    "spyNames": ["Foreseen", "Clairvoyant", "Theas", "Witness", "Axeus"]
   }
 ]
