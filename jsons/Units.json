@@ -13,10 +13,20 @@
     "name": "Iria",
     "unitType": "Sword",
     "uniqueTo": "Viewers of Beyond",
-    "replaces": "Warrier",
+    "replaces": "Warrior",
     "movement": 2,
     "strength": 7,
     "upgradesTo": "Dark Guardsman",
-    "promotions": ["Devoted Protection"]
+    "promotions": ["Devoted Protector"]
+  },
+  {
+    "name": "Dark Guardsman",
+    "unitType": "Sword",
+    "uniqueTo": "Viewers of Beyond",
+    "replaces": "Swordsman",
+    "movement": 2,
+    "strength": 14,
+    "uniques": ["[+30]% Strength <vs [Ranged] units> <when defending>", "[-25]% Strength <on foreign continents>"]
+    "promotions": ["Devoted Protector", "Devoted Protector II"]
   }
 ]
