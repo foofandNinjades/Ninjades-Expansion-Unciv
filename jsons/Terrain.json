@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Darkness",
+    "type": "Land",
+    "defenceBonus": -.15,
+    "uniques": ["Doesn't generate naturally"]
+  }
+]
