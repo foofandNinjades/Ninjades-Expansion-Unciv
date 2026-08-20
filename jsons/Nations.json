@@ -31,7 +31,7 @@
     "name": "Blood Born",
     "uniques": [
 		"[{All} {Melee} {Military}] units gain the [Bloodrage] promotion",
-		"[-6] HP when healing <for [{All} {military units}]>",
+		"[-6] HP when healing <for [{All} {military units}] Civilizations>",
 		"[-25]% Strength <for [{All} {Ranged} {Military}] units>",
 		"No damage penalty for wounded units",
 		"Rebel units may spawn <every [75] turns> <starting from the [Classical era]> <when not at war>",
