@@ -1,6 +1,6 @@
 [
   // Viewers of Beyond
-  
+  {
     "name": "Glass Workshop",
     "uniqueTo": "Viewers of Beyond",
     "replaces": "Workshop",
