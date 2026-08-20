@@ -4,9 +4,9 @@
   {
     "name": "Blood",
     "resourceType": "Strategic",
-    "faith": 1,
     "uniques": [
-      "Cannot be traded"
+      "Cannot be traded",
+      "[+5] faith [in this city] <when religion is enabled>"
     ]
   }
 ]
