@@ -36,16 +36,10 @@
       "Earn [50]% of killed [Wounded] unit's [Strength] as [Faith]"
       ] 
     "outerColor": [20,20,20],
-    "innerColor": [150,0,0]
-    "cities": ["Red Place"]
+    "innerColor": [150,0,0],
+    "cities": ["Red Place"],
     "civilopediaText": [
-			{"text": "Almuria was an empire that controlled Manas Island, Shangri-La, and parts of Pangea, from Kumari Kandam to Mamuju, excluding Akhetutan, Sabata, and Noenna. It was founded on Manas Island in the town of Lemuria by the Almurian tribal leader Ishana. After five years of establishment, Almuria crossed into Pangea and, with the conquest of Erum and the annexation of Shangri-La along the way, Almuria was transformed into an empire. Almuria ended the Eldariya Empire with the conquest of Phaeron's Seat during the Fourth Mudariya War by Vieya the Conqueror."},
-			{"text": "Under the reign of Fala Vieya, Almuria marked the peak of its power and prosperity. After moving the imperial capital to Avalonia, Almuria released Akhetutan, Sabata, and Noenna in exchange of the Tridstone. In collaboration with the Sodites, Almuria developed a series of new technologies centered upon the discovery of an inexhaustible source of energy. This energy was genertaed by extracting litle by litle energy from Tridstone using the Aurelionate Device. During a test of the device, a massive energy pulse violently radiated outward and destroyed Almuria, causing it to sink into the sea and trigger the world's disaster. The energy pulse affected the survivors biologically, causing them to gain the ability to breathe underwater and the superhuman strength needed to survive in the deep ocean."},
-			{"separator": true},
-			{"text": "Almuria is a merfolk civilization, led by Vieya. Merfolk can live either on Land or in Water, but they can't tolerate scorching sun."},
-			{"text": "Tips to play:"},
-			{"text": "Fight alongside Coast or fresh water since it'll make Almuria units stronger."},
-			{"text": "Search Megall as much as possible"}
+			{"text": "Blood, blud, bloody blud blood"},
 	]
 	}
 ]
