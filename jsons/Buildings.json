@@ -32,8 +32,8 @@
     "percentStatBonus": {"production": 10, "science": 10}
     "greatPersonPoints": {"Great Scientist": 4}
     "uniques": [
-      "[+4 Science] from [Coast] tiles",
-      "[+4 Science] <in tiles adjacent to [Coast] tiles>",
-      "[+6 Science] from [Desert] tiles"]
+      "[+2 Science] from [Coast] tiles",
+      "[+2 Science] <in tiles adjacent to [Coast] tiles>",
+      "[+5 Science] from [Desert] tiles"]
   }
 ]
