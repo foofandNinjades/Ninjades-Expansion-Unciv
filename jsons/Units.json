@@ -20,7 +20,9 @@
     "replaces": "Great Scientist",
     "movement": 3,
     "uniques": [
-      "Comment [''Nothing will stop their visionary prowess''\n]",
+      "civiliopediaText": [
+      {"text": "''Nothing will stop their visionary prowess''"}
+      {"separator": true}],
       "Unbuildable", 
       "[+5] Sight <in [Hill] tiles>",
       "Can see over obstacles",
@@ -29,7 +31,8 @@
       "Automation is a primary action",
       "Can instantly construct a [Customs house] improvement <by consuming this unit> <after adopting [Mercantilism]> <if it hasn't used other actions yet>",
       "Great Person - [Science]", 
-      "Limited to [2] per Civilization"]
+      "Limited to [2] per Civilization"
+    ]
   },
   // Military Units \\
   
