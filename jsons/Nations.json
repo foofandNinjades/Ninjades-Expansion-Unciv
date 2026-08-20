@@ -14,7 +14,7 @@
       "Starts with [Rationalism] adopted"],
     "outerColor": [0, 0, 0],
     "innerColor": [115, 50, 115],
-    "cities": ["Viewpoint", "Cornar", "Aqeua", "Stahr", "Opti", "Sight Stroll"],
+    "cities": ["Viewpoint", "Cornar", "Aqeua", "Stahre", "Opti", "Sight Stroll"],
     "spyNames": ["Foreseen", "Clairvoyant", "Theas", "Witness", "Axeus", "Watcher", "Seen", "Tri-eye", "Obser"],
     "civilopediaText": [
 		{"text": "The First Seers were an incredibly ancient group of scientist that guided a majority of civilization long ago to where it is now. Upon every full moon, The First Seers wrote nearly inelligible text and did well to preserve their scribbles. Now, the scientist realize these scribbles were some sort of language, a language that they somehow 'felt'."},
@@ -31,8 +31,8 @@
     "name": "Blood Born",
     "uniques": [
 		"[{All} {Melee} {Military}] units gain the [Bloodrage] promotion",
-		"[{All} {military units}] [-6] HP when healing",
-		"[{All} {Ranged} {military units}] [-25%]% Strength",
+		"[{All} {Military}] [-6] HP when healing",
+		"[{All} {Ranged} {Military}] [-25%]% Strength",
 		"Rebel units may spawn <every [75] turns> <starting from the [Classical era]> <when not at war>",
 		"[+15]% [Production] [in all cities] <when at war>",
 		"Earn [50]% of killed [Wounded] unit's [Strength] as [Faith]",
