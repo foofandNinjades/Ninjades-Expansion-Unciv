@@ -61,7 +61,7 @@
   {
     //Based on the macula which is used to provide the brain a clear image of what is in front of it
     "name": "Maculaus",
-    "unitType": [{"Melee"}, {"Beyonder"}],
+    "unitType": [{"Melee"} {"Beyonder"}],
     "uniqueTo": "Viewers of Beyond",
     "replaces": "Atomic Bomb",
     "requiredTech": "Nuclear Fission",
