@@ -24,7 +24,8 @@
       "Can instantly construct a [Settlement] improvement <once> <after which this unit is consumed>",
       "Automation is a primary action",
       "Can instantly construct a [Customs house] <by consuming this unit> <after adopting [Commerce]>",
-      "Great Person - [Science]"]
+      "Great Person - [Science]", 
+      "Limited to [2] per Civilization"]
   },
   // Military Units \\
   
