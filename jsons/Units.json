@@ -21,7 +21,7 @@
     "movement": 2,
     "uniques": ["Unbuildable", 
       "Can instantly construct a [Academy] improvement <by consuming this unit> <if it hasn't used other actions yet>",
-      "Can instantly construct a [Settlement] improvement <once> <after which this unit is consumed>",
+      "Can instantly construct a [Trading post] improvement <once> <after which this unit is consumed>",
       "Automation is a primary action",
       "Can instantly construct a [Customs house] <by consuming this unit> <after adopting [Commerce]>",
       "Great Person - [Science]", 
