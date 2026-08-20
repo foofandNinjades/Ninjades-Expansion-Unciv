@@ -6,7 +6,7 @@
     "resourceType": "Strategic",
     "uniques": [
       "Cannot be traded",
-      "[+5] faith [in this city] <when religion is enabled>"
+      "[+1] faith [in this city] <when religion is enabled>"
     ]
   }
 ]
