@@ -1,0 +1,12 @@
+
+[
+  // Strategic Resources \\
+  {
+    "name": "Blood",
+    "resourceType": "Strategic",
+    "faith": 1,
+    "uniques": [
+      "Cannot be traded"
+    ]
+  }
+]
