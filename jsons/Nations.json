@@ -15,7 +15,7 @@
     "innerColor": [115, 50, 115],
     "cities": ["Viewpoint", "Cornar", "Aqeua", "Stahr", "Opti", "Sight Walk"],
     "spyNames": ["Foreseen", "Clairvoyant", "Theas", "Witness", "Axeus", "Watcher", "Seen"],
-    "civiliopediaText": [
+    "civilopediaText": [
       {"text": "They look towards the sky, using glass to search for the entities high up in space. All of them looks up."},
       {"text": "Their stares have attracted the attention of... something... many somethings."},
       {"separator": true},
