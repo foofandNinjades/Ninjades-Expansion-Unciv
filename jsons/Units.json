@@ -20,7 +20,7 @@
     "replaces": "Great Scientist",
     "movement": 3,
     "civiliopediaText": [
-      {"text": "''Nothing will stop their visionary prowess''"}
+      {"text": "''Nothing will stop their visionary prowess''"},
       {"separator": true}],
     "uniques": [
       "Unbuildable", 
