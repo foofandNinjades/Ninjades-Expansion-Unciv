@@ -15,7 +15,17 @@
     "innerColor": [115, 50, 115],
     "cities": ["Viewpoint", "Cornar", "Aqeua", "Stahr", "Opti", "Sight Walk"],
     "spyNames": ["Foreseen", "Clairvoyant", "Theas", "Witness", "Axeus", "Watcher", "Seen"]
+  
+    "civiliopediaText": [
+      {"text": "They look towards the sky, searching for the wisps high up in space. Everyone looks up."},
+      {"text": "Their stares have attracted the attention of... something... many somethings."},
+      {"separator": true}
+      {"text": "Tips to Play:"}
+      {"text": "Early game, expand towards desert and coast tiles and focus on staying ahead in tech. After the Renaissance era, ensure to put spies in your high science yielding territory (to protect your own science),"} 
+      {"text": "or keep spies in enemy territory to boost your own science yeild."}
+      
   },
+  
   {
     "name": "Blood Born",
     "uniques": [
