@@ -11,10 +11,19 @@
     "cost": 85
     "uniques": ["Can build [Land] improvements on tiles",
     "Automation is a primary action",
-    "[-10]% construction time for [All] improvements"]
-
-    
+    "[-10]% construction time for [All] improvements"]  
   },
+  {
+    "name": "The Seer",
+    "unitType": "Civilian",
+    "uniqueTo": "Viewers of Beyond",
+    "replaces": "Great Scientist",
+    "movement": 2,
+    "uniques": ["Unbuildable", 
+      "Can instantly construct a [Academy] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+      "Can instantly construct a [Settlement] improvement <once> <after which this unit is consumed>",
+      "Automation is a primary action",
+      "Can instantly construct a [Customs House]"]
   // Military Units \\
   
   // Viewers of Beyond
