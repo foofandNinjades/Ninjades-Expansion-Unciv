@@ -10,10 +10,10 @@
       "Gain an extra spy <upon entering the Renaissance era>",
       "[+10]% enemy spy effectiveness [in all cities] <starting from the [Industrial era]>",
       "[+25]% [Culture] [in all cities] <for [50] turns> <starting from the [Renaissance era]>",
-      "Starts with [Rationalism] adopted"]
-    "outerColor": [0, 0, 0]
-    "innerColor": [115, 50, 115]
-    "cities": ["Viewpoint", "Cornar", "Aqeua", "Stahr", "Opti"]
+      "Starts with [Rationalism] adopted"],
+    "outerColor": [0, 0, 0],
+    "innerColor": [115, 50, 115],
+    "cities": ["Viewpoint", "Cornar", "Aqeua", "Stahr", "Opti", "Sight Walk"],
     "spyNames": ["Foreseen", "Clairvoyant", "Theas", "Witness", "Axeus", "Watcher", "Seen"]
   },
   {
@@ -21,7 +21,10 @@
     "uniques": [
       "[All] [Military] units gains the [Bloodrage] promotion",
       "[All] [military units] [-5] HP when healing",
-      "Rebel units may spawn <every [100] turns> <starting from the [Classical era]> <when not at war>"
-      
+      "Rebel units may spawn <every [100] turns> <starting from the [Classical era]> <when not at war>"],
+    "outerColor": [0,0,0],
+    "innerColor": [150,0,0]
+    "cities": ["Red Place"]
+    }
   }
 ]
