@@ -9,7 +9,7 @@
     "name": "Devoted Protector I",
     "uniques": [
       "[+15]% Strength <in [Friendly Land] tiles>",
-      "[-10]% Strength <in [Enemy Land]> tiles"]
+      "[-10]% Strength <in [Enemy Land] tiles>"]
       "row": 11
       "column": 0
   },
@@ -17,7 +17,7 @@
     "name": "Devoted Protector II",
     "uniques": [
       "[+15]% Strength <in [Friendly Land] tiles>",
-      "[-5]% Strength <in [Enemy Land] tiles>",
+      "[-15]% Strength <in [Enemy Land] tiles>",
       "[+1] Movement <in [Friendly Land] tiles>"]
       "row": 11
       "column": 1
