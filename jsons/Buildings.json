@@ -22,6 +22,7 @@
     "name": "Glass Manufactory",
     "uniqueTo": "Viewers of Beyond",
     "replaces": "Factory",
+    "requiredBuilding": "Glass Workshop",
     "cost": 400,
     "requiredTech": "Industrialization",
     "happiness": 2,
