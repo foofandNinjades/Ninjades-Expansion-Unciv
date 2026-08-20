@@ -14,9 +14,9 @@
     "specialistSlots": {"Scientist" : 1}
     "greatPersonPoints": {"Great Scientist": 1}
     "uniques": [
-      "[+3 Science] from [Coast]",
+      "[+3 Science] from [Coast] tiles",
       "[+3 Science] <in tiles adjacent to [Coast] tiles>",
-      "[+1 Science] from [Desert]"]
+      "[+1 Science] from [Desert] tiles"]
   },
   {
     "name": "Glass Manufactory",
@@ -31,5 +31,9 @@
     "maintenance": 5,
     "percentStatBonus": {"production": 10, "science": 10}
     "greatPersonPoints": {"Great Scientist": 4}
+    "uniques": [
+      "[+4 Science] from [Coast] tiles",
+      "[+4 Science] <in tiles adjacent to [Coast] tiles>",
+      "[+6 Science] from [Desert] tiles"]
   }
 ]
