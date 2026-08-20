@@ -23,7 +23,7 @@
       "[{All} {military units}] [-6] HP when healing",
       "Rebel units may spawn <every [100] turns> <starting from the [Classical era]> <when not at war>",
       "[+15]% [Production] [in all cities] <when at war>",
-      "Earn [100]% of killed [Wounded] unit's [Strength] as [Blood]"
+      "Earn [50]% of killed [Wounded] unit's [Strength] as [Faith]"
       ] 
     "outerColor": [20,20,20],
     "innerColor": [150,0,0]
