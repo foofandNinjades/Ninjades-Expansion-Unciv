@@ -27,7 +27,7 @@
   {
     "name": "Bloodrage",
     "uniques": [
-      "[+50]% Strength <when attacking> <when below [40]% HP>",
-      "[-50]% Strength <when defending> <when below [40]% HP>"]
+      "[+50]% Strength <when attacking> <when below [50] HP>",
+      "[-50]% Strength <when defending> <when below [50] HP>"]
   }
 ]
