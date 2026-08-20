@@ -5,6 +5,7 @@
     "uniques": [
     "[All] units gain the [Truth Seeking] promotion",
     "[+10]% [Science] [in all cities]",
+    "[+25]% [Culture] [in all cities] <for [50] turns> <starting from the [Renaissance era]>",
     "Starts with [Rationalism] adopted"]
     "outerColor": [0, 0, 0]
     "innerColor": [115, 50, 115]
