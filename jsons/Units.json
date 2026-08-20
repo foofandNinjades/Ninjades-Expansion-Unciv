@@ -42,7 +42,7 @@
     "promotions": ["Devoted Protector I"]
   },
   {
-    "name": "Dark Guardsman",
+    "name": "Guardsman",
     "unitType": "Sword",
     "uniqueTo": "Viewers of Beyond",
     "replaces": "Swordsman",
