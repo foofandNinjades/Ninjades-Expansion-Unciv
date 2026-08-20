@@ -20,14 +20,14 @@
     "replaces": "Great Scientist",
     "movement": 3,
     "uniques": [
-      "Comment [''Nothing stop their visionary prowess'']",
+      "Comment [''Nothing will stop their visionary prowess'']",
       "Unbuildable", 
       "[+5] Sight <in [Hill] tiles>",
       "Can see over obstacles",
       "Can instantly construct a [Academy] improvement <by consuming this unit> <if it hasn't used other actions yet>",
       "Can instantly construct a [Trading post] improvement <[2] times> <after which this unit is consumed>",
       "Automation is a primary action",
-      "Can instantly construct a [Customs house] <by consuming this unit> <after adopting [Commerce]>",
+      "Can instantly construct a [Customs house] <by consuming this unit> <after adopting [Mercantalism]>",
       "Great Person - [Science]", 
       "Limited to [2] per Civilization"]
   },
