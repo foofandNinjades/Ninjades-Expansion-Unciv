@@ -20,7 +20,7 @@
     "replaces": "Great Scientist",
     "movement": 3,
     "uniques": [
-      "Comment [''Nothing will stop their visionary prowess'']",
+      "Comment [''Nothing will stop their visionary prowess''\n]",
       "Unbuildable", 
       "[+5] Sight <in [Hill] tiles>",
       "Can see over obstacles",
