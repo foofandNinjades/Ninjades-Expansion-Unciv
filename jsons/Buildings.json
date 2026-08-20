@@ -1,15 +1,30 @@
 [
+  // Viewers of Beyond
+  
+    "name": "Glass Workshop",
+    "uniqueTo": "Viewers of Beyond",
+    "replaces": "Workshop",
+    "cost": 120,
+    "requiredTech": "Metal Casting",
+    "happiness": 1,
+    "science": 1,
+    "production": 2,
+    "maintenance": 3,
+    "percentStatBonus": {"science": 10}
+    "specialistSlots": {"Scientist" : 1}
+    "greatPersonPoints": {"Great Scientist": 1}
+  },
   {
     "name": "Glass Manufactory",
     "uniqueTo": "Viewers of Beyond",
     "replaces": "Factory",
     "cost": 400,
     "requiredTech": "Industrialization",
-    "happiness": 1,
+    "happiness": 2,
     "science": 2,
     "production": 6,
     "maintenance": 5,
     "percentStatBonus": {"production": 10, "science": 10}
-    "greatPersonPoints": {"Great Scientist": 3}
+    "greatPersonPoints": {"Great Scientist": 4}
   }
 ]
