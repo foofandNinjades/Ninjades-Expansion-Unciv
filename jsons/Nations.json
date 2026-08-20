@@ -29,15 +29,17 @@
   {
     "name": "Blood Born",
     "uniques": [
-      "[{All} {Melee} {Military}] units gain the [Bloodrage] promotion",
-      "[{All} {military units}] [-6] HP when healing",
-      "Rebel units may spawn <every [100] turns> <starting from the [Classical era]> <when not at war>",
-      "[+15]% [Production] [in all cities] <when at war>",
-      "Earn [50]% of killed [Wounded] unit's [Strength] as [Faith]"
+		"[{All} {Melee} {Military}] units gain the [Bloodrage] promotion",
+		"[{All} {military units}] [-6] HP when healing",
+		"[{All} {Ranged} {military units}] [-25%]% Strength"],
+		"Rebel units may spawn <every [75] turns> <starting from the [Classical era]> <when not at war>",
+		"[+15]% [Production] [in all cities] <when at war>",
+		"Earn [50]% of killed [Wounded] unit's [Strength] as [Faith]",
+		"Earn [10]% of the damage done to [Wounded] units as [Faith]"
       ] 
     "outerColor": [20,20,20],
     "innerColor": [150,0,0],
-    "cities": ["Red Place"],
+    "cities": ["Red Central", "Red Place"],
     "civilopediaText": [
 			{"text": "Blood, blud, bloody blud blood"},
 	]
