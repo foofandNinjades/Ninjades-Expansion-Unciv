@@ -2,6 +2,9 @@
   {
     "name": "Beyonders"
     "movementType": "Land"
-    "uniques": "[+1]% Strength <for every 40 Science> in all cities"
+    "uniques": [
+      "Can see over obstacles",
+      "[+1]% Strength <for every 40 Science> in all cities"
+    ]
   }
 ]
