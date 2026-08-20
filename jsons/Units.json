@@ -39,7 +39,7 @@
     "movement": 2,
     "cost": 35,
     "strength": 6,
-    "upgradesTo": "Dark Guardsman",
+    "upgradesTo": "Guardsman",
     "promotions": ["Devoted Protector I"]
   },
   {
