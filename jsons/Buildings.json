@@ -15,7 +15,7 @@
     "greatPersonPoints": {"Great Scientist": 1}
     "uniques": [
       "[+3 Science] from [Coast]",
-      "[+3 Science] <in tiles adjacent to [Coast]>",
+      "[+3 Science] <in tiles adjacent to [Coast] tiles>",
       "[+1 Science] from [Desert]"]
   },
   {
