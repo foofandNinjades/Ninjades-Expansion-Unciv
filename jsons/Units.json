@@ -19,10 +19,10 @@
     "uniqueTo": "Viewers of Beyond",
     "replaces": "Great Scientist",
     "movement": 3,
-    "uniques": [
-      "civiliopediaText": [
+    "civiliopediaText": [
       {"text": "''Nothing will stop their visionary prowess''"}
       {"separator": true}],
+    "uniques": [
       "Unbuildable", 
       "[+5] Sight <in [Hill] tiles>",
       "Can see over obstacles",
