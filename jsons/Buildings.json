@@ -13,6 +13,7 @@
     "percentStatBonus": {"science": 10}
     "specialistSlots": {"Scientist" : 1}
     "greatPersonPoints": {"Great Scientist": 1}
+    "uniques": ["[+2 Science] from [Coast]",
   },
   {
     "name": "Glass Manufactory",
