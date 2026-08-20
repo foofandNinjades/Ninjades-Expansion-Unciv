@@ -20,8 +20,10 @@
     "name": "Blood Born",
     "uniques": [
       "[{All} {Military}] units gain the [Bloodrage] promotion",
-      "[All] [military units] [-5] HP when healing",
-      "Rebel units may spawn <every [100] turns> <starting from the [Classical era]> <when not at war>"],
+      "[{All} {military units}] [-6] HP when healing",
+      "Rebel units may spawn <every [100] turns> <starting from the [Classical era]> <when not at war>",
+      "[+15]% [Production] [in all cities] <when at war>"
+      ] 
     "outerColor": [0,0,0],
     "innerColor": [150,0,0]
     "cities": ["Red Place"]
