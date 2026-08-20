@@ -3,13 +3,17 @@
     "name": "Viewers of Beyond",
     "startBias": ["Desert"],
     "uniques": [
-    "[All] units gain the [Truth Seeking] promotion",
-    "[+10]% [Science] [in all cities]",
-    "[+25]% [Culture] [in all cities] <for [50] turns> <starting from the [Renaissance era]>",
-    "Starts with [Rationalism] adopted"]
+      "[All] units gain the [Truth Seeking] promotion",
+      "[+10]% [Science] [in all cities]",
+      "[+20]% [Science] [in all cities] <for [25] turns> starting from the [Renaissance era]",
+      "[+15]% spy effectiveness [in enemy cities] <for [40] turns> starting from the [Renaissance era]",
+      "Gain an extra spy <starting from the [Renaissance era]",
+      "Gain an extra spy <starting from the [Renaissance Era]",
+      "[+25]% [Culture] [in all cities] <for [50] turns> <starting from the [Renaissance era]>",
+      "Starts with [Rationalism] adopted"]
     "outerColor": [0, 0, 0]
     "innerColor": [115, 50, 115]
     "cities": ["Viewpoint", "Cornar", "Aqeua", "Stahr", "Opti"]
-    "spyNames": ["Foreseen", "Clairvoyant", "Theas", "Witness", "Axeus"]
+    "spyNames": ["Foreseen", "Clairvoyant", "Theas", "Witness", "Axeus", "Watcher", "Seen"]
   }
 ]
