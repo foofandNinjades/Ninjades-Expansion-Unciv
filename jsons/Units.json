@@ -19,9 +19,6 @@
     "uniqueTo": "Viewers of Beyond",
     "replaces": "Great Scientist",
     "movement": 3,
-    "civiliopediaText": [
-      {"text": "''Nothing will stop their visionary prowess''"},
-      {"separator": true}],
     "uniques": [
       "Unbuildable", 
       "[+5] Sight <in [Hill] tiles>",
@@ -32,7 +29,10 @@
       "Can instantly construct a [Customs house] improvement <by consuming this unit> <after adopting [Mercantilism]> <if it hasn't used other actions yet>",
       "Great Person - [Science]", 
       "Limited to [2] per Civilization"
-    ]
+    ],
+    "civiliopediaText": [
+      {"text": "''Nothing will stop their visionary prowess''"},
+      {"separator": true}]
   },
   // Military Units \\
   
