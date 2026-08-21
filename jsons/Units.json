@@ -131,8 +131,7 @@
       "[This Unit] takes [3] damage <every [1 turns]> <when above [40] HP>",
       "[+33]% Strength <vs cities> <when attacking>",
       "[-15]% Strength <vs [Ranged]> <when defending>",
-      "All tiles cost 1 movement",
-      "Cannot Embark"
+      "All tiles cost 1 movement"
     ]
   },
   {
