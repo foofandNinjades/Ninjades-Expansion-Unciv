@@ -44,7 +44,7 @@
     "name": "Blood Rain",
     "uniques": [
       "[+10]% Strength <when attacking>",
-      "[+1] Movement",
+      "[+1] Sight",
       "Earn [25]% of killed [Wounded] unit's [Strength] as [Blood]",
       "[+10] HP when healing"
     ]
