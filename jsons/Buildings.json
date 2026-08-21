@@ -74,9 +74,8 @@
       "Unbuildable",
       "Unsellable",
       "Limited to [3] per Civilization",
-      "[land units] gains the [Blood Rain] status for [20] turn(s)",
-      "Triggers the the following global alert: [The Blood Born have prayed for blood rain]",
-      "Can only be build built <starting from the [Ancient era]>",
+      "All newly-trained [Melee] units [in this city] receive the [Blood Rain] promotion",
+      "Can only be build built <starting from the [Industrial era]>",
       "Shown while unbuildable",
       "Destroyed when the city is captured"
     ]
