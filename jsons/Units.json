@@ -109,10 +109,9 @@
     "upgradesTo": "Giant Hemogoblin"
     "uniques": [
       "Unbuildable",
-      "Can be purchased for [100][Faith][in all ciites]",
-      "[0] Unit Supply",
-      "Heals [25] if it kills a unit",
-      "[This Unit] takes [12] damage <every [1 turns]> <when above [40] HP>",
+      "Can be purchased for [100] [Blood] [in all ciites]",
+      "Heals [25] damage if it kills a unit",
+      "[This Unit] takes [12] damage <every [1] turns> <when above [40] HP>",
       "Can upgrade to [Blood Demon]"
     ]
   },
@@ -127,8 +126,7 @@
     "upgradesTo": "Titanic Hemogoblin"
     "uniques": [
       "Unbuildable",
-      "[0] Unit Supply",
-      "[This Unit] takes [3] damage <every [1 turns]> <when above [40] HP>",
+      "[This Unit] takes [3] damage <every [1] turns> <when above [40] HP>",
       "[+33]% Strength <vs cities> <when attacking>",
       "[-15]% Strength <vs [Ranged]> <when defending>",
       "All tiles cost 1 movement"
@@ -145,9 +143,8 @@
     "upgradesTo": "Blood Tyrant"
     "uniques": [
       "Unbuildable",
-      "[0] Unit Supply",
-      "Heals [55] if it kills a unit",
-      "[This Unit] takes [6] damage <every [1 turns]> <when above [40] HP>",
+      "Heals [55] damage if it kills a unit",
+      "[This Unit] takes [6] damage <every [1] turns> <when above [40] HP>",
       "Consumes [2] [Blood]"
   ]
   }
