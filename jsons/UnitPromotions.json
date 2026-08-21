@@ -16,6 +16,7 @@
   },
   {
     "name": "Devoted Protector II",
+    "prerequisites": ["Devoted Protector"]
     "uniques": [
       "[+15]% Strength <in [Friendly Land] tiles>",
       "[-15]% Strength <in [Enemy Land] tiles>",
@@ -46,25 +47,27 @@
     ]
     "unitTypes": ["Blood Spawn"]
     "row": 1
-    "column": 1
+    "column": 12
   },
   {
     "name": "Scent of Blood II",
+    "prerequisites": ["Scent of Blood I"]
     "uniques": [
       "[+5]% Strength <vs [Wounded] units> <when attacking>"
     ]
     "unitTypes": ["Blood Spawn"]
-    "row": 2
-    "column": 1
+    "row": 1
+    "column": 13
   },
   {
     "name": "Scent of Blood III",
+    "prerequisites": ["Scent of Blood II"]
     "uniques": [
       "[+5] Strength <vs [Wounded] units> <when attacking>",
       "Can see invisible [Wounded] units"
     ]
     "unitTypes": ["Blood Spawn"]
     "row": 3
-    "column": 1
+    "column": 14
   }
 ]
