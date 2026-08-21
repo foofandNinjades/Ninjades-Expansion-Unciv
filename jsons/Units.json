@@ -71,7 +71,7 @@
     "movement": 8,
     "cost": 2500
     "maintenance": 15,
-    "strength": 150,
+    "strength": 115,
     "uniques": ["[+999]% Strength <vs [City-States]>", 
       "[+999]% Strength <vs [Barbarians]>",
       "Limited to [1] per Civilization", 
@@ -109,7 +109,7 @@
     "upgradesTo": "Giant Hemogoblin"
     "uniques": [
       "Unbuildable <for [Human player] Civilizations>",
-      "Can be purchased for [100] [Faith] [in all cities]",
+      "Can be purchased for [100] [Faith] <(modified by game speed)> [in all cities]",
       "Can be purchased <in cities with a [Blood Altar]>",
       "Heals [25] damage if it kills a unit",
       "[This Unit] takes [12] damage <every [1] turns> <when above [40] HP>",
