@@ -2,38 +2,38 @@
   {
     "name": "Seer Followers"
     "production": 7,
-        "food": 4,
-        "gold": 6,
-        "science": 10,
-        "culture": 5,
-        "happiness": 5,
-        "faith": 1,
-        "military": 8,
-        "aggressive": 3,
-        "declareWar": 4,
-        "commerce": 6,
-        "diplomacy": 2,
-        "loyal": 3,
-        "expansion": 5,
+    "food": 4,
+    "gold": 6,
+    "science": 10,
+    "culture": 5,
+    "happiness": 5,
+    "faith": 1,
+    "military": 8,
+    "aggressive": 3,
+    "declareWar": 4,
+    "commerce": 6,
+    "diplomacy": 2,
+    "loyal": 3,
+    "expansion": 5,
         
-        "priorities": {
-            "Tradition": 0,
-            "Feudalism1": 0,
-            "Liberty": 5,
-            "Autocracy": 0,
-            "Freedom": 0,
-            "Order": 0,
+    "priorities": {
+        "Tradition": 0,
+        "Feudalism1": 0,
+        "Liberty": 5,
+        "Autocracy": 0,
+        "Freedom": 0,
+        "Order": 0,
             
-            "Honor": 0,
-            "Piety": 0,
-            "Commerce": 6,
-            "Patronage": 0,
-            "Industrial": 0,
-            "Rationalism": 10
+        "Honor": 0,
+        "Piety": 0,
+        "Commerce": 6,
+        "Patronage": 0,
+        "Industrial": 0,
+        "Rationalism": 10
         }
   },
   {
-  "name": "Bloodied",
+  "name": "Blood Suckers",
   "production": 8,
   "food": 5,
   "gold": 5,
@@ -63,5 +63,39 @@
       "Patronage": 0,
       "Industrial": 0,
       "Rationalism": 0
+  }
+    },
+  {
+  "name": "Gold Lovers",
+  "production": 6,
+  "food": 5,
+  "gold": 10,
+  "science": 5,
+  "culture": 4,
+  "happiness": 6,
+  "faith": 0,
+  "military": 9,
+  "aggressive": 5,
+  "declareWar": 7,
+  "commerce": 2,
+  "diplomacy": 2,
+  "loyal": 8,
+  "expansion": 10,
+        
+  "priorities": {
+      "Tradition": 0,
+      "Feudalism1": 0,
+      "Liberty": 0,
+      "Autocracy": 8,
+      "Freedom": 0,
+      "Order": 0,
+            
+      "Honor": 8,
+      "Piety": 0,
+      "Commerce": 10,
+      "Patronage": 0,
+      "Industrial": 0,
+      "Rationalism": 0
+  }
     }
 ]
