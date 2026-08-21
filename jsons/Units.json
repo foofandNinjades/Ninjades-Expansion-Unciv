@@ -107,6 +107,7 @@
   "cost": 100
   "maintenance": 0
   "strength": 10
+  "upgradesTo": "Giant Hemogoblin"
   "uniques": [
     "Unbuildable",
     "Can be purchased for [100][Faith][in all ciites]",
