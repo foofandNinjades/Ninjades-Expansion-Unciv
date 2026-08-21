@@ -129,7 +129,8 @@
       "[This Unit] takes [3] damage <every [1] turns> <when above [40] HP>",
       "[+33]% Strength <vs cities> <when attacking>",
       "[-15]% Strength <vs [Ranged]> <when defending>",
-      "All tiles cost 1 movement"
+      "All tiles cost 1 movement",
+      "Consumes [5] [Blood]"
     ]
   },
   {
@@ -145,7 +146,23 @@
       "Unbuildable",
       "Heals [55] damage if it kills a unit",
       "[This Unit] takes [6] damage <every [1] turns> <when above [40] HP>",
-      "Consumes [2] [Blood]"
-  ]
+      "Consumes [10] [Blood]"
+    ]
+  },
+  {
+    "name": "Blood Tyrant",
+    "unitType": "Blood Spawn",
+    "uniqueTo": "Blood Born",
+    "requiredTech": "Rifling"
+    "movement": 3
+    "maintenance": 0
+    "strength": 60
+    "uniques": [
+      "Unbuildable",
+      "Heals [33] damage if it kills a unit",
+      "[+10]% Strength bonus for [Melee] units within [2] tiles",
+      "Consumes [20] [Blood]"
+    ]
   }
+
 ]
