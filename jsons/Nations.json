@@ -29,6 +29,7 @@
   
   {
     "name": "Blood Born",
+	"startBias": "Avoid [Coast]",
     "uniques": [
 		"[{All} {Melee} {Military}] units gain the [Bloodrage] promotion",
 		"[-6] HP when healing <for [{All} {military units}] Civilizations>",
