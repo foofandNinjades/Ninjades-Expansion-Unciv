@@ -16,7 +16,7 @@
   },
   {
     "name": "Devoted Protector II",
-    "prerequisites": ["Devoted Protector"]
+    "prerequisites": ["Devoted Protector I"]
     "uniques": [
       "[+15]% Strength <in [Friendly Land] tiles>",
       "[-15]% Strength <in [Enemy Land] tiles>",
@@ -46,7 +46,7 @@
       "[+1] Sight"
     ]
     "unitTypes": ["Blood Spawn"]
-    "row": 1
+    "row": 14
     "column": 12
   },
   {
@@ -56,7 +56,7 @@
       "[+5]% Strength <vs [Wounded] units> <when attacking>"
     ]
     "unitTypes": ["Blood Spawn"]
-    "row": 1
+    "row": 14
     "column": 13
   },
   {
@@ -67,7 +67,7 @@
       "Can see invisible [Wounded] units"
     ]
     "unitTypes": ["Blood Spawn"]
-    "row": 3
+    "row": 14
     "column": 14
   }
 ]
