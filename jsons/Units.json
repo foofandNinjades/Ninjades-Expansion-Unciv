@@ -121,6 +121,7 @@
     "uniqueTo": "Blood Born",
     "requiredTech": "Mathematics"
     "movement": 2
+    "cost": 50
     "maintenance": 0
     "strength": 16
     "upgradesTo": "Titanic Hemogoblin"
@@ -139,6 +140,7 @@
     "uniqueTo": "Blood Born",
     "requiredTech": "Military Science"
     "movement": 2
+    "cost": 80
     "maintenance": 0
     "strength": 45
     "upgradesTo": "Titanic Hemogoblin"
@@ -156,6 +158,7 @@
     "uniqueTo": "Blood Born",
     "requiredTech": "Civil Service"
     "movement": 3
+    "cost": 80
     "maintenance": 0
     "strength": 25
     "upgradesTo": "Blood Tyrant"
