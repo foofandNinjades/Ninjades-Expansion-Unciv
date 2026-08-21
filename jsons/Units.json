@@ -143,7 +143,6 @@
     "cost": 80
     "maintenance": 0
     "strength": 45
-    "upgradesTo": "Titanic Hemogoblin"
     "uniques": [
       "Unbuildable",
       "[+66]% Strength <vs cities> <when attacking>",
