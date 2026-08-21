@@ -17,7 +17,7 @@
     "cities": ["Viewpoint", "Cornar", "Aqeua", "Stahre", "Opti", "Sight Stroll"],
     "spyNames": ["Foreseen", "Clairvoyant", "Theas", "Witness", "Axeus", "Watcher", "Seen", "Tri-eye", "Obser"],
     "civilopediaText": [
-		{"text": "The First Seers were an incredibly ancient group of scientist that guided a majority of civilization long ago to where it is now. Upon every full moon, The First Seers wrote nearly inelligible text and did well to preserve their scribbles. Now, the scientist realize these scribbles were some sort of language, a language that they somehow 'felt'."},
+			{"text": "The First Seers were an incredibly ancient group of scientist that guided a majority of civilization long ago to where it is now. Upon every full moon, The First Seers wrote nearly inelligible text and did well to preserve their scribbles. Now, the scientist realize these scribbles were some sort of language, a language that they somehow 'felt'."},
   		{"separator": true},
   		{"text": "Tips to Play:"},
   		{"text": "Early game, expand towards desert and coast tiles, gain Great Science points, and focus on staying ahead in tech. After the Renaissance era, ensure to put spies in your high science yielding territory (to protect your own research), or keep spies in enemy territory to boost your own science yield."},
@@ -29,17 +29,17 @@
   
   {
 	  "name": "Blood Born",
-	  "startBias": "Avoid [Coast]",
+	  "startBias": ["Avoid [Coast]"],
     "uniques": [
-		"[{All} {Melee} {Military}] units gain the [Bloodrage] promotion",
-		"[-6] HP when healing <for [{All} {military units}] Civilizations>",
-		"[-25]% Strength <for [{All} {Ranged} {Military}] units>",
-		"No damage penalty for wounded units",
-		"Rebel units may spawn <every [50] turns> <starting from the [Classical era]> <when not at war>",
-		"[+15]% [Production] [in all cities] <when at war>",
-		"Earn [50]% of killed [Wounded] unit's [Strength] as [Blood]",
-		"Earn [10]% of the damage done to [Wounded] units as [Blood]",
-		"Earn [10]% of the damage done to [Wounded] units as [Faith]"
+			"[{All} {Melee} {Military}] units gain the [Bloodrage] promotion",
+			"[-6] HP when healing <for [{All} {military units}] Civilizations>",
+			"[-25]% Strength <for [{All} {Ranged} {Military}] units>",
+			"No damage penalty for wounded units",
+			"Rebel units may spawn <every [50] turns> <starting from the [Classical era]> <when not at war>",
+			"[+15]% [Production] [in all cities] <when at war>",
+			"Earn [50]% of killed [Wounded] unit's [Strength] as [Blood]",
+			"Earn [10]% of the damage done to [Wounded] units as [Blood]",
+			"Earn [10]% of the damage done to [Wounded] units as [Faith]"
       ] 
     "outerColor": [20,20,20],
     "innerColor": [150,0,0],
