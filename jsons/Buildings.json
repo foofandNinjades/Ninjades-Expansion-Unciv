@@ -57,6 +57,7 @@
     "cost": 120
     "requiredTech": "Engineering",
     "food": 2
+    "maintenance": 2
     "uniques": [
       "[+1 Food, +2 Faith] from [Deer] tiles [in this city]",
       "[+2 Food, +4 Faith] from [Cattle] tiles [in this city]",
