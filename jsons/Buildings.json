@@ -46,7 +46,8 @@
     "food": 1
     "uniques":[
       "[+1 Food, +2 Faith] per [4] population [in this city]",
-      "Provides [2] [Blood]"
+      "Provides [2] [Blood]",
+      "Destroyed when the city is captured"
     ]
   },
   {
@@ -56,12 +57,26 @@
     "cost": 120
     "requiredTech": "Engineering",
     "food": 2
-    "uniques":[
+    "uniques": [
       "[+1 Food, +2 Faith] from [Deer] tiles [in this city]",
       "[+2 Food, +4 Faith] from [Cattle] tiles [in this city]",
       "[+1 Food, +2 Faith] from [Sheep] tiles [in this city]",
-      "[+1 Food] from [Fish] tiles [in this city]"
-      
+      "[+1 Food] from [Fish] tiles [in this city]",
+      "Destroyed when the city is captured"
     ]
   },
+  {
+    "name": "Pray For Rain",
+    "uniqueTo": "Blood Born",
+    "cost": 100
+    "happiness": 5
+    "uniques": [
+      "Unbuildable",
+      "Unsellable",
+      "Limited to [3] per civilization",
+      "[Military] units gain [Blood Rain] promotion",
+      "Triggers the the following global alert: [The Blood Born have prayed for blood rain"],
+      "Destroyed when the city is captured"
+    ]
+  }
 ]
