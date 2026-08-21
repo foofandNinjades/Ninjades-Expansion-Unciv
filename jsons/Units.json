@@ -104,7 +104,6 @@
     "unitType": "Blood Spawn",
     "uniqueTo": "Blood Born",
     "movement": 2
-    "cost": 100
     "maintenance": 0
     "strength": 3
     "upgradesTo": "Giant Hemogoblin"
@@ -121,16 +120,17 @@
     "name": "Giant Hemogoblin",
     "unitType": "Giant Blood Spawn",
     "uniqueTo": "Blood Born",
+    "requiredTech": "Mathematics"
     "movement": 2
-    "cost": 350
     "maintenance": 0
-    "strength": 45
-    "upgradesTo": "Giant Hemogoblin"
+    "strength": 16
+    "upgradesTo": "Titanic Hemogoblin"
     "uniques": [
       "Unbuildable",
       "[0] Unit Supply",
       "[This Unit] takes [3] damage <every [1 turns]> <when above [40] HP>",
       "[+33]% Strength <vs cities> <when attacking>",
+      "[-15]% Strength <vs [Ranged]> <when defending>",
       "All tiles cost 1 movement",
       "Cannot Embark"
     ]
@@ -139,17 +139,17 @@
     "name": "Blood Demon",
     "unitType": "Blood Spawn",
     "uniqueTo": "Blood Born",
+    "requiredTech": "Civil Service"
     "movement": 3
-    "cost": 500
     "maintenance": 0
-    "strength": 10
-    "upgradesTo": "Giant Hemogoblin"
+    "strength": 25
+    "upgradesTo": "Blood Tyrant"
     "uniques": [
       "Unbuildable",
       "[0] Unit Supply",
       "Heals [55] if it kills a unit",
       "[This Unit] takes [6] damage <every [1 turns]> <when above [40] HP>",
-      "Can upgrade to [Blood ]"
+      "Consumes [2] [Blood]"
   ]
   }
 ]
