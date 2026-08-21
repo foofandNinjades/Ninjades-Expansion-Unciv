@@ -45,6 +45,8 @@
       "[+1] Sight"
     ]
     "unitTypes": ["Blood Spawn"]
+    "row": 0
+    "column": 1
   },
   {
     "name": "Scent of Blood II",
@@ -52,6 +54,8 @@
       "[+5]% Strength <vs [Wounded] units> <when attacking>"
     ]
     "unitTypes": ["Blood Spawn"]
+    "row": 0
+    "column": 1
   },
   {
     "name": "Scent of Blood III",
@@ -60,5 +64,7 @@
       "Can see invisible [Wounded] units>"
     ]
     "unitTypes": ["Blood Spawn"]
+    "row": 0
+    "column": 2
   }
 ]
