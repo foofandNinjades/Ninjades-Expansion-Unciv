@@ -104,7 +104,6 @@
     "unitType": "Blood Spawn",
     "uniqueTo": "Blood Born",
     "movement": 2
-    "cost": 50
     "maintenance": 0
     "strength": 3
     "upgradesTo": "Giant Hemogoblin"
