@@ -56,7 +56,8 @@
   {
     "name": "Scent of Blood III",
     "uniques": [
-      "[+5] Strength <vs [Wounded] units> <when attacking>"
+      "[+5] Strength <vs [Wounded] units> <when attacking>",
+      "Can see invisible [Wounded] units>"
     ]
     "unitTypes": ["Blood Spawn"]
   }
