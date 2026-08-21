@@ -196,6 +196,7 @@
   "replaces": "Landship",
   "requiredTech": "Combustion",
   "movement": 3
+  "cost": 500
   "maintenance": 2
   "strength": 55
   "uniques": [
