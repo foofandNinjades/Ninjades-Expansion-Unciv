@@ -34,6 +34,7 @@
     "name": "Bloodlusted",
     "uniques": [
       "[+10]% Strength <when attacking>",
+      "[-10]% Strength <when defending>",
       "[+1] Movement",
       "Earn [50]% of killed [Wounded] unit's [Strength] as [Blood]"
     ]
