@@ -133,6 +133,23 @@
       "Consumes [5] [Blood]"
     ]
   },
+  { 
+    "name": "Titanic Hemogoblin",
+    "unitType": "Giant Blood Spawn",
+    "uniqueTo": "Blood Born",
+    "requiredTech": "Military Science"
+    "movement": 2
+    "maintenance": 0
+    "strength": 45
+    "upgradesTo": "Titanic Hemogoblin"
+    "uniques": [
+      "Unbuildable",
+      "[+66]% Strength <vs cities> <when attacking>",
+      "[-10]% Strength <vs [Ranged]> <when defending>",
+      "All tiles cost 1 movement",
+      "Consumes [15] [Blood]"
+    ]
+  },
   {
     "name": "Blood Demon",
     "unitType": "Blood Spawn",
