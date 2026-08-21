@@ -200,10 +200,12 @@
   "strength": 55
   "uniques": [
     "[This Unit] gains [3] movement <upon defeating a [Land] unit>",
-    "No movement cost to pillage",
+    "[-100]% Strength <vs cities> <when attacking>",
+    "[+25]% Strength <vs [Ranged]> <when defending>",
     "Can move after attacking",
-    "[5] additional attacks per turn <for [1] movement>"
-    "Consumes [6] [Blood]"
+    "[2] additional attacks per turn",
+    "No movement cost to pillage",
+    "Consumes [8] [Blood]"
   ]
 }
 
