@@ -103,6 +103,7 @@
     "name": "Hemogoblin",
     "unitType": "Blood Spawn",
     "movement": 2
+    "cost": 10
     "maintenance": 0
     "strength": 3
     "upgradesTo": "Giant Hemogoblin"
