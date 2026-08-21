@@ -53,7 +53,7 @@
     "name": "Pit of Blood",
     "uniqueTo": "Blood Born",
     "replaces": "Aqueduct",
-    "cost": 80
+    "cost": 120
     "requiredTech": "Engineering",
     "food": 2
     "uniques":[
