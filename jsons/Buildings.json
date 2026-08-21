@@ -35,5 +35,17 @@
       "[+2 Science] from [Coast] tiles [in this city]",
       "[+2 Science] <in tiles adjacent to [Coast] tiles> [in this city]",
       "[+5 Science] from [Desert] tiles [in this city]"]
+  },
+  // Blood Born
+  {
+    "name": "Blood Altar",
+    "uniqueTo": "Blood Born",
+    "replaces": "Granary",
+    "cost": 80
+    "requiredTech": "Pottery",
+    "food": 1
+    "uniques":[
+      "[+1 Food, +2 Faith] per [4] population [in this city]"
+    ]
   }
 ]
