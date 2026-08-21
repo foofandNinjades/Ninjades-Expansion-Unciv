@@ -1,7 +1,5 @@
 [
-  //////
   // Civilian units \\
-  /////
   
   // Viewers of Beyond
   {
@@ -80,22 +78,41 @@
       "[+50]% Strength <vs cities> <when attacking>",
       "Can see over obstacles",
       "All tiles cost 1 movement",
-      "Cannot Embark"]
+      "Cannot Embark"
+    ]
   },
   {
     //Based on the vitreous humor which is a clear, jelly-like fluid in the eye for keeps the shape of the eye and helps with impacts
     "name": "Vitrea",
-    "unitType": "Melee Water",
+    "unitType": "Liquid Beyonder",
     "uniqueTo": "Viewers of Beyond",
     "requiredTech": "Nuclear Fission",
     "movement": 6,
     "cost": 1750
     "maintenance": 15,
     "strength": 75,
-    "uniques": ["[+50]% Strength <when defending>",
+    "uniques": [
+      "[+50]% Strength <when defending>",
       "[+150]% Strength <vs cities> <when defending>",
       "Limited to [2] per Civilization",
       "[-25]% Strength <when attacking>"
     ]
-  }
+  },
+// Blood Born
+{
+  "name": "Hemogoblin",
+  "unitType": "Blood Spawn",
+  "uniqueTo": "Blood Born",
+  "movement": 2
+  "cost": 100
+  "maintenance": 0
+  "strength": 10
+  "uniques": [
+    "Unbuildable",
+    "Can be purchased for [100][Faith][in all ciites]",
+    "[0] Unit Supply",
+    "Heals [25] if it kills a unit",
+    "[This Unit] takes [12] damage <every [1 turns]> <when above [40] HP>"
+  ]
+}
 ]
