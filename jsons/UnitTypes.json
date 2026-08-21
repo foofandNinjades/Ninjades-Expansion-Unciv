@@ -24,5 +24,12 @@
     "uniques": [
       "Cannot embark"
     ]
+  },
+  {
+    "name": "Giant Blood Spawn"
+    "movementType": "Land"
+    "uniques": [
+      "Cannot embark"
+    ]
   }
 ]
