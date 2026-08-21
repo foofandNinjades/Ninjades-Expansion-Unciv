@@ -34,7 +34,7 @@
 		"[-6] HP when healing <for [{All} {military units}] Civilizations>",
 		"[-25]% Strength <for [{All} {Ranged} {Military}] units>",
 		"No damage penalty for wounded units",
-		"Rebel units may spawn <every [75] turns> <starting from the [Classical era]> <when not at war>",
+		"Rebel units may spawn <every [50] turns> <starting from the [Classical era]> <when not at war>",
 		"[+15]% [Production] [in all cities] <when at war>",
 		"Earn [50]% of killed [Wounded] unit's [Strength] as [Blood]",
 		"Earn [10]% of the damage done to [Wounded] units as [Blood]"
