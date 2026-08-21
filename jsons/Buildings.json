@@ -45,7 +45,8 @@
     "requiredTech": "Pottery",
     "food": 1
     "uniques":[
-      "[+1 Food, +2 Faith] per [4] population [in this city]"
+      "[+1 Food, +2 Faith] per [4] population [in this city]",
+      "Provides [2] [Blood]"
     ]
   }
 ]
