@@ -161,6 +161,7 @@
       "Unbuildable",
       "Heals [33] damage if it kills a unit",
       "[+10]% Strength bonus for [Melee] units within [2] tiles",
+      "[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
       "Consumes [20] [Blood]"
     ]
   }
