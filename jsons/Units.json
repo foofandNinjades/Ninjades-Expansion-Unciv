@@ -150,6 +150,7 @@
       "Unbuildable",
       "[+66]% Strength <vs cities> <when attacking>",
       "[-10]% Strength <vs [Ranged]> <when defending>",
+      "No defensive terrain bonus",
       "All tiles cost 1 movement",
       "Consumes [15] [Blood]"
     ]
@@ -178,14 +179,32 @@
     "requiredTech": "Rifling"
     "movement": 3
     "maintenance": 0
-    "strength": 60
+    "strength": 65
     "uniques": [
       "Unbuildable",
+      "Uncapturable",
       "Heals [33] damage if it kills a unit",
       "[+10]% Strength bonus for [Melee] units within [2] tiles",
       "[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
       "Consumes [20] [Blood]"
     ]
   }
+{
+  "name": "Massacre Machine",
+  "unitType": "Armored",
+  "uniqueTo": "Blood Born",
+  "replaces": "Landship",
+  "requiredTech": "Combustion",
+  "movement": 3
+  "maintenance": 2
+  "strength": 55
+  "uniques": [
+    "[This Unit] gains [3] movement <upon defeating a [Land] unit>",
+    "No movement cost to pillage",
+    "Can move after attacking",
+    "[5] additional attacks per turn <for [1] movement>"
+    "Consumes [6] [Blood]"
+  ]
+}
 
 ]
