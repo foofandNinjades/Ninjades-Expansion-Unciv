@@ -2,6 +2,8 @@
   {
     "name": "Viewers of Beyond",
     "startBias": ["Desert"],
+	"personality": "Seer Followers",
+	"preferredVictoryType": "Domination",
     "uniques": [
       "[All] units gain the [Truth Seeking] promotion",
       "[+10]% [Science] [in all cities]",
