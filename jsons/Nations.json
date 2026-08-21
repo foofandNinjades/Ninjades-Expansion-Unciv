@@ -32,6 +32,8 @@
   {
 	  "name": "Blood Born",
 	  "startBias": ["Avoid [Coast]"],
+	  "personality": "Blood Lovers",
+	  "preferredVictoryType": "Domination",
 	  "uniques": [
 		"[-25]% Unhappiness from [Population] [in all cities]",
 		"[{All} {Melee} {Military}] units gain the [Bloodrage] promotion",
