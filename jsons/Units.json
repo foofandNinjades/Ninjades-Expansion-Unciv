@@ -99,22 +99,40 @@
     ]
   },
 // Blood Born
-{
-  "name": "Hemogoblin",
-  "unitType": "Blood Spawn",
-  "uniqueTo": "Blood Born",
-  "movement": 2
-  "cost": 100
-  "maintenance": 0
-  "strength": 10
-  "upgradesTo": "Giant Hemogoblin"
-  "uniques": [
-    "Unbuildable",
-    "Can be purchased for [100][Faith][in all ciites]",
-    "[0] Unit Supply",
-    "Heals [25] if it kills a unit",
-    "[This Unit] takes [12] damage <every [1 turns]> <when above [40] HP>",
-    "Can upgrade to [Blood Demon"
-  ]
-}
+  {
+    "name": "Hemogoblin",
+    "unitType": "Blood Spawn",
+    "uniqueTo": "Blood Born",
+    "movement": 2
+    "cost": 100
+    "maintenance": 0
+    "strength": 10
+    "upgradesTo": "Giant Hemogoblin"
+    "uniques": [
+      "Unbuildable",
+      "Can be purchased for [100][Faith][in all ciites]",
+      "[0] Unit Supply",
+      "Heals [25] if it kills a unit",
+      "[This Unit] takes [12] damage <every [1 turns]> <when above [40] HP>",
+      "Can upgrade to [Blood Demon]"
+    ]
+  },
+  { 
+    "name": "Giant Hemogoblin",
+    "unitType": "Giant Blood Spawn",
+    "uniqueTo": "Blood Born",
+    "movement": 2
+    "cost": 350
+    "maintenance": 0
+    "strength": 55
+    "upgradesTo": "Giant Hemogoblin"
+    "uniques": [
+      "Unbuildable",
+      "[0] Unit Supply",
+      "[This Unit] takes [3] damage <every [1 turns]> <when a,bove [40] HP>",
+      "[+33]% Strength <vs cities> <when attacking>",
+      "All tiles cost 1 movement",
+      "Cannot Embark"
+    ]
+  }
 ]
