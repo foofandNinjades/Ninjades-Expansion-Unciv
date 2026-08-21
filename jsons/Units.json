@@ -110,7 +110,8 @@
     "upgradesTo": "Giant Hemogoblin"
     "uniques": [
       "Unbuildable <for [Human player] Civilizations>",
-      "Can be purchased for [100] [Faith] <in cities with a [Blood Altar]>",
+      "Can be purchased for [100] [Faith] [in all cities]",
+      "Can be purchased <in cities with a [Blood Altar]>
       "Heals [25] damage if it kills a unit",
       "[This Unit] takes [12] damage <every [1] turns> <when above [40] HP>",
       "Can upgrade to [Blood Demon]",
