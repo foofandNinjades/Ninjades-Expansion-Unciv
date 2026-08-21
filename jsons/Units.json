@@ -113,7 +113,8 @@
       "Heals [25] damage if it kills a unit",
       "[This Unit] takes [12] damage <every [1] turns> <when above [40] HP>",
       "Can upgrade to [Blood Demon]",
-      "Consumes [1] [Blood]"
+      "Consumes [1] [Blood]",
+      "Shown while unbuildable"
     ]
     "uniqueTo": "Blood Born",
   },
