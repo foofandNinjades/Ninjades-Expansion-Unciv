@@ -112,7 +112,7 @@
       "Can be purchased for [150] [Faith] [in all cities] <(modified by game speed)>",
       "Can be purchased <in cities with a [Blood Altar]>",
       "Heals [25] damage if it kills a unit",
-      "[This Unit] takes [12] damage <upon turn start> <when above [40] HP>",
+      "[This Unit] takes [16] damage <upon turn start> <when above [38] HP>",
       "Can upgrade to [Blood Demon]",
       "Consumes [1] [Blood]",
       "Shown while unbuildable"
@@ -130,11 +130,11 @@
     "upgradesTo": "Titanic Hemogoblin"
     "uniques": [
       "Unbuildable",
-      "[This Unit] takes [3] damage <every [1] turns> <when above [40] HP>",
+      "[This Unit] takes [4] damage <upon turn start> <when above [38] HP>",
       "[+33]% Strength <vs cities> <when attacking>",
       "[-15]% Strength <vs [Ranged]> <when defending>",
       "All tiles cost 1 movement",
-      "Consumes [5] [Blood]"
+      "Consumes [4] [Blood]"
     ]
   },
   { 
@@ -167,7 +167,7 @@
     "uniques": [
       "Unbuildable",
       "Heals [55] damage if it kills a unit",
-      "[This Unit] takes [6] damage <every [1] turns> <when above [40] HP>",
+      "[This Unit] takes [2] damage <upon turn start> <when above [38] HP>",
       "Consumes [10] [Blood]"
     ]
   },
