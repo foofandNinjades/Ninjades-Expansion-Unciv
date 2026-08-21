@@ -22,14 +22,16 @@
     "name": "Blood Spawn"
     "movementType": "Land"
     "uniques": [
-      "Cannot embark"
+      "Cannot embark",
+      "[-80]% Strength <without [Blood]>"
     ]
   },
   {
     "name": "Giant Blood Spawn"
     "movementType": "Land"
     "uniques": [
-      "Cannot embark"
+      "Cannot embark",
+      "[-85]% Strength <without [Blood]>"
     ]
   }
 ]
