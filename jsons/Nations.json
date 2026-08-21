@@ -39,7 +39,7 @@
 			"[+15]% [Production] [in all cities] <when at war>",
 			"Earn [50]% of killed [Wounded] unit's [Strength] as [Blood]",
 			"Earn [10]% of the damage done to [Wounded] units as [Blood]",
-			"Earn [10]% of the damage done to [Wounded] units as [Faith]"
+			"Earn [25]% of the damage done to [Wounded] units as [Faith]"
       ] 
     "outerColor": [20,20,20],
     "innerColor": [150,0,0],
