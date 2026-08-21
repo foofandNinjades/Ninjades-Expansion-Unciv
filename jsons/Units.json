@@ -102,6 +102,7 @@
   {
     "name": "Hemogoblin",
     "unitType": "Blood Spawn",
+    "uniqueTo": "Blood Born",
     "movement": 2
     "maintenance": 0
     "strength": 3
@@ -116,7 +117,6 @@
       "Consumes [1] [Blood]",
       "Shown while unbuildable"
     ]
-    "uniqueTo": "Blood Born",
   },
   { 
     "name": "Giant Hemogoblin",
