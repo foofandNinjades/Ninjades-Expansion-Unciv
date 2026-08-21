@@ -46,7 +46,7 @@
     ]
     "unitTypes": ["Blood Spawn"]
     "row": 0
-    "column": 0
+    "column": 1
   },
   {
     "name": "Scent of Blood II",
@@ -55,7 +55,7 @@
     ]
     "unitTypes": ["Blood Spawn"]
     "row": 0
-    "column": 1
+    "column": 2
   },
   {
     "name": "Scent of Blood III",
@@ -65,6 +65,6 @@
     ]
     "unitTypes": ["Blood Spawn"]
     "row": 0
-    "column": 2
+    "column": 3
   }
 ]
