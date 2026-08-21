@@ -38,5 +38,26 @@
       "[+1] Movement",
       "Earn [50]% of killed [Wounded] unit's [Strength] as [Blood]"
     ]
+  },
+  {
+    "name": "Scent of Blood I",
+    "uniques": [
+      "[+1] Sight"
+    ]
+    "unitTypes": ["Blood Spawn"]
+  },
+  {
+    "name": "Scent of Blood II",
+    "uniques": [
+      "[+5]% Strength <vs [Wounded] units> <when attacking>"
+    ]
+    "unitTypes": ["Blood Spawn"]
+  },
+  {
+    "name": "Scent of Blood III",
+    "uniques": [
+      "[+5] Strength <vs [Wounded] units> <when attacking>"
+    ]
+    "unitTypes": ["Blood Spawn"]
   }
 ]
