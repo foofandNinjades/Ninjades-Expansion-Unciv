@@ -103,12 +103,11 @@
     "name": "Hemogoblin",
     "unitType": "Blood Spawn",
     "movement": 2
-    "cost": 10
     "maintenance": 0
     "strength": 3
     "upgradesTo": "Giant Hemogoblin"
     "uniques": [
-      "Unbuildable",
+      "Unbuildable <for [Human player] Civilizations>",
       "Can be purchased for [100] [Faith] [in all ciites]",
       "Heals [25] damage if it kills a unit",
       "[This Unit] takes [12] damage <every [1] turns> <when above [40] HP>",
