@@ -112,7 +112,7 @@
       "Can be purchased for [150] [Faith] [in all cities] <(modified by game speed)>",
       "Can be purchased <in cities with a [Blood Altar]>",
       "Heals [25] damage if it kills a unit",
-      "[This Unit] takes [12] damage <when above [40] HP> <every [1] turns>",
+      "[This Unit] takes [12] damage <upon turn start> <when above [40] HP>",
       "Can upgrade to [Blood Demon]",
       "Consumes [1] [Blood]",
       "Shown while unbuildable"
