@@ -17,9 +17,9 @@
         "expansion": 5,
         
         "priorities": {
-            "Tradition": 5,
+            "Tradition": 0,
             "Feudalism1": 0,
-            "Liberty": 0,
+            "Liberty": 5,
             "Autocracy": 0,
             "Freedom": 0,
             "Order": 0,
