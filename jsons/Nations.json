@@ -2,6 +2,7 @@
   {
     "name": "Viewers of Beyond",
 		"leaderName": "Visionary",
+		"adjective": ["Viewer"]
     "startBias": ["Desert"],
 		"personality": "Seer Followers",
 		"preferredVictoryType": "Domination",
@@ -33,6 +34,7 @@
   {
 	  "name": "Blood Born",
 		"leaderName": "Nehrak",
+		"adjective": "Bloody",
 	  "startBias": ["Avoid [Coastal]"],
 	  "personality": "Blood Lovers",
 	  "preferredVictoryType": "Domination",
