@@ -4,13 +4,17 @@
     "name": "Truth Seeking"
     "uniques": [
       "Uncapturable",
-    "[+1] Sight"]
+      "[+1] Sight",
+      "Only Available <for units without [Hardstuck]>"
+    ]
   },
   {
     "name": "Devoted Protector I",
     "uniques": [
       "[+15]% Strength <in [Friendly Land] tiles>",
-      "[-10]% Strength <in [Enemy Land] tiles>"]
+      "[-10]% Strength <in [Enemy Land] tiles>",
+      "Only Available <for units without [Hardstuck]>"
+    ]
       "row": 11
       "column": 0
   },
@@ -20,7 +24,8 @@
     "uniques": [
       "[+15]% Strength <in [Friendly Land] tiles>",
       "[-15]% Strength <in [Enemy Land] tiles>",
-      "[+1] Movement <in [Friendly Land] tiles>"]
+      "[+1] Movement <in [Friendly Land] tiles>"
+    ]
       "row": 11
       "column": 1
   },
@@ -29,7 +34,9 @@
     "name": "Bloodrage",
     "uniques": [
       "[+40]% Strength <when attacking> <when below [50] HP>",
-      "[-50]% Strength <when defending> <when below [50] HP>"]
+      "[-50]% Strength <when defending> <when below [50] HP>",
+      "Only Available <for units without [Hardstuck]>"
+    ]
   },
   {
     "name": "Bloodlusted",
@@ -37,7 +44,8 @@
       "[+10]% Strength <when attacking>",
       "[-15]% Strength <when defending>",
       "[+1] Movement",
-      "Earn [50]% of killed [Wounded] unit's [Strength] as [Blood]"
+      "Earn [50]% of killed [Wounded] unit's [Strength] as [Blood]",
+      "Only Available <for units without [Hardstuck]>"
     ]
   },
   {
@@ -46,13 +54,15 @@
       "[+10]% Strength <when attacking>",
       "[+1] Sight",
       "Earn [25]% of killed [Wounded] unit's [Strength] as [Blood]",
-      "[+10] HP when healing"
+      "[+10] HP when healing",
+      "Only Available <for units without [Hardstuck]>"
     ]
   },
   {
     "name": "Scent of Blood I",
     "uniques": [
-      "[+1] Sight"
+      "[+1] Sight",
+      "Only Available <for units without [Hardstuck]>"
     ]
     "unitTypes": ["Blood Spawn"]
     "row": 14
@@ -78,5 +88,12 @@
     "unitTypes": ["Blood Spawn"]
     "row": 14
     "column": 14
+  }
+  // General \\
+  {
+    "name": "Hardstuck",
+    "uniques": [
+      "Comment [Cannot gain any promotions]"
+    ]
   }
 ]
