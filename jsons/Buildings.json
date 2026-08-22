@@ -75,7 +75,7 @@
     "replaces": "University",
     "cost": 140
     "requiredTech": "Education",
-    "science": 6
+    "science": 4
     "faith": 4
     "maintenance": 1
   },
@@ -86,13 +86,23 @@
     "cost": 280
     "requiredTech": "Scientific Theory",
     "requiredBuilding": "Runes of Blood",
-    "science": 8
+    "science": 6
     "faith": 4
     "maintenance": 4
     "uniques": [
     "Comment [Enables the construction of Vampire units]"
     ]
   },
+  {
+    "name": "Blood Engine",
+    "uniqueTo": "Blood Born",
+    "requiredTech": "Combustion",
+    "cost": 400,
+    "production": 3
+    "uniques": [
+      "[+10]% [Production] <when above [100] [Blood]>",
+      "[+5]% [Production] <when at war>"
+  }
   {
     "name": "Pray For Rain",
     "uniqueTo": "Blood Born",
