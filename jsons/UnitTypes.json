@@ -38,7 +38,7 @@
     "name": "Vampire",
     "movementType": "Land",
     "uniques": [
-      "Heals [21] damage if it kills a unit"]
+      "Heals [21] damage if it kills a unit"
     ]
   }
 ]
