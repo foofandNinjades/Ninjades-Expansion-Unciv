@@ -104,12 +104,11 @@
   "unitType": "Vampire",
   "uniqueTo": "Blood Born",
   "requiredTech": "Education",
-  "requiredBuilding": "Runes of Blood"
   "movement": 2
   "cost": 160
   "strength": 20
   "uniques": [
-    "Religious Unit"
+    ""
     ]
   },
   {
@@ -122,8 +121,8 @@
     "upgradesTo": "Giant Hemogoblin"
     "uniques": [
       "Unbuildable <for [Human player] Civilizations>",
-      "Can be purchased for [150] [Faith] [in all cities] <(modified by game speed)>",
-      "Can be purchased <in cities with a [Blood Altar]>",
+      "Can be purchased for [150] [Faith] <in cities with a [Blood Altar]> <(modified by game speed)>",
+      "Can be purchased ",
       "Heals [20] damage if it kills a unit",
       "[This Unit] takes [16] damage <upon turn start> <when above [38] HP>",
       "Can upgrade to [Blood Demon]",
