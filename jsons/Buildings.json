@@ -85,5 +85,13 @@
       "Shown while unbuildable",
       "Destroyed when the city is captured"
     ]
+  },
+  {
+    "name": "Runes of Blood",
+    "uniqueTo": "Blood Born",
+    "cost": 140
+    "science": 6
+    "maintenance": 1
+    "requiredTech": "Education",
   }
 ]
