@@ -196,6 +196,7 @@
   "uniqueTo": "Blood Born",
   "replaces": "Landship",
   "requiredTech": "Combustion",
+  "requiredBuilding": "Blood Engine",
   "movement": 3
   "cost": 500
   "maintenance": 2
