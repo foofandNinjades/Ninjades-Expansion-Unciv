@@ -65,6 +65,7 @@
       "[+5]% Strength <when attacking>",
       "[-5]% Strength <when defending>",
       "[+1] Movement",
+      "All tiles cost 1 movement",
       "Earn [15]% of killed [Wounded] unit's [Strength] as [Blood]",
       "Only Available <for units without [Hardstuck]>"
     ]
