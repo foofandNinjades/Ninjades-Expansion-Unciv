@@ -38,8 +38,7 @@
     "name": "Vampire",
     "movementType": "Land",
     "uniques": [
-      "Heals [21] damage if it kills a unit",
-      "Free [Musketman] appears <upon defeating a [Wounded] unit>"
+      "Heals [21] damage if it kills a unit"
     ]
   }
 ]
