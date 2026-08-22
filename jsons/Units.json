@@ -105,7 +105,7 @@
     "uniqueTo": "Blood Born",
     "movement": 2
     "maintenance": 0
-    "strength": 10
+    "strength": 9
     "uniques": [
       "Unbuildable",
       "Can only be built <in cities with a [Runes of Blood]>",
@@ -121,12 +121,28 @@
     "requiredTech": "Education",
     "movement": 2
     "cost": 160
-    "strength": 20
+    "strength": 15
     "uniques": [
       "Can only be built <in cities with a [Runes of Blood]>",
     ]
     "promotions": ["Bloodlust I"]
   },
+  {
+    "name": "Vampire Lord",
+    "unitType": "Vampire",
+    "uniqueTo": "Blood Born",
+    "requiredTech": "Scientific Theory",
+    "movement": 3
+    "maintenance": 5
+    "cost": 450
+    "strength": 40
+    "uniques": [
+      "[+10]% Strength bonus for [Vampire] units within [2] tiles",
+      "Free [Vampire Thrall] appears <upon defeating a [Enemy] unit> <with [90]% chance>"",
+      "Can only be built <in cities with a [Portal of Blood]>"
+    ]
+    "promotions": ["Bloodlust I"]
+  }
   {
     "name": "Hemogoblin",
     "unitType": "Blood Spawn",
