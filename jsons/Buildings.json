@@ -91,6 +91,7 @@
   {
     "name": "Runes of Blood",
     "uniqueTo": "Blood Born",
+    "replaces": "University",
     "cost": 140
     "science": 6
     "maintenance": 1
