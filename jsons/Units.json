@@ -203,7 +203,7 @@
   "uniques": [
     "[This Unit] gains [3] movement <upon defeating a [Land] unit>",
     "[-100]% Strength <vs cities> <when attacking>",
-    "[+10]% Strength <vs non-[Armored]> <when attacking>",
+    "[+10]% Strength <vs [non-[Armored]]> <when attacking>",
     "[-25]% Strength <vs [Armored]> <when attacking>",
     "[+25]% Strength <vs [Ranged]> <when defending>",
     "Can move after attacking",
