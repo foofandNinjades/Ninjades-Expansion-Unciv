@@ -1,9 +1,10 @@
 [
   {
     "name": "Viewers of Beyond",
+		"leaderName": "Visionary",
     "startBias": ["Desert"],
-	"personality": "Seer Followers",
-	"preferredVictoryType": "Domination",
+		"personality": "Seer Followers",
+		"preferredVictoryType": "Domination",
     "uniques": [
       "[All] units gain the [Truth Seeking] promotion",
       "[+10]% [Science] [in all cities]",
@@ -31,20 +32,21 @@
   
   {
 	  "name": "Blood Born",
+		"leaderName": "Nehrak",
 	  "startBias": ["Avoid [Coastal]"],
 	  "personality": "Blood Lovers",
 	  "preferredVictoryType": "Domination",
 	  "uniques": [
-		"[-25]% Unhappiness from [Population] [in all cities]",
-		"[{All} {Melee} {Military}] units gain the [Bloodrage] promotion",
-		"[-6] HP when healing <for [{All} {military units}] Civilizations>",
-		"[-25]% Strength <for [{All} {Ranged} {Military}] units>",
-		"No damage penalty for wounded units",
-		"Rebel units may spawn <every [50] turns> <starting from the [Classical era]> <when not at war>",
-		"[+15]% [Production] [in all cities] <when at war>",
-		"Earn [50]% of killed [Wounded] unit's [Strength] as [Blood]",
-		"Earn [10]% of the damage done to [Wounded] units as [Blood]",
-		"Earn [25]% of the damage done to [Wounded] units as [Faith]"
+			"[-25]% Unhappiness from [Population] [in all cities]",
+			"[{All} {Melee} {Military}] units gain the [Bloodrage] promotion",
+			"[-6] HP when healing <for [{All} {military units}] Civilizations>",
+			"[-25]% Strength <for [{All} {Ranged} {Military}] units>",
+			"No damage penalty for wounded units",
+			"Rebel units may spawn <every [50] turns> <starting from the [Classical era]> <when not at war>",
+			"[+15]% [Production] [in all cities] <when at war>",
+			"Earn [50]% of killed [Wounded] unit's [Strength] as [Blood]",
+			"Earn [10]% of the damage done to [Wounded] units as [Blood]",
+			"Earn [25]% of the damage done to [Wounded] units as [Faith]"
       ] 
     "outerColor": [20,20,20],
     "innerColor": [150,0,0],
