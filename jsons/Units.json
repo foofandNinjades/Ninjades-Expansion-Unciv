@@ -104,7 +104,7 @@
   "unitType": "Vampire",
   "uniqueTo": "Blood Born",
   "requiredTech": "Education",
-  "requiredBuildings": "Runes of Blood"
+  "requiredBuilding": "Runes of Blood"
   "movement": 2
   "cost": 160
   "strength": 20
