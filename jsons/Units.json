@@ -109,7 +109,8 @@
     "uniques": [
       "Unbuildable",
       "Can only be built <in cities with a [Runes of Blood]>",
-      "[0] XP gained from combat"
+      "[0] XP gained from combat",
+      "[This Unit] loses the [Bloodrage] promotion <hidden from users>"
     ]
     "promotions": ["Hardstuck"]
   },
@@ -122,7 +123,7 @@
     "cost": 160
     "strength": 20
     "uniques": [
-      "Can only be built <in cities with a [Runes of Blood]>"
+      "Can only be built <in cities with a [Runes of Blood]>",
     ]
   },
   {
