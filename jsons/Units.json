@@ -138,7 +138,7 @@
     "strength": 40
     "uniques": [
       "[+10]% Strength bonus for [Vampire] units within [2] tiles",
-      "Free [Vampire Thrall] appears <upon defeating a [Enemy] unit> <with [90]% chance>",
+      "Free [Vampire Thrall] appears <in [Capital] cities> <upon defeating a [Melee] unit> <with [90]% chance>",
       "Can only be built <in cities with a [Portal of Blood]>"
     ]
     "promotions": ["Bloodlust I"]
