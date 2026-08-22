@@ -94,6 +94,7 @@
     "replaces": "University",
     "cost": 140
     "science": 6
+    "faith": 4
     "maintenance": 1
     "requiredTech": "Education",
   }
