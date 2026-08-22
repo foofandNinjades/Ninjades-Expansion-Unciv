@@ -210,9 +210,10 @@
     "Cannot move <when below [8] [Blood]>",
     "[2] additional attacks per turn",
     "No movement cost to pillage",
+    "No defensive terrain bonus",
     "Consumes [12] [Blood]"
   ]
-  "attackSound": "nonmetalhit"
+  "attackSound": "metalhit"
 }
 
 ]
