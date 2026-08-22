@@ -100,20 +100,16 @@
   },
 // Blood Born
 {
-    "name": "Vampire Warrior",
-    "unitType": "Vampire",
-    "uniqueTo": "Blood Born",
-    "movement": 2
-    "strength": 3
-    "uniques": [
-      "Unbuildable <for [Human player] Civilizations>",
-      "Can be purchased for [150] [Faith] [in all cities] <(modified by game speed)>",
-      "Can be purchased <in cities with a [Blood Altar]>",
-      "Heals [20] damage if it kills a unit",
-      "[This Unit] takes [16] damage <upon turn start> <when above [38] HP>",
-      "Can upgrade to [Blood Demon]",
-      "Consumes [1] [Blood]",
-      "Shown while unbuildable"
+  "name": "Vampire Warrior",
+  "unitType": "Vampire",
+  "uniqueTo": "Blood Born",
+  "requiredTech": "Education",
+  "requiredBuildings": "Blood Runes"
+  "movement": 2
+  "cost": 160
+  "strength": 20
+  "uniques": [
+    "Can be purchased for [250] [Faith] <if [Blood Runes] is constructed> <in this city> <(modified by game speed)>"
     ]
   },
   {
