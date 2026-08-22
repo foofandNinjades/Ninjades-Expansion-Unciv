@@ -63,6 +63,8 @@
       "[+2 Food, +4 Faith] from [Cattle] tiles [in this city]",
       "[+1 Food, +2 Faith] from [Sheep] tiles [in this city]",
       "[+1 Food] from [Fish] tiles [in this city]",
+      "[-2 Food] from [Wheat] tiles [in this city]",
+      "[-1 Food] from [Banana] tiles [in this city]",
       "Provides [2] [Blood]",
       "Destroyed when the city is captured"
     ]
