@@ -38,6 +38,7 @@
     "name": "Vampire",
     "movementType": "Land",
     "uniques": [
+      "Uncapturable",
       "Heals [21] damage if it kills a unit"
     ]
   }
