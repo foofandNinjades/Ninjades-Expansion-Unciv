@@ -109,10 +109,9 @@
     "uniques": [
       "Unbuildable",
       "Can only be built <in cities with a [Runes of Blood]>",
-      "[-1] Unit Supply",
-      "[-75]% XP gained from combat",
-      "[+75]% XP required for promotions"
+      "[0] XP gained from combat"
     ]
+    "promotions": ["Hard Stuck"]
   },
   {
     "name": "Vampire Warrior",
