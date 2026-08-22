@@ -100,8 +100,8 @@
     "cost": 400,
     "production": 3
     "uniques": [
-      "[+10]% [Production] <when above [100] [Blood]>",
-      "[+5]% [Production] <when at war>"
+      "[+10]% [Production] [in this city] <when above [100] [Blood]>",
+      "[+5]% [Production] [in this city] <when at war>"
   }
   {
     "name": "Pray For Rain",
