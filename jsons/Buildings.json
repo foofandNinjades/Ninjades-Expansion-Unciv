@@ -51,13 +51,13 @@
     ]
   },
   {
-    "name": "Kill the Resistance"
-		"maintenance": 0,
-    "cost": 0
+	  "name": "Kill the Resistance"
+	  "maintenance": 0,
+	  "cost": 0
 		"uniques": ["Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>",
-      "Requires at least [5] population"
-    ],
+			"Requires at least [5] population"
+		],
 		"requiredTech": "Mathematics"
   {
     "name": "Pit of Blood",
