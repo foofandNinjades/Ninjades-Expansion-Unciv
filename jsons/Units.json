@@ -202,13 +202,14 @@
   "maintenance": 2
   "strength": 50
   "uniques": [
-    "[This Unit] gains [3] movement <upon defeating a [Land] unit>",
-    "[-100]% Strength <vs cities> <when attacking>",
-    "[+10]% Strength <vs [non-[Armored]]> <when attacking>",
-    "[-25]% Strength <vs [Armored]> <when attacking>",
-    "[+25]% Strength <vs [Ranged]> <when defending>",
+    "[This Unit] gains [3] movement <upon defeating a [Land] unit> <when above [8] Blood",
+    "[This Unit] gains [1] movement <upon defeating a [Land] unit> <when below [8] Blood",
+    "[-100]% Strength <when attacking> <vs cities>",
+    "[+10]% Strength <when attacking> <vs [non-[Armored]]>",
+    "[-25]% Strength <when attacking> <vs [Armored]>",
+    "[+25]% Strength <when defending> <vs [Ranged]>",
     "Can move after attacking",
-    "Cannot move <when below [8] [Blood]>",
+    "[-2] Movement <when below [8] [Blood]>",
     "[2] additional attacks per turn",
     "No movement cost to pillage",
     "No defensive terrain bonus",
