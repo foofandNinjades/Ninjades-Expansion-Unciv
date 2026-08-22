@@ -175,7 +175,7 @@
     "uniques": [
       "Unbuildable",
       "[This Unit] takes [2] damage <upon turn start> <when above [38] HP>",
-      "[+33]% Strength <vs cities> <when attacking>",
+      "[+150]% Strength <vs cities> <when attacking>",
       "[-15]% Strength <vs [Ranged]> <when defending>",
       "All tiles cost 1 movement",
       "Consumes [4] [Blood]"
