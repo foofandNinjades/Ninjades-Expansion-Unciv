@@ -204,6 +204,7 @@
     "[-100]% Strength <vs cities> <when attacking>",
     "[+25]% Strength <vs [Ranged]> <when defending>",
     "Can move after attacking",
+    "Cannot move <when below [8] [Blood]>",
     "[2] additional attacks per turn",
     "No movement cost to pillage",
     "Consumes [8] [Blood]"
