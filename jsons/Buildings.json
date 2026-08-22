@@ -52,6 +52,7 @@
   },
   {
 	  "name": "Kill the Resistance"
+	  "replaces": "Courthouse",
 	  "maintenance": 0,
 	  "cost": 0
 		"uniques": ["Removes extra unhappiness from annexed cities",
