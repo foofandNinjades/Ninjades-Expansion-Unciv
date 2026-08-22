@@ -208,6 +208,7 @@
     "No movement cost to pillage",
     "Consumes [8] [Blood]"
   ]
+  "attackSound": "nonmetalhit"
 }
 
 ]
