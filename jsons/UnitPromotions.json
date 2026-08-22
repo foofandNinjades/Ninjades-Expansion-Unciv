@@ -39,12 +39,33 @@
     ]
   },
   {
-    "name": "Bloodlusted",
+    "name": "Bloodlust I",
     "uniques": [
-      "[+10]% Strength <when attacking>",
-      "[-15]% Strength <when defending>",
+      "[+5]% Strength <when attacking>",
+      "[-5]% Strength <when defending>",
+      "Earn [15]% of killed [Wounded] unit's [Strength] as [Blood]",
+      "[This Unit] gains the [Bloodlust II] status for [5] turn(s) <upon defeating a [Military] unit>",
+      "Only Available <for units without [Hardstuck]>"
+    ]
+  },
+  {
+    "name": "Bloodlust II",
+    "uniques": [
+      "[+5]% Strength <when attacking>",
+      "[-5]% Strength <when defending>",
       "[+1] Movement",
-      "Earn [50]% of killed [Wounded] unit's [Strength] as [Blood]",
+      "Earn [15]% of killed [Wounded] unit's [Strength] as [Blood]",
+      "[This Unit] gains the [Bloodlust III] status for [7] turn(s) <upon defeating a [Military] unit> <for units without [Bloodlust III]>",
+      "Only Available <for units without [Hardstuck]>"
+    ]
+  },
+  {
+    "name": "Bloodlust III",
+    "uniques": [
+      "[+5]% Strength <when attacking>",
+      "[-5]% Strength <when defending>",
+      "[+1] Movement",
+      "Earn [15]% of killed [Wounded] unit's [Strength] as [Blood]",
       "Only Available <for units without [Hardstuck]>"
     ]
   },
