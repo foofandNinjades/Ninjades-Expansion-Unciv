@@ -187,7 +187,7 @@
       "[+10]% Strength bonus for [Melee] units within [2] tiles",
       "[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
       "Earn [150]% of killed [Wounded] unit's [Strength] as [Blood]",
-      "Consumes [20] [Blood]"
+      "Consumes [25] [Blood]"
     ]
   }
 {
