@@ -70,6 +70,30 @@
     ]
   },
   {
+    "name": "Runes of Blood",
+    "uniqueTo": "Blood Born",
+    "replaces": "University",
+    "cost": 140
+    "requiredTech": "Education",
+    "science": 6
+    "faith": 4
+    "maintenance": 1
+  },
+  {
+    "name": "Portal of Blood",
+    "uniqueTo": "Blood Born",
+    "replaces": "Public School",
+    "cost": 280
+    "requiredTech": "Scientific Theory",
+    "requiredBuilding": "Runes of Blood",
+    "science": 8
+    "faith": 4
+    "maintenance": 4
+    "uniques": [
+    "Comment [Enables the construction of Vampire units]"
+    ]
+  },
+  {
     "name": "Pray For Rain",
     "uniqueTo": "Blood Born",
     "cost": 400
@@ -87,15 +111,5 @@
       "Shown while unbuildable",
       "Destroyed when the city is captured"
     ]
-  },
-  {
-    "name": "Runes of Blood",
-    "uniqueTo": "Blood Born",
-    "replaces": "University",
-    "cost": 140
-    "science": 6
-    "faith": 4
-    "maintenance": 1
-    "requiredTech": "Education",
   }
 ]
