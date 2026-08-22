@@ -125,6 +125,7 @@
     "uniques": [
       "Can only be built <in cities with a [Runes of Blood]>",
     ]
+    "promotions": ["Bloodlust I"]
   },
   {
     "name": "Hemogoblin",
