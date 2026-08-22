@@ -199,10 +199,11 @@
   "movement": 3
   "cost": 500
   "maintenance": 2
-  "strength": 55
+  "strength": 50
   "uniques": [
     "[This Unit] gains [3] movement <upon defeating a [Land] unit>",
     "[-100]% Strength <vs cities> <when attacking>",
+    "[+10]% Strength <vs non-[Armored]> <when attacking>",
     "[+25]% Strength <vs [Ranged]> <when defending>",
     "Can move after attacking",
     "Cannot move <when below [8] [Blood]>",
