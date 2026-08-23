@@ -27,10 +27,10 @@
     "requiredTech": "Industrialization",
     "happiness": 2,
     "science": 2,
-    "production": 6,
+    "production": 3,
     "maintenance": 5,
     "percentStatBonus": {"production": 10, "science": 10}
-    "greatPersonPoints": {"Great Scientist": 4}
+    "greatPersonPoints": {"Great Scientist": 3}
     "uniques": [
       "[+2 Science] from [Coast] tiles [in this city]",
       "[+1 Science] from [Coastal] tiles [in this city]",
