@@ -51,7 +51,8 @@
     ]
   },
   {
-	  "name": "Kill the Resistance"
+	  "name": "Kill the Resistance",
+   "uniqueTo": "Blood Born",
 	  "replaces": "Courthouse",
 	  "maintenance": 0,
 	  "cost": 0
