@@ -272,6 +272,7 @@
       "[+25]% Strength <when defending> <vs [Ranged]>",
       "Can move after attacking",
       "[-2] Movement <when below [8] [Blood]>",
+      "[-40]% Strength <when below [8] [Blood]> <when attacking>",
       "[2] additional attacks per turn",
       "No movement cost to pillage",
       "No defensive terrain bonus",
