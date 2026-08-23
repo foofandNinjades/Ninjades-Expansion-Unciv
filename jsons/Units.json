@@ -140,7 +140,8 @@
       "[+20]% Strength <when above [10] HP>",
       "[-50]% Strength <when below [10] HP>",
       "[+1] Movement <when below [10] HP>",
-      "All tiles cost 1 movement <when below [10] HP",
+      "[+6] HP when healing",
+      "All tiles cost 1 movement <when below [10] HP>",
       "Can only be built <in cities with a [Portal of Blood]>"
     ]
     "promotions": ["Bloodlust I"]
