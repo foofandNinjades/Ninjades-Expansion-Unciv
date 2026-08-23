@@ -108,7 +108,7 @@
     "maintenance": 4
     "uniques": [
 			"Unsellable",
-			"Comment [Enables the construction of Vampire units]",
+			"Comment [Enables the construction of all Vampire units]",
 			"[3] free [Vampire Thrall] units appear"
     ]
   },
