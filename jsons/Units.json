@@ -211,7 +211,7 @@
     "strength": 45
     "uniques": [
       "Unbuildable",
-      "[+66]% Strength <vs cities> <when attacking>",
+      "[+125]% Strength <vs cities> <when attacking>",
       "[-10]% Strength <vs [Ranged]> <when defending>",
       "No defensive terrain bonus",
       "All tiles cost 1 movement",
