@@ -41,5 +41,12 @@
       "Uncapturable",
       "Heals [21] damage if it kills a unit"
     ]
-  }
+  },
+  {
+    "name": "Flying Vampire",
+    "movementType": "Air",
+    "uniques": [
+      "Uncapturable",
+      "Heals [16] damage if it kills a unit"
+    ]
 ]
