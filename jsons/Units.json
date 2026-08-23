@@ -105,7 +105,7 @@
     "uniqueTo": "Blood Born",
     "movement": 2
     "maintenance": 0
-    "strength": 11
+    "strength": 25
     "uniques": [
       "Unbuildable",
       "[0] XP gained from combat",
@@ -119,8 +119,8 @@
     "uniqueTo": "Blood Born",
     "requiredTech": "Education",
     "movement": 2
-    "cost": 160
-    "strength": 15
+    "cost": 350
+    "strength": 35
     "uniques": [
       "Can only be built <in cities with a [Runes of Blood]>",
     ]
