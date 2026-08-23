@@ -133,9 +133,10 @@
     "requiredTech": "Scientific Theory",
     "movement": 2
     "cost": 450
-    "strength": 28
+    "strength": 25
+    "rangedStrength": 25
     "uniques": [
-      "Before engaging in combat performs an extra ranged attack with [20]% of melee combat strength",
+      "Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength",
       "Can only be built <in cities with a [Portal of Blood]>"
     ]
     "promotions": ["Bloodlust I"]
