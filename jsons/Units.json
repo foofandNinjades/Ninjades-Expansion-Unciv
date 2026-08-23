@@ -137,7 +137,7 @@
     "rangedStrength": 30
     "uniques": [
       "Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength <when attacking>",
-      "[+20]% Strength <when above [10] HP>",
+      "[+25]% Strength <when above [10] HP>",
       "[-50]% Strength <when below [10] HP>",
       "[+1] Movement <when below [10] HP>",
       "[+6] HP when healing",
