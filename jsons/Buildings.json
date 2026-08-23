@@ -57,10 +57,11 @@
 	  "maintenance": 0,
 	  "cost": 0
 		"happiness": 4
-		"uniques": ["Removes extra unhappiness from annexed cities",
+		"uniques": [
+			"Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>",
-			"Requires at least [5] population",
-			"[-4] population [in this city]"
+			"[-4] population [in this city]",
+			"Requires at least [5] population"
 		],
 		"requiredTech": "Mathematics"
 },
