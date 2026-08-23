@@ -52,13 +52,15 @@
   },
   {
 	  "name": "Kill the Resistance",
-   "uniqueTo": "Blood Born",
+		"uniqueTo": "Blood Born",
 	  "replaces": "Courthouse",
 	  "maintenance": 0,
 	  "cost": 0
+		"happiness": 4
 		"uniques": ["Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>",
-			"Requires at least [5] population"
+			"Requires at least [5] population",
+			"[-4] Population [in this city]"
 		],
 		"requiredTech": "Mathematics"
 },
