@@ -134,9 +134,13 @@
     "movement": 2
     "cost": 450
     "strength": 25
-    "rangedStrength": 25
+    "rangedStrength": 30
     "uniques": [
       "Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength <when attacking>",
+      "[+20]% Strength <when above [10] HP>",
+      "[-50]% Strength <when below [10] HP>",
+      "[+1] Movement <when below [10] HP>",
+      "All tiles cost 1 movement <when below [10] HP",
       "Can only be built <in cities with a [Portal of Blood]>"
     ]
     "promotions": ["Bloodlust I"]
