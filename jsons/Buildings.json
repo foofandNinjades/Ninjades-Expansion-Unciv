@@ -60,7 +60,7 @@
 		"uniques": ["Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>",
 			"Requires at least [5] population",
-			"[-4] Population [in this city]"
+			"[-4] population [in this city]"
 		],
 		"requiredTech": "Mathematics"
 },
