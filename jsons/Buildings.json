@@ -58,10 +58,12 @@
 	  "cost": 0
 		"happiness": 4
 		"uniques": [
+			"Unsellable",
 			"Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>",
 			"[-4] population [in this city]",
-			"Requires at least [5] population"
+			"Requires at least [5] population",
+			"Destroyed when the city is captured"
 		],
 		"requiredTech": "Mathematics"
 },
@@ -105,6 +107,7 @@
     "faith": 4
     "maintenance": 4
     "uniques": [
+			"Unsellable",
 			"Comment [Enables the construction of Vampire units]",
 			"[3] free [Vampire Thrall] units appear"
     ]
@@ -117,7 +120,7 @@
     "production": 3
     "uniques": [
       "[+10]% [Production] [in this city] <when above [100] [Blood]>",
-      "[+5]% [Production] [in this city] <when at war>"
+      "[+5]% [Production] [in this city] <when at war>",
     ]
   },
   {
