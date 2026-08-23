@@ -119,8 +119,8 @@
     "uniqueTo": "Blood Born",
     "requiredTech": "Education",
     "movement": 2
-    "cost": 350
-    "strength": 35
+    "cost": 100
+    "strength": 15
     "uniques": [
       "Can only be built <in cities with a [Runes of Blood]>",
     ]
