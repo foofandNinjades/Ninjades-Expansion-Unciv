@@ -127,13 +127,13 @@
     ]
     "promotions": ["Bloodlust I"]
   },
-{
+  {
     "name": "Vampire Mage",
     "unitType": "Vampire",
     "uniqueTo": "Blood Born",
     "requiredTech": "Scientific Theory",
     "movement": 2
-    "cost": 450
+    "cost": 250
     "strength": 25
     "uniques": [
       "[+10]% Strength bonus for [Vampire] units within [2] tiles",
@@ -141,6 +141,7 @@
       "Can only be built <in cities with a [Portal of Blood]>"
     ]
     "promotions": ["Bloodlust I"]
+  },
   {
     "name": "Vampire Lord",
     "unitType": "Vampire",
