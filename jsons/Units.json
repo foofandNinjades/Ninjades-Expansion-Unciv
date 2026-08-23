@@ -157,7 +157,7 @@
       "Can only be built <in cities with a [Portal of Blood]>"
     ]
     "promotions": ["Bloodlust I"]
-  }
+  },
   {
     "name": "Hemogoblin",
     "unitType": "Blood Spawn",
