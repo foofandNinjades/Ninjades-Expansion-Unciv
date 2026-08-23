@@ -105,10 +105,9 @@
     "uniqueTo": "Blood Born",
     "movement": 2
     "maintenance": 0
-    "strength": 9
+    "strength": 11
     "uniques": [
       "Unbuildable",
-      "Can only be built <in cities with a [Runes of Blood]>",
       "[0] XP gained from combat",
       "[This Unit] loses the [Bloodrage] promotion <hidden from users>"
     ]
@@ -134,10 +133,9 @@
     "requiredTech": "Scientific Theory",
     "movement": 2
     "cost": 250
-    "strength": 25
+    "strength": 28
     "uniques": [
       "[+10]% Strength bonus for [Vampire] units within [2] tiles",
-      "Free [Vampire Thrall] appears <in [Capital] cities> <upon defeating a [Melee] unit>",
       "Can only be built <in cities with a [Portal of Blood]>"
     ]
     "promotions": ["Bloodlust I"]
@@ -152,8 +150,7 @@
     "cost": 450
     "strength": 40
     "uniques": [
-      "[+10]% Strength bonus for [non-{This Unit} {Vampire}] units within [2] tiles",
-      "Free [Vampire Thrall] appears <in [Capital] cities>",
+      "[+10]% Strength bonus for [Vampire] units within [2] tiles",
       "Can only be built <in cities with a [Portal of Blood]>"
     ]
     "promotions": ["Bloodlust I"]
