@@ -127,6 +127,20 @@
     ]
     "promotions": ["Bloodlust I"]
   },
+{
+    "name": "Vampire Mage",
+    "unitType": "Vampire",
+    "uniqueTo": "Blood Born",
+    "requiredTech": "Scientific Theory",
+    "movement": 2
+    "cost": 450
+    "strength": 25
+    "uniques": [
+      "[+10]% Strength bonus for [Vampire] units within [2] tiles",
+      "Free [Vampire Thrall] appears <in [Capital] cities> <upon defeating a [Melee] unit>",
+      "Can only be built <in cities with a [Portal of Blood]>"
+    ]
+    "promotions": ["Bloodlust I"]
   {
     "name": "Vampire Lord",
     "unitType": "Vampire",
@@ -137,8 +151,8 @@
     "cost": 450
     "strength": 40
     "uniques": [
-      "[+10]% Strength bonus for [Vampire] units within [2] tiles",
-      "Free [Vampire Thrall] appears <in [Capital] cities> <upon defeating a [Melee] unit>",
+      "[+10]% Strength bonus for [non-{This Unit} {Vampire}] units within [2] tiles",
+      "Free [Vampire Thrall] appears <in [Capital] cities>",
       "Can only be built <in cities with a [Portal of Blood]>"
     ]
     "promotions": ["Bloodlust I"]
