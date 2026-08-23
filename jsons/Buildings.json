@@ -105,7 +105,9 @@
     "faith": 4
     "maintenance": 4
     "uniques": [
-    "Comment [Enables the construction of Vampire units]"
+			"Comment [Enables the construction of Vampire units]",
+			"[3] free [Vampire Thrall] units appear",
+			"Free [Vampire Mage] appears"
     ]
   },
   {
