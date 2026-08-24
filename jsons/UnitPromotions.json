@@ -3,7 +3,7 @@
   {
     "name": "Truth Seeking"
     "uniques": [
-      "Uncapturable",
+      "Uncapturable <for [Civilian] units>",
       "[+1] Sight",
       "Only Available <for units without [Hardstuck]>"
     ]
