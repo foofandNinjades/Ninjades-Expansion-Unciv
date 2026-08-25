@@ -54,8 +54,8 @@
       "[+5]% Strength <when attacking>",
       "[-5]% Strength <when defending>",
       "Earn [15]% of killed [Wounded] unit's [Strength] as [Blood]",
-      "[This Unit] gains the [Bloodlust II] status for [3] turn(s) <upon defeating a [Military] unit>",
-      "[This Unit] gains the [Bloodlust III] status for [3] turn(s) <upon defeating a [Military] unit>",
+      "[This Unit] gains the [Bloodlust II] status for [4] turn(s) <upon defeating a [Military] unit>",
+      "[This Unit] gains the [Bloodlust III] status for [4] turn(s) <upon defeating a [Military] unit>",
       "Only Available <for units without [Hardstuck]>"
     ]
   },
@@ -76,7 +76,7 @@
       "[+10]% Strength <when attacking>",
       "[+1] Sight",
       "Earn [25]% of killed [Wounded] unit's [Strength] as [Blood]",
-      "[+10] HP when healing",
+      "[+8] HP when healing",
       "Only Available <for units without [Hardstuck]>"
     ]
   },
