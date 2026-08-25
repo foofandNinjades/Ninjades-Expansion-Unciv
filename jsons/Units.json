@@ -121,6 +121,21 @@
     "movement": 2
     "cost": 100
     "strength": 15
+    "obsoleteTech": "Scientific Theory",
+    "upgradesTo": "Vampire Knight"
+    "uniques": [
+      "Can only be built <in cities with a [Runes of Blood]>",
+    ]
+    "promotions": ["Bloodlust I"]
+  },
+  {
+    "name": "Vampire Knight",
+    "unitType": "Vampire",
+    "uniqueTo": "Blood Born",
+    "requiredTech": "Scientific Theory",
+    "movement": 2
+    "cost": 100
+    "strength": 15
     "uniques": [
       "Can only be built <in cities with a [Runes of Blood]>",
     ]
