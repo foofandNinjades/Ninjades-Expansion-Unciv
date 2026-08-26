@@ -192,6 +192,7 @@
     "uniques": [
       "[0] XP gained from combat",
       "[-35]% Strength <vs cities>",
+      "[+10]% Strength <vs [Wounded] units> <when attacking>",
       "[This Unit] loses the [Bloodrage] promotion <hidden from users>"
     ]
     "promotions": ["Hardstuck"]
@@ -235,6 +236,7 @@
     "range": 5
     "uniques": [
       "[-35]% Strength <vs cities>",
+      "[+10]% Strength <vs [Wounded] units> <when attacking>",
       "[-3] Range <when below [1] [Blood]>",
       "Consumes [1] [Blood]"
      ]
