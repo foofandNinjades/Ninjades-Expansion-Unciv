@@ -134,9 +134,11 @@
     "uniqueTo": "Blood Born",
     "requiredTech": "Scientific Theory",
     "movement": 2
-    "cost": 100
-    "strength": 15
+    "cost": 235
+    "strength": 36
     "uniques": [
+      "[+15]% Strength <vs [Ranged]> <when defending>",
+      "Consumes [1] [Iron]",
       "Can only be built <in cities with a [Runes of Blood]>",
     ]
     "promotions": ["Bloodlust I"]
