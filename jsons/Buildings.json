@@ -22,9 +22,9 @@
     "name": "Glass Manufactory",
     "uniqueTo": "Viewers of Beyond",
     "replaces": "Factory",
+		"requiredTech": "Industrialization",
     "requiredBuilding": "Glass Workshop",
     "cost": 400,
-    "requiredTech": "Industrialization",
     "happiness": 2,
     "science": 2,
     "production": 3,
@@ -41,8 +41,8 @@
     "name": "Blood Altar",
     "uniqueTo": "Blood Born",
     "replaces": "Granary",
+		"requiredTech": "Pottery",
     "cost": 80
-    "requiredTech": "Pottery",
     "food": 1
     "uniques":[
       "[+1 Food, +2 Faith] per [4] population [in this city]",
@@ -54,9 +54,9 @@
 	  "name": "Kill the Resistance",
 	  "uniqueTo": "Blood Born",
 	  "replaces": "Courthouse",
+		"requiredTech": "Mathematics"
 	  "maintenance": 0,
 	  "cost": 0
-		"requiredTech": "Mathematics"
 		"happiness": 4
 		"uniques": [
 			"Unsellable",
@@ -71,21 +71,21 @@
 	  "name": "Bloody Arena",
 	  "uniqueTo": "Blood Born",
 	  "replaces": "Colosseum",
+		"requiredTech": "Construction"
 	  "maintenance": 2,
 	  "cost": 110
-		"requiredTech": "Construction"
 		"happiness": 1
 		"culture": 2
 		"uniques": [
-			"Provides [1] Blood"
+			"Provides [1] [Blood]"
 		],
 	},
   {
     "name": "Pit of Blood",
     "uniqueTo": "Blood Born",
     "replaces": "Aqueduct",
+		"requiredTech": "Engineering",
     "cost": 120
-    "requiredTech": "Engineering",
     "food": 2
     "maintenance": 2
     "uniques": [
@@ -103,8 +103,8 @@
     "name": "Runes of Blood",
     "uniqueTo": "Blood Born",
     "replaces": "University",
+		"requiredTech": "Education",
     "cost": 140
-    "requiredTech": "Education",
     "science": 4
     "faith": 4
     "maintenance": 1
@@ -113,9 +113,9 @@
     "name": "Portal of Blood",
     "uniqueTo": "Blood Born",
     "replaces": "Public School",
-    "cost": 280
     "requiredTech": "Scientific Theory",
     "requiredBuilding": "Runes of Blood",
+		"cost": 280
     "science": 6
     "faith": 4
     "maintenance": 4
