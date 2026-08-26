@@ -180,6 +180,90 @@
     "promotions": ["Bloodlust I"]
   },
   {
+    "name": "Vampire Bat",
+    "unitType": "Flying Vampire",
+    "uniqueTo": "Blood Born",
+    "replaces": "Great War Bomber"
+    "requiredTech": "Flight"
+    "movement": 3
+    "cost": 160
+    "strength": 20
+    "range": 5
+    "uniques": [
+      "[0] XP gained from combat",
+      "[-35]% Strength <vs cities>",
+      "[This Unit] loses the [Bloodrage] promotion <hidden from users>"
+    ]
+    "promotions": ["Hardstuck"]
+  },
+  {
+    "name": "Swarm Bat",
+    "unitType": "Flying Vampire",
+    "uniqueTo": "Blood Born",
+    "replaces": "Triplane"
+    "requiredTech": "Flight"
+    "obseleteTech": "Radar"
+    "movement": 4
+    "cost": 160
+    "strength": 10
+    "range": 4
+    "interceptRange": 4
+    "uniques": [
+      "[This Unit] loses the [Bloodrage] promotion <hidden from users>",
+      "Comment [It's rather surprising how effective a swarm of bats is at taking down hostile aircraft]",
+      "[0] XP gained from combat",
+      "[-35]% Strength <vs cities>",
+      "[+90]% Strength <vs [Bomber] units>",
+      "[+90]% Strength <vs [Fighter] units>",
+      "[+60]% Damage when intercepting",
+      "[75]% chance to intercept air attacks"
+    ]
+    "promotions": ["Hardstuck"]
+  },
+  {
+    "name": "Crimson Vampire Bat",
+    "unitType": "Flying Vampire",
+    "uniqueTo": "Blood Born",
+    "replaces": "Fighter"
+    "requiredTech": "Radar"
+    "movement": 3
+    "cost": 260
+    "strength": 25
+    "rangedStrength": 25
+    "range": 5
+    "uniques": [
+      "[-35]% Strength <vs cities>",
+      "[-3] Range <when below [1] [Blood]>",
+      "Consumes [1] [Blood]"
+     ]
+    "promotions": ["Hardstuck"]
+  },
+  {
+    "name": "Crimson Swarm Bat",
+    "unitType": "Flying Vampire",
+    "uniqueTo": "Blood Born",
+    "replaces": "Bomber"
+    "requiredTech": "Radar"
+    "obseleteTech": "Radar"
+    "movement": 4
+    "cost": 260
+    "strength": 20
+    "rangedStrength": 20
+    "range": 4
+    "interceptRange": 4
+    "uniques": [
+      "Comment [It's rather surprising how effective a swarm of bats is at taking down hostile aircraft]",
+      "[-35]% Strength <vs cities>",
+      "[+90]% Strength <vs [Bomber] units>",
+      "[+90]% Strength <vs [Fighter] units>",
+      "[+60]% Damage when intercepting",
+      "[75]% chance to intercept air attacks",
+      "[-2] Range <when below [1] [Blood]>",
+      "Consumes [1] [Blood]"
+    ]
+    "promotions": ["Hardstuck"]
+  },
+  {
     "name": "Hemogoblin",
     "unitType": "Blood Spawn",
     "uniqueTo": "Blood Born",
