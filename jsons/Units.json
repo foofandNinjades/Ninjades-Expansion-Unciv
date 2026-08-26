@@ -219,7 +219,8 @@
     ]
     "promotions": ["Hardstuck"]
     "civilopediaText": [
-      {"text": "It's rather surprising how effective a swarm of bats is at taking down hostile aircraft"}
+      {"text": "It's rather surprising how effective a swarm of bats is at taking down hostile aircraft."}
+    ]
   },
   {
     "name": "Crimson Vampire Bat",
@@ -237,7 +238,6 @@
       "[-3] Range <when below [1] [Blood]>",
       "Consumes [1] [Blood]"
      ]
-    "promotions": ["Hardstuck"]
   },
   {
     "name": "Crimson Swarm Bat",
@@ -261,9 +261,9 @@
       "[-2] Range <when below [1] [Blood]>",
       "Consumes [1] [Blood]"
     ]
-    "promotions": ["Hardstuck"]
     "civilopediaText": [
       {"text": "The same swarm bats as before, but now enhanced with the power of blood."}
+    ]
   },
   {
     "name": "Hemogoblin",
