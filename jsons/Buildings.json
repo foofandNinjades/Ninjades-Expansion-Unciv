@@ -73,11 +73,11 @@
 	  "replaces": "Colosseum",
 		"requiredTech": "Construction"
 	  "maintenance": 2,
-	  "cost": 110
+	  "cost": 160
 		"happiness": 1
 		"culture": 2
 		"uniques": [
-			"Provides [1] [Blood]"
+			"Provides [2] [Blood]"
 		],
 	},
   {
