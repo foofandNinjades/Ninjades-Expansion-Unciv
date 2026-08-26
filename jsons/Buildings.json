@@ -70,8 +70,8 @@
 	{
 	  "name": "Bloody Arena",
 	  "uniqueTo": "Blood Born",
-	  "replaces": "Courthouse",
-	  "maintenance": 0,
+	  "replaces": "Colosseum",
+	  "maintenance": 2,
 	  "cost": 110
 		"requiredTech": "Construction"
 		"happiness": 1
