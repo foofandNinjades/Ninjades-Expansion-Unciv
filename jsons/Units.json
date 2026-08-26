@@ -210,7 +210,6 @@
     "interceptRange": 4
     "uniques": [
       "[This Unit] loses the [Bloodrage] promotion <hidden from users>",
-      "Comment [It's rather surprising how effective a swarm of bats is at taking down hostile aircraft]",
       "[0] XP gained from combat",
       "[-35]% Strength <vs cities>",
       "[+90]% Strength <vs [Bomber] units>",
@@ -219,6 +218,8 @@
       "[75]% chance to intercept air attacks"
     ]
     "promotions": ["Hardstuck"]
+    "civilopediaText": [
+      {"text": "It's rather surprising how effective a swarm of bats is at taking down hostile aircraft"}
   },
   {
     "name": "Crimson Vampire Bat",
@@ -247,21 +248,22 @@
     "obseleteTech": "Radar"
     "movement": 4
     "cost": 260
-    "strength": 20
-    "rangedStrength": 20
+    "strength": 15
+    "rangedStrength": 15
     "range": 4
     "interceptRange": 4
     "uniques": [
-      "Comment [It's rather surprising how effective a swarm of bats is at taking down hostile aircraft]",
       "[-35]% Strength <vs cities>",
-      "[+90]% Strength <vs [Bomber] units>",
-      "[+90]% Strength <vs [Fighter] units>",
-      "[+60]% Damage when intercepting",
-      "[75]% chance to intercept air attacks",
+      "[+100]% Strength <vs [Bomber] units>",
+      "[+100]% Strength <vs [Fighter] units>",
+      "[+70]% Damage when intercepting",
+      "[85]% chance to intercept air attacks",
       "[-2] Range <when below [1] [Blood]>",
       "Consumes [1] [Blood]"
     ]
     "promotions": ["Hardstuck"]
+    "civilopediaText": [
+      {"text": "The same swarm bats as before, but now enhanced with the power of blood."}
   },
   {
     "name": "Hemogoblin",
