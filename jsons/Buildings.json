@@ -52,10 +52,11 @@
   },
   {
 	  "name": "Kill the Resistance",
-		"uniqueTo": "Blood Born",
+	  "uniqueTo": "Blood Born",
 	  "replaces": "Courthouse",
 	  "maintenance": 0,
 	  "cost": 0
+		"requiredTech": "Mathematics"
 		"happiness": 4
 		"uniques": [
 			"Unsellable",
@@ -65,8 +66,20 @@
 			"Requires at least [5] population",
 			"Destroyed when the city is captured"
 		],
-		"requiredTech": "Mathematics"
-},
+	},
+	{
+	  "name": "Bloody Arena",
+	  "uniqueTo": "Blood Born",
+	  "replaces": "Courthouse",
+	  "maintenance": 0,
+	  "cost": 110
+		"requiredTech": "Construction"
+		"happiness": 1
+		"culture": 2
+		"uniques": [
+			"Provides [1] Blood"
+		],
+	},
   {
     "name": "Pit of Blood",
     "uniqueTo": "Blood Born",
