@@ -399,5 +399,18 @@
       "Consumes [12] [Blood]"
     ]
     "attackSound": "metalhit"
-  }
+  },
+  // Cryomēnès
+  {
+    "name": "Créodahmè",
+    "unitType": "Dragonborne",
+    "uniqueTo": "Cryomēnès",
+    "movement": 3
+    "maintenance": 5
+    "strength": "50"
+    "uniques": [
+      "Unbuildable",
+      ",
+    ]
+  },
 ]
