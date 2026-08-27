@@ -410,7 +410,21 @@
     "strength": "50"
     "uniques": [
       "Unbuildable",
-      ",
+      "[-15]% Strength bonus for [Enemy] units within [3] tiles"
     ]
+    "promotions": ["Element - Ice"]
   },
+  {
+    "name": "Créodahmè's Vestige",
+    "unitType": "Essence",
+    "uniqueTo": "Cryomēnès",
+    "movement": 3
+    "maintenance": 5
+    "strength": "50"
+    "uniques": [
+      "Unbuildable",
+      "[-15]% Strength bonus for [Enemy] units within [3] tiles"
+    ]
+    "promotions": ["Element - Ice"]
+  }
 ]
