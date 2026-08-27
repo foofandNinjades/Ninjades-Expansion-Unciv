@@ -411,7 +411,8 @@
     "strength": "50"
     "uniques": [
       "Unbuildable",
-      "[-18]% Strength bonus for [Enemy] units within [3] tiles"
+      "[-18]% Strength bonus for [Enemy] units within [3] tiles",
+      "Limited to [1] per Civilization"
     ]
     "promotions": ["Element - Ice"]
   },
