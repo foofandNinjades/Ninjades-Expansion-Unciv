@@ -9,4 +9,12 @@
       "Stockpiled"
     ]
   }
+  {
+    "name": "Fragments of Pyirdra",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Cannot be traded",
+      "Stockpiled"
+    ]
+  }
 ]
