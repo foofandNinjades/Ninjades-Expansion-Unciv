@@ -34,7 +34,7 @@
   {
 	  "name": "Blood Born",
 		"leaderName": "Nehrak",
-		"adjective": ["Bloodian"],
+		"adjective": ["Bloody"],
 	  "startBias": ["Avoid [Coastal]"],
 	  "personality": "Blood Lovers",
 	  "preferredVictoryType": "Domination",
@@ -58,8 +58,16 @@
 	]
 	},
 	{
-		"name": "Cryomēnès"
-		"leaderName": "Sicle"
-		"adjective": 
+		"name": "Cryomēnès",
+		"leaderName": "Sicle",
+		"adjective": ["Cryomēnians"],
+		"startBias": ["Snow"],
+		"personality": "Créodahmè",
+		"preferredVictoryType": "Domination",
+		"uniques": [
+			
+		]
+		"outerColor": [0,0,50],
+		"innerColor": [100,100,255]
 	}
 ]
