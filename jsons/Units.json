@@ -189,6 +189,7 @@
     "strength": 40
     "uniques": [
       "[+10]% Strength bonus for [Vampire] units within [2] tiles",
+      "Limited to [3] per Civilization",
       "Can only be built <in cities with a [Portal of Blood]>"
     ]
     "promotions": ["Bloodlust I"]
@@ -313,7 +314,7 @@
     "uniques": [
       "Unbuildable",
       "[This Unit] takes [2] damage <upon turn start> <when above [38] HP>",
-      "[+150]% Strength <vs cities> <when attacking>",
+      "[+100]% Strength <vs cities> <when attacking>",
       "[-15]% Strength <vs [Ranged]> <when defending>",
       "All tiles cost 1 movement",
       "Consumes [4] [Blood]"
@@ -410,7 +411,7 @@
     "strength": "50"
     "uniques": [
       "Unbuildable",
-      "[-15]% Strength bonus for [Enemy] units within [3] tiles"
+      "[-18]% Strength bonus for [Enemy] units within [3] tiles"
     ]
     "promotions": ["Element - Ice"]
   },
@@ -418,13 +419,11 @@
     "name": "Créodahmè's Vestige",
     "unitType": "Essence",
     "uniqueTo": "Cryomēnès",
-    "movement": 3
-    "maintenance": 5
-    "strength": "50"
+    "movement": 4
     "uniques": [
       "Unbuildable",
-      "[-15]% Strength bonus for [Enemy] units within [3] tiles"
+      "[-7]% Strength bonus for [Enemy] units within [1] tiles",
+      "Limited to [5] per Civilization"
     ]
-    "promotions": ["Element - Ice"]
   }
 ]
