@@ -50,7 +50,7 @@
       "Heals [16] damage if it kills a unit"
     ]
   },
-  // Cryomēnès
+  // General
   {
     "name": "Dragonborne",
     "movementType": "Land",
@@ -58,4 +58,11 @@
       "Uncapturable"
     ]
   },
+  {
+    "name": "Essence",
+    "movementType": "Land"
+    "uniques": [
+      "[All] units gain the [Hardstuck] promotion"
+    ]
+  }
 ]
