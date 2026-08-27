@@ -34,7 +34,7 @@
   {
 	  "name": "Blood Born",
 		"leaderName": "Nehrak",
-		"adjective": "Bloody",
+		"adjective": ["Bloodian"],
 	  "startBias": ["Avoid [Coastal]"],
 	  "personality": "Blood Lovers",
 	  "preferredVictoryType": "Domination",
@@ -52,9 +52,14 @@
       ] 
     "outerColor": [20,20,20],
     "innerColor": [150,0,0],
-    "cities": ["Red Central", "Red Place"],
+    "cities": ["Red Central", "Red Place", "Hemoeln", "Carnege", "New Red Central", "Nehdrak", "Veyens", "Scarsh", "Hemora"],
     "civilopediaText": [
 		{"text": "Blood, blud, bloody blud blood"},
 	]
+	},
+	{
+		"name": "Cryomēnès"
+		"leaderName": "Sicle"
+		"adjective": 
 	}
 ]
