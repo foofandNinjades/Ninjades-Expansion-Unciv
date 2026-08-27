@@ -49,5 +49,13 @@
       "Uncapturable",
       "Heals [16] damage if it kills a unit"
     ]
-  }
+  },
+  // Cryomēnès
+  {
+    "name": "Dragonborne",
+    "movementType": "Land",
+    "uniques": [
+      "Uncapturable"
+    ]
+  },
 ]
