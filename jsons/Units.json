@@ -34,6 +34,21 @@
       {"text": "''Nothing will stop their visionary prowess''"},
     ]
   },
+  // Cryomēnès
+  {
+    "name": "The Frozen Sarcophagus",
+    "unitType": "Dragonborne",
+    "uniqueTo": "Cryomēnès",
+    "movement": 0
+    "maintenance": 0
+    "uniques": [
+      "Unbuildable",
+      "Uncapturable",
+      "Cannot Attack",
+      "[-50] Movement <when above [0] movement>",
+      "Can transform to [Créodahmè] <costs [5] [Fragments of Pyirdra]>",
+    ]
+  },
   // Military Units \\
   
   // Viewers of Beyond
@@ -385,20 +400,5 @@
       "Consumes [12] [Blood]"
     ]
     "attackSound": "metalhit"
-  },
-
-{
-  "name": "The Frozen Sarcophagus",
-  "unitType": "Dragonborne",
-  "uniqueTo": "Cryomēnès",
-  "movement": 0
-  "maintenance": 0
-  "uniques": [
-    "Unbuildable",
-    "Uncapturable",
-    "Cannot Attack",
-    "[-50] Movement <when above [0] movement>",
-    "Can transform to [Créodahmè] <costs [5] [Fragments of Pyirdra]>",
-  ]
-  ]
-}
+  }
+]
