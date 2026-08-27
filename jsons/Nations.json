@@ -62,12 +62,13 @@
 		"leaderName": "Sicle",
 		"adjective": ["Cryomēnians"],
 		"startBias": ["Snow"],
-		"personality": "Créodahmè",
+		"personality": "Créodahmè Restorers",
 		"preferredVictoryType": "Domination",
 		"uniques": [
 			
 		]
 		"outerColor": [0,0,50],
-		"innerColor": [0,255,255]
+		"innerColor": [100,255,255]
+		"cities": ["Créodahmè's Abode", "Mégar", "Frosht", "Freygaurd", "Icegate", "Dracor", "Seldole", "Sastērm"]
 	}
 ]
