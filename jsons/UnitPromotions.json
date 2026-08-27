@@ -110,7 +110,15 @@
     "unitTypes": ["Blood Spawn"]
     "row": 14
     "column": 14
-  }
+  },
+  // Cryomēnès \\
+  {
+    "name": "Element - Ice",
+    "uniques": [
+      "Double movement in [Snow]"
+    ]
+    "uniqueTypes": ["Dragonborne", "Dragon"]
+  },
   // General \\
   {
     "name": "Hardstuck",
