@@ -4,7 +4,8 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/GlassManufactory
   rotate: false
-  xy: 122, 4
+  xy: 4, 652
   size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
