@@ -139,6 +139,7 @@
   {
     "name": "Pray For Rain",
     "uniqueTo": "Blood Born",
+		"requiredTech": "Iron Working"
     "cost": 400
     "happiness": 5
     "uniques": [
@@ -157,6 +158,13 @@
   },
 // Cryomēnès
 	{
-		"name": ""
+		"name": "Furnace of Pyirdra"
+		"uniqueTo": "Cryomēnès"
+		"cost": 250
+		"unique": [
+			"Unsellable",
+			"Limited to [5] per Civilization",
+			"Can only be built <in cities with at least [5] [Population]>"
+		]
 	}
 ]
