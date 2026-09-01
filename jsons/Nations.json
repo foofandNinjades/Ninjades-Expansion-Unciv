@@ -70,5 +70,19 @@
 		"outerColor": [0,0,50],
 		"innerColor": [100,255,255]
 		"cities": ["Créodahmè's Abode", "Mégar", "Frosht", "Freygaurd", "Icegate", "Dracor", "Seldole", "Sastērm"]
+	},
+	{
+		"name": "Zevia",
+		"leaderName": "Zoidyr",
+		"adjective": ["Zevians"],
+		"startBias": ["Plains", "Forest"],
+		"personality": "Zoidrac Worshipers",
+		"preferredVictoryType": "Domination",
+		"uniques": [
+			"Free [The Frozen Sarcophagus] appears <in [Capital] cities>"
+		]
+		"outerColor": [0,200,0],
+		"innerColor": [0,50,0]
+		"cities": ["Créodahmè's Abode", "Mégar", "Frosht", "Freygaurd", "Icegate", "Dracor", "Seldole", "Sastērm"]
 	}
 ]
