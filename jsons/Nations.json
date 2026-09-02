@@ -6,6 +6,7 @@
     "startBias": ["Desert"],
 		"personality": "Seer Followers",
 		"preferredVictoryType": "Domination",
+		"uniqueName": "To See the Truth"
     "uniques": [
       "[All] units gain the [Truth Seeking] promotion",
       "[+10]% [Science] [in all cities]",
@@ -38,6 +39,7 @@
 	  "startBias": ["Avoid [Coastal]"],
 	  "personality": "Blood Lovers",
 	  "preferredVictoryType": "Domination",
+	  "uniqueName": "A Hunger for Blood",
 	  "uniques": [
 			"[-25]% Unhappiness from [Population] [in all cities]",
 			"[{All} {Melee} {Military}] units gain the [Bloodrage] promotion",
@@ -79,7 +81,7 @@
 		"startBias": ["Plains", "Forest"],
 		"personality": "Zoidrac Worshipers",
 		"preferredVictoryType": "Domination",
-		"uniqueName": "Ambition",
+		"uniqueName": "Ambition for Growth",
 		"uniqueText": "Land unit gains 2 XP upon ending a turn in a [Land] tile in your cities",
 		"uniques": [
 		]
