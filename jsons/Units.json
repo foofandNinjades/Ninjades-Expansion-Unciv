@@ -437,7 +437,7 @@
 		"uniqueName": "Essence of Growth"
     "uniques": [
       "Unbuildable",
-			"[This Unit] loses the [Harstuck] promotion",
+			"[This Unit] loses the [Hardstuck] promotion",
 			"[This Unit] gains [1] XP <upon turn end> <every [2] turns> <in [Friendly] cities>",
       "Limited to [10] per Civilization"
 		]
