@@ -79,8 +79,8 @@
 		"startBias": ["Plains", "Forest"],
 		"personality": "Zoidrac Worshipers",
 		"preferredVictoryType": "Domination",
+		"uniqueText": "Land unit gains 2 XP upon ending a turn in a [Land] tile in your cities",
 		"uniques": [
-			"Free [The Frozen Sarcophagus] appears <in [Capital] cities>"
 		]
 		"outerColor": [0,200,0],
 		"innerColor": [0,50,0]
