@@ -57,6 +57,7 @@
 		{"text": "Blood, blud, bloody blud blood"},
 	]
 	},
+	// Add a building that gives a free [The Frozen Sarcophogus]
 	{
 		"name": "Cryomēnès",
 		"leaderName": "Sicle",
