@@ -1,6 +1,6 @@
 {
-    // Jiangeshi's Idea from Leader Mission 2 Rising Power
   "unitUniques": [
+    // Jiangeshi's Idea from Leader Mission 2 Rising Power
     "[This Unit] gains [1] XP <upon ending a turn in a [Land] tile> <for [Zevia] Civilizations> <in [Your] cities> <hidden from users> <for [{Land} {Military}] units>"
     ]
 }
