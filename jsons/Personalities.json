@@ -3,34 +3,32 @@
     "name": "Seer Followers"
     "production": 7,
     "food": 4,
-    "gold": 6,
+    "gold": 4,
     "science": 10,
-    "culture": 5,
-    "happiness": 5,
-    "faith": 1,
-    "military": 8,
-    "aggressive": 3,
-    "declareWar": 4,
-    "commerce": 6,
+    "culture": 6,
+    "happiness": 4,
+    "faith": 0,
+    "military": 7,
+    "aggressive": 5,
+    "declareWar": 6,
+    "commerce": 5,
     "diplomacy": 2,
     "loyal": 3,
-    "expansion": 5,
-        
+    "expansion": 6,
+    "denounceWillingness": 9,
+    
     "priorities": {
-        "Tradition": 0,
-        "Feudalism1": 0,
-        "Liberty": 5,
-        "Autocracy": 0,
-        "Freedom": 0,
-        "Order": 0,
-            
-        "Honor": 0,
-        "Piety": 0,
-        "Commerce": 6,
-        "Patronage": 0,
-        "Industrial": 0,
-        "Rationalism": 10
-        }
+      "Tradition": 0,
+      "Liberty": 10,
+      "Honor": 0,
+      "Commerce": 6,
+      "Patronage": 0,
+      "Piety": 0,
+      "Rationalism": 10,
+      "Freedom": 0,
+      "Autocracy": 0,
+      "Order": 0
+    }
   },
   {
     "name": "Blood Lovers",
@@ -94,10 +92,43 @@
         "Piety": 0,
         "Commerce": 10,
         "Patronage": 0,
-        "Industrial": 0,
+        "Industrial": 1,
         "Rationalism": 0
     }
   },
+  {
+    "name": "Créodahmè Restorers",
+    "production": 6,
+    "food": 5,
+    "gold": 5,
+    "science": 5,
+    "culture": 7,
+    "happiness": 5,
+    "faith": 5,
+    "military": 7,
+    "aggressive": 5,
+    "declareWar": 6,
+    "commerce": 4,
+    "diplomacy": 5,
+    "loyal": 5,
+    "expansion": 8,
+        
+    "priorities": {
+        "Tradition": 10,
+        "Feudalism1": 5,
+        "Liberty": 20,
+        "Autocracy": 0,
+        "Freedom": 0,
+        "Order": 0,
+              
+        "Honor": 20,
+        "Piety": 0,
+        "Commerce": 5,
+        "Patronage": 0,
+        "Industrial": 0,
+        "Rationalism": 0
+    }
+  }
   {
     "name": "Zoidrac Worshipers",
     "production": 4,
