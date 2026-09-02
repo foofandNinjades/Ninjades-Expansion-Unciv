@@ -430,11 +430,10 @@
   // Zevia
 	{
 		"name": "Sproutling",
-    "unitType": "Essence",
+    "unitType": "Natureborne",
     "uniqueTo": "Zevia",
     "movement": 1
 		"strength": 5
-		"uniqueName": "Essence of Growth"
     "uniques": [
       "Unbuildable",
 			"[This Unit] loses the [Hardstuck] promotion",
