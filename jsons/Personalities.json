@@ -123,9 +123,9 @@
         "Freedom": 0,
         "Order": 0,
               
-        "Honor": 10,
+        "Honor": 20,
         "Piety": 0,
-        "Commerce": 0,
+        "Commerce": 5,
         "Patronage": 0,
         "Industrial": 0,
         "Rationalism": 0
