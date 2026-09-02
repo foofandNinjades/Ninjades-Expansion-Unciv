@@ -433,9 +433,12 @@
     "unitType": "Essence",
     "uniqueTo": "Zevia",
     "movement": 1
+		"strength": 5
+		"uniqueName": "Essence of Growth"
     "uniques": [
       "Unbuildable",
-			"[This Unit] gains [3] XP <upon turn end> <every [2] turns>",
+			"[This Unit] loses the [Harstuck] promotion",
+			"[This Unit] gains [1] XP <upon turn end> <every [2] turns> <in [Friendly] cities>",
       "Limited to [10] per Civilization"
 		]
 		"promotions": ["Element - Nature"]
