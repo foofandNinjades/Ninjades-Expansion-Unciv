@@ -2,8 +2,8 @@
   // Civilian units \\
   
   // Viewers of Beyond
-  {
-    "name": "Cornae",
+	{
+		"name": "Cornae",
     "unitType": "Civilian",
     "uniqueTo": "Viewers of Beyond",
     "replaces": "Worker",
@@ -51,7 +51,7 @@
   // Military Units \\
   
   // Viewers of Beyond
-  {
+	{
     //Based on the Iris, which controls how light enters the eye by controlling the pupil
     "name": "Irae",
     "unitType": "Sword",
@@ -62,8 +62,8 @@
     "strength": 6,
     "upgradesTo": "Guardsman",
     "promotions": ["Devoted Protector I"]
-  },
-  {
+	},
+	{
     "name": "Guardsman",
     "unitType": "Sword",
     "uniqueTo": "Viewers of Beyond",
@@ -74,8 +74,8 @@
     "strength": 15,
     "uniques": ["[+30]% Strength <vs [Ranged] units> <when defending>", "[-25]% Strength <on foreign continents>"]
     "promotions": ["Devoted Protector II", "Devoted Protector I"]
-  },
-  {
+	},
+	{
     //Based on the macula which is used to provide the brain a clear image of what is in front of it
     "name": "Maculaus",
     "unitType": "Beyonder",
@@ -94,8 +94,8 @@
       "All tiles cost 1 movement",
       "Cannot Embark"
     ]
-  },
-  {
+	},
+	{
     //Based on the vitreous humor which is a clear, jelly-like fluid in the eye for keeps the shape of the eye and helps with impacts
     "name": "Vitrea",
     "unitType": "Liquid Beyonder",
@@ -111,9 +111,9 @@
       "Limited to [2] per Civilization",
       "[-25]% Strength <when attacking>"
     ]
-  },
+	},
 // Blood Born
-  {
+	{
     "name": "Vampire Thrall",
     "unitType": "Vampire",
     "uniqueTo": "Blood Born",
@@ -193,8 +193,7 @@
       "Can only be built <in cities with a [Portal of Blood]>"
     ]
     "promotions": ["Bloodlust I"]
-  },
-  {
+  },{
     "name": "Vampire Bat",
     "unitType": "Flying Vampire",
     "uniqueTo": "Blood Born",
@@ -427,5 +426,18 @@
       "[-7]% Strength bonus for [Enemy] units within [1] tiles",
       "Limited to [5] per Civilization"
     ]
+  },
+  // Zevia
+	{
+		"name": "Sproutling",
+    "unitType": "Essence",
+    "uniqueTo": "Zevia",
+    "movement": 1
+    "uniques": [
+      "Unbuildable",
+			"[This Unit] gains [3] XP <upon turn end> <every [2] turns>",
+      "Limited to [10] per Civilization"
+		]
+		"promotions": ["Element - Nature"]
   }
 ]
