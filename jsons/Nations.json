@@ -79,6 +79,7 @@
 		"startBias": ["Plains", "Forest"],
 		"personality": "Zoidrac Worshipers",
 		"preferredVictoryType": "Domination",
+		"uniqueName": "Ambition",
 		"uniqueText": "Land unit gains 2 XP upon ending a turn in a [Land] tile in your cities",
 		"uniques": [
 		]
