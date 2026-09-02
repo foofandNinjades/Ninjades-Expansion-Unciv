@@ -82,7 +82,6 @@
 		"uniqueName": "Ambition",
 		"uniqueText": "Land unit gains 2 XP upon ending a turn in a [Land] tile in your cities",
 		"uniques": [
-		"[All] gains [2] XP <upon ending a turn in a [Land] tile>"
 		]
 		"outerColor": [0,200,0],
 		"innerColor": [0,50,0]
