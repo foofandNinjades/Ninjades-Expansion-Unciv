@@ -76,13 +76,13 @@
 	},
 	{
 		"name": "Zevia",
-		"leaderName": "Zoidyr",
+		"leaderName": "Loid",
 		"adjective": ["Zevians"],
 		"startBias": ["Plains", "Forest"],
 		"personality": "Zoidrac Worshipers",
 		"preferredVictoryType": "Domination",
 		"uniqueName": "Ambition for Growth",
-		"uniqueText": "Land unit gains 2 XP upon ending a turn in a [Land] tile in your cities",
+		"uniqueText": "Units gains 2 XP upon ending a turn in a land tile in your cities",
 		"uniques": [
 		]
 		"outerColor": [0,200,0],
