@@ -50,6 +50,11 @@
       "Heals [16] damage if it kills a unit"
     ]
   },
+  // Zevia
+  {
+    "name": "Natureborne"
+    "movementType": "Land"
+  },
   // General
   {
     "name": "Dragonborne",
