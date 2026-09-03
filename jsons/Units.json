@@ -440,6 +440,6 @@
 			"[This Unit] gains [1] XP <upon turn end> <every [2] turns> <in [Friendly] cities>",
       "Limited to [8] per Civilization"
 		]
-		"promotions": ["Element - Nature"]
+		"promotions": ["Element - Nature", "Training with Trees"]
   }
 ]
