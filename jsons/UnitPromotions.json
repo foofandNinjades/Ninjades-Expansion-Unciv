@@ -120,6 +120,29 @@
       "[This Unit] gains [1] XP <upon turn end> <every [5] turns> <in [Friendly] cities> <in [Forest] tiles>"
     ]
   },
+  {
+    "name": "Root Wedging I"
+    "uniques": [
+      "[+5]% Strength <vs cities> <when attacking>"
+    ]
+    "uniqueTypes": ["Natureborne"]
+  },
+  {
+    "name": "Root Wedging II"
+    "prerequisites": ["Root Wedging I"]
+    "uniques": [
+      "[+5]% Strength <vs cities> <when attacking>"
+    ]
+    "uniqueTypes": ["Natureborne"]
+  },
+  {
+    "name": "Root Wedging III"
+    "prerequisites": ["Root Wedging II"]
+    "uniques": [
+      "[+5]% Strength <vs cities> <when attacking>"
+    ]
+    "uniqueTypes": ["Natureborne"]
+  },
   // General \\
   {
     "name": "Hardstuck",
