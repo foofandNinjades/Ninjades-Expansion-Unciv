@@ -112,7 +112,14 @@
     "column": 14
   },
   // Cryomēnès \\
-  
+
+  // Zevia \\
+  {
+    "name": "Training with Trees"
+    "uniques": [
+      "[This Unit] gains [1] XP <upon turn end> <every [5] turns> <in [Friendly] cities> <in [Forest] tiles>"
+    ]
+  },
   // General \\
   {
     "name": "Hardstuck",
