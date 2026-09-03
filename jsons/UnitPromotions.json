@@ -126,6 +126,8 @@
       "[+5]% Strength <vs cities> <when attacking>"
     ]
     "uniqueTypes": ["Natureborne"]
+    "row": 15
+    "column": 12
   },
   {
     "name": "Root Wedging II"
@@ -134,6 +136,8 @@
       "[+5]% Strength <vs cities> <when attacking>"
     ]
     "uniqueTypes": ["Natureborne"]
+    "row": 15
+    "column": 13
   },
   {
     "name": "Root Wedging III"
@@ -142,6 +146,8 @@
       "[+5]% Strength <vs cities> <when attacking>"
     ]
     "uniqueTypes": ["Natureborne"]
+    "row": 15
+    "column": 14
   },
   // General \\
   {
