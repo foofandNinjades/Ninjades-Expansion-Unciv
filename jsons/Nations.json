@@ -83,7 +83,7 @@
 		"preferredVictoryType": "Domination",
 		"uniqueName": "Ambition for Growth",
 		"uniques": [
-			"Comment [Units gains 2 XP upon ending a turn in a land tile in your cities]",
+			"Comment [Units gains 1 XP upon ending a turn in a land tile in your cities]",
 			"[+25]% XP required for promotions" 
 		]
 		"outerColor": [0,200,0],
