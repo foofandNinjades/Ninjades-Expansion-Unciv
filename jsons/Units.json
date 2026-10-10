@@ -1,0 +1,445 @@
+[
+  // Civilian units \\
+  
+  // Viewers of Beyond
+	{
+		"name": "Cornae",
+    "unitType": "Civilian",
+    "uniqueTo": "Viewers of Beyond",
+    "replaces": "Worker",
+    "movement": 2,
+    "cost": 85
+    "uniques": ["Can build [Land] improvements on tiles",
+    "Automation is a primary action",
+    "[-10]% construction time for [All] improvements"]  
+  },
+  {
+    "name": "The Seer",
+    "unitType": "Civilian",
+    "uniqueTo": "Viewers of Beyond",
+    "replaces": "Great Scientist",
+    "movement": 2,
+    "uniques": [
+      "Unbuildable", 
+      "[+3] Sight <in [Hill] tiles>",
+      "Can see over obstacles",
+      "Can instantly construct a [Academy] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+      "Can instantly construct a [Trading post] improvement <[2] times> <after which this unit is consumed>",
+      "Automation is a primary action",
+      "Can instantly construct a [Customs house] improvement <by consuming this unit> <after adopting [Mercantilism]> <if it hasn't used other actions yet>",
+      "Great Person - [Science]", 
+      "Limited to [2] per Civilization"
+    ],
+    "civilopediaText": [
+      {"text": "''Nothing will stop their visionary prowess''"},
+    ]
+  },
+  // Cryomēnès
+  {
+    "name": "The Frozen Sarcophagus",
+    "unitType": "Dragonborne",
+    "uniqueTo": "Cryomēnès",
+    "movement": 0
+    "maintenance": 0
+    "uniques": [
+      "Unbuildable",
+      "Cannot Attack",
+      "[-50] Movement <when above [0] movement>",
+      "Can transform to [Créodahmè] <costs [5] [Fragments of Pyirdra]>",
+    ]
+  },
+  // Military Units \\
+  
+  // Viewers of Beyond
+	{
+    //Based on the Iris, which controls how light enters the eye by controlling the pupil
+    "name": "Irae",
+    "unitType": "Sword",
+    "uniqueTo": "Viewers of Beyond",
+    "replaces": "Warrior",
+    "movement": 2,
+    "cost": 35,
+    "strength": 6,
+    "upgradesTo": "Guardsman",
+    "promotions": ["Devoted Protector I"]
+	},
+	{
+    "name": "Guardsman",
+    "unitType": "Sword",
+    "uniqueTo": "Viewers of Beyond",
+    "replaces": "Swordsman",
+    "requiredTech": "Bronze Working",
+    "movement": 2,
+    "cost": 70,
+    "strength": 15,
+    "uniques": ["[+30]% Strength <vs [Ranged] units> <when defending>", "[-25]% Strength <on foreign continents>"]
+    "promotions": ["Devoted Protector II", "Devoted Protector I"]
+	},
+	{
+    //Based on the macula which is used to provide the brain a clear image of what is in front of it
+    "name": "Maculaus",
+    "unitType": "Beyonder",
+    "uniqueTo": "Viewers of Beyond",
+    "replaces": "Atomic Bomb",
+    "requiredTech": "Nuclear Fission",
+    "movement": 8,
+    "cost": 2500
+    "maintenance": 15,
+    "strength": 115,
+    "uniques": ["[+999]% Strength <vs [City-States]>", 
+      "[+999]% Strength <vs [Barbarians]>",
+      "Limited to [1] per Civilization", 
+      "[+50]% Strength <vs cities> <when attacking>",
+      "Can see over obstacles",
+      "All tiles cost 1 movement",
+      "Cannot Embark"
+    ]
+	},
+	{
+    //Based on the vitreous humor which is a clear, jelly-like fluid in the eye for keeps the shape of the eye and helps with impacts
+    "name": "Vitrea",
+    "unitType": "Liquid Beyonder",
+    "uniqueTo": "Viewers of Beyond",
+    "requiredTech": "Nuclear Fission",
+    "movement": 6,
+    "cost": 1750
+    "maintenance": 15,
+    "strength": 75,
+    "uniques": [
+      "[+50]% Strength <when defending>",
+      "[+150]% Strength <vs cities> <when defending>",
+      "Limited to [2] per Civilization",
+      "[-25]% Strength <when attacking>"
+    ]
+	},
+// Blood Born
+	{
+    "name": "Vampire Thrall",
+    "unitType": "Vampire",
+    "uniqueTo": "Blood Born",
+    "movement": 2
+    "maintenance": 0
+    "strength": 25
+    "uniques": [
+      "Unbuildable",
+      "[0] XP gained from combat",
+      "[This Unit] loses the [Bloodrage] promotion <hidden from users>"
+    ]
+    "promotions": ["Hardstuck"]
+  },
+  {
+    "name": "Vampire Warrior",
+    "unitType": "Vampire",
+    "uniqueTo": "Blood Born",
+    "requiredTech": "Education",
+    "movement": 2
+    "cost": 100
+    "strength": 15
+    "obsoleteTech": "Scientific Theory",
+    "upgradesTo": "Vampire Knight"
+    "uniques": [
+      "Can only be built <in cities with a [Runes of Blood]>",
+    ]
+    "promotions": ["Bloodlust I"]
+  },
+  {
+    "name": "Vampire Knight",
+    "unitType": "Vampire",
+    "uniqueTo": "Blood Born",
+    "requiredTech": "Scientific Theory",
+    "movement": 2
+    "cost": 235
+    "strength": 36
+    "uniques": [
+      "[+15]% Strength <vs [Ranged]> <when defending>",
+      "Consumes [1] [Iron]",
+      "Can only be built <in cities with a [Runes of Blood]>",
+    ]
+    "promotions": ["Bloodlust I"]
+  },
+  {
+    "name": "Vampire Mage",
+    "unitType": "Vampire",
+    "uniqueTo": "Blood Born",
+    "requiredTech": "Scientific Theory",
+    "movement": 2
+    "cost": 450
+    "strength": 25
+    "rangedStrength": 30
+    "uniques": [
+      "Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength <when attacking>",
+      "[+25]% Strength <when above [10] HP>",
+      "[-50]% Strength <when below [10] HP>",
+      "[+1] Movement <when below [10] HP>",
+      "[+8] HP when healing",
+      "All adjacent units heal [+8] HP when healing",
+      "All tiles cost 1 movement <when below [10] HP>",
+      "Can only be built <in cities with a [Portal of Blood]>"
+    ]
+    "promotions": ["Bloodlust I"]
+  },
+  {
+    "name": "Vampire Lord",
+    "unitType": "Vampire",
+    "uniqueTo": "Blood Born",
+    "requiredTech": "Scientific Theory",
+    "movement": 3
+    "maintenance": 5
+    "cost": 650
+    "strength": 40
+    "uniques": [
+      "[+10]% Strength bonus for [Vampire] units within [2] tiles",
+      "Limited to [3] per Civilization",
+      "Can only be built <in cities with a [Portal of Blood]>"
+    ]
+    "promotions": ["Bloodlust I"]
+  },{
+    "name": "Vampire Bat",
+    "unitType": "Flying Vampire",
+    "uniqueTo": "Blood Born",
+    "replaces": "Great War Bomber"
+    "requiredTech": "Flight"
+    "movement": 3
+    "cost": 160
+    "strength": 20
+    "range": 5
+    "uniques": [
+      "[0] XP gained from combat",
+      "[-35]% Strength <vs cities>",
+      "[+10]% Strength <vs [Wounded] units> <when attacking>",
+      "[This Unit] loses the [Bloodrage] promotion <hidden from users>"
+    ]
+    "promotions": ["Hardstuck"]
+  },
+  {
+    "name": "Swarm Bat",
+    "unitType": "Flying Vampire",
+    "uniqueTo": "Blood Born",
+    "replaces": "Triplane"
+    "requiredTech": "Flight"
+    "obseleteTech": "Radar"
+    "movement": 4
+    "cost": 160
+    "strength": 10
+    "range": 4
+    "interceptRange": 4
+    "uniques": [
+      "[This Unit] loses the [Bloodrage] promotion <hidden from users>",
+      "[0] XP gained from combat",
+      "[-35]% Strength <vs cities>",
+      "[+90]% Strength <vs [Bomber] units>",
+      "[+90]% Strength <vs [Fighter] units>",
+      "[+60]% Damage when intercepting",
+      "[75]% chance to intercept air attacks"
+    ]
+    "promotions": ["Hardstuck"]
+    "civilopediaText": [
+      {"text": "It's rather surprising how effective a swarm of bats is at taking down hostile aircraft."}
+    ]
+  },
+  {
+    "name": "Crimson Vampire Bat",
+    "unitType": "Flying Vampire",
+    "uniqueTo": "Blood Born",
+    "replaces": "Fighter"
+    "requiredTech": "Radar"
+    "movement": 3
+    "cost": 260
+    "strength": 25
+    "rangedStrength": 25
+    "range": 5
+    "uniques": [
+      "[-35]% Strength <vs cities>",
+      "[+10]% Strength <vs [Wounded] units> <when attacking>",
+      "[-3] Range <when below [1] [Blood]>",
+      "Consumes [1] [Blood]"
+     ]
+  },
+  {
+    "name": "Crimson Swarm Bat",
+    "unitType": "Flying Vampire",
+    "uniqueTo": "Blood Born",
+    "replaces": "Bomber"
+    "requiredTech": "Radar"
+    "obseleteTech": "Radar"
+    "movement": 4
+    "cost": 260
+    "strength": 15
+    "rangedStrength": 15
+    "range": 4
+    "interceptRange": 4
+    "uniques": [
+      "[-35]% Strength <vs cities>",
+      "[+100]% Strength <vs [Bomber] units>",
+      "[+100]% Strength <vs [Fighter] units>",
+      "[+70]% Damage when intercepting",
+      "[85]% chance to intercept air attacks",
+      "[-2] Range <when below [1] [Blood]>",
+      "Consumes [1] [Blood]"
+    ]
+    "civilopediaText": [
+      {"text": "The same swarm bats as before, but now enhanced with the power of blood."}
+    ]
+  },
+  {
+    "name": "Hemogoblin",
+    "unitType": "Blood Spawn",
+    "uniqueTo": "Blood Born",
+    "movement": 2
+    "maintenance": 0
+    "strength": 3
+    "upgradesTo": "Giant Hemogoblin"
+    "uniques": [
+      "Unbuildable <for [Human player] Civilizations>",
+      "Can be purchased for [150] [Faith] [in all cities] <(modified by game speed)>",
+      "Can only be built <in cities with a [Blood Altar]>",
+      "Heals [20] damage if it kills a unit",
+      "[This Unit] takes [16] damage <upon turn start> <when above [38] HP>",
+      "Can upgrade to [Blood Demon]",
+      "Consumes [1] [Blood]",
+      "Shown while unbuildable"
+    ]
+  },
+  { 
+    "name": "Giant Hemogoblin",
+    "unitType": "Giant Blood Spawn",
+    "uniqueTo": "Blood Born",
+    "requiredTech": "Mathematics"
+    "movement": 2
+    "cost": 50
+    "maintenance": 0
+    "strength": 16
+    "upgradesTo": "Titanic Hemogoblin"
+    "uniques": [
+      "Unbuildable",
+      "[This Unit] takes [2] damage <upon turn start> <when above [38] HP>",
+      "[+100]% Strength <vs cities> <when attacking>",
+      "[-15]% Strength <vs [Ranged]> <when defending>",
+      "All tiles cost 1 movement",
+      "Consumes [4] [Blood]"
+    ]
+  },
+  { 
+    "name": "Titanic Hemogoblin",
+    "unitType": "Giant Blood Spawn",
+    "uniqueTo": "Blood Born",
+    "requiredTech": "Military Science"
+    "movement": 2
+    "cost": 80
+    "maintenance": 0
+    "strength": 45
+    "uniques": [
+      "Unbuildable",
+      "[+125]% Strength <vs cities> <when attacking>",
+      "[-10]% Strength <vs [Ranged]> <when defending>",
+      "No defensive terrain bonus",
+      "All tiles cost 1 movement",
+      "Consumes [15] [Blood]"
+    ]
+  },
+  {
+    "name": "Blood Demon",
+    "unitType": "Blood Spawn",
+    "uniqueTo": "Blood Born",
+    "requiredTech": "Civil Service"
+    "movement": 3
+    "cost": 80
+    "maintenance": 0
+    "strength": 25
+    "upgradesTo": "Blood Tyrant"
+    "uniques": [
+      "Unbuildable",
+      "Heals [55] damage if it kills a unit",
+      "[This Unit] takes [2] damage <upon turn start> <when above [38] HP>",
+      "Consumes [10] [Blood]"
+    ]
+  },
+  {
+    "name": "Blood Tyrant",
+    "unitType": "Blood Spawn",
+    "uniqueTo": "Blood Born",
+    "requiredTech": "Rifling"
+    "movement": 3
+    "maintenance": 0
+    "strength": 65
+    "uniques": [
+      "Unbuildable",
+      "Uncapturable",
+      "Heals [33] damage if it kills a unit",
+      "[+10]% Strength bonus for [Melee] units within [2] tiles",
+      "[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+      "Earn [150]% of killed [Wounded] unit's [Strength] as [Blood]",
+      "Consumes [25] [Blood]"
+    ]
+  },
+  {
+    "name": "Massacre Machine",
+    "unitType": "Armored",
+    "uniqueTo": "Blood Born",
+    "replaces": "Landship",
+    "requiredTech": "Combustion",
+    "movement": 3
+    "cost": 450
+    "maintenance": 2
+    "strength": 55
+    "uniques": [
+      "Can only be built <in cities with a [Blood Engine]>",
+      "[This Unit] gains [4] movement <upon defeating a [Land] unit> <when above [12] [Blood]>",
+      "[This Unit] gains [2] movement <upon defeating a [Land] unit> <when below [12] [Blood]>",
+      "[-100]% Strength <when attacking> <vs cities>",
+      "[+33]% Strength <when attacking> <vs [non-[Armored]]>",
+      "[-50]% Strength <when attacking> <vs [Armored]>",
+      "[+50]% Strength <when defending> <vs [Ranged]>",
+      "Can move after attacking",
+      "[-40]% Strength <when below [12] [Blood]> <when attacking>",
+      "[-2] Movement <when below [12] [Blood]>",
+      "[2] additional attacks per turn",
+      "No movement cost to pillage",
+      "No defensive terrain bonus",
+      "Consumes [12] [Blood]"
+    ]
+    "attackSound": "metalhit"
+  },
+  // Cryomēnès
+  {
+    "name": "Créodahmè",
+    "unitType": "Dragonborne",
+    "uniqueTo": "Cryomēnès",
+    "movement": 3
+    "maintenance": 5
+    "strength": "50"
+    "uniques": [
+      "Unbuildable",
+      "[-18]% Strength bonus for [Enemy] units within [3] tiles",
+      "Limited to [1] per Civilization",
+      "Shown while unbuildable"
+    ]
+    "promotions": ["Element - Ice"]
+  },
+  {
+    "name": "Créodahmè's Vestige",
+    "unitType": "Essence",
+    "uniqueTo": "Cryomēnès",
+    "movement": 4
+    "uniques": [
+      "Unbuildable",
+      "[-7]% Strength bonus for [Enemy] units within [1] tiles",
+      "Limited to [5] per Civilization"
+    ]
+  },
+  // Zevia
+	{
+		"name": "Sproutling",
+    "unitType": "Natureborne",
+    "uniqueTo": "Zevia",
+		"replaces": "Warrior",
+    "movement": 1
+		"strength": 5
+    "uniques": [
+      "Unbuildable",
+			"[This Unit] gains [1] XP <upon turn end> <every [5] turns> <in [Friendly] cities>",
+      "Limited to [8] per Civilization"
+		]
+		"promotions": ["Element - Nature", "Training with Trees"]
+  }
+]
