@@ -151,6 +151,17 @@
     "column": 14
   },
   {
+    "name": "Root Wedging MAX"
+    "prerequisites": ["Great Growth"]
+    "uniques": [
+      "[+5]% Strength <vs cities> <when attacking>",
+      "Only available <for units with [Root Wedging 3]>"
+    ]
+    "unitTypes": ["Natureborne"]
+    "row": 15
+    "column": 18
+  },
+  {
     "name": "Hardening I"
     "uniques": [
       "[+6]% Strength <when defending>"
@@ -180,6 +191,30 @@
     "column": 14
   },
   {
+    "name": "Hardening IV"
+    "prerequisites": ["Great Growth I"]
+    "uniques": [
+      "[+6]% Strength <when defending>",
+      "Only available <for units with [Hardening III]>" 
+    ]
+    "unitTypes": ["Natureborne"]
+    "row": 16
+    "column": 16
+  },
+  {
+    "name": "Hardening MAX"
+    "prerequisites": ["Great Growth I"]
+    "uniques": [
+      "[+16]% Strength <when defending>",
+      "[+15]% Strength <when defending> <vs [Ranged] units>",
+      "[+25]% Strength <when defending> <vs cities>",
+      "Only available <for units with [Hardening III]>" 
+    ]
+    "unitTypes": ["Natureborne"]
+    "row": 16
+    "column": 17
+  },
+  {
     "name": "Great Growth I"
     "prerequisites": ["Root Wedging III", "Hardening III"]
     "uniques": [
@@ -189,6 +224,17 @@
     "unitTypes": ["Natureborne"]
     "row": 17
     "column": 15
+  },
+  {
+    "name": "Great Growth II"
+    "prerequisites": ["Root Wedging MAX", "Hardening MAX"]
+    "uniques": [
+      "[+5]% Strength",
+      "[+1] Movement"
+    ]
+    "unitTypes": ["Natureborne"]
+    "row": 17
+    "column": 18
   },
   // General \\
   {
