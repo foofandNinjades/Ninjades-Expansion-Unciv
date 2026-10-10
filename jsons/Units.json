@@ -22,7 +22,7 @@
     "uniques": [
       "Unbuildable", 
       "[+3] Sight <in [Hill] tiles>",
-      "Can see over obstacles",
+      "Can see over obstacles <in [Hill] tiles>",
       "Can instantly construct a [Academy] improvement <by consuming this unit> <if it hasn't used other actions yet>",
       "Can instantly construct a [Trading post] improvement <[2] times> <after which this unit is consumed>",
       "Automation is a primary action",
@@ -51,30 +51,6 @@
   // Military Units \\
   
   // Viewers of Beyond
-	{
-    //Based on the Iris, which controls how light enters the eye by controlling the pupil
-    "name": "Irae",
-    "unitType": "Sword",
-    "uniqueTo": "Viewers of Beyond",
-    "replaces": "Warrior",
-    "movement": 2,
-    "cost": 35,
-    "strength": 6,
-    "upgradesTo": "Guardsman",
-    "promotions": ["Devoted Protector I"]
-	},
-	{
-    "name": "Guardsman",
-    "unitType": "Sword",
-    "uniqueTo": "Viewers of Beyond",
-    "replaces": "Swordsman",
-    "requiredTech": "Bronze Working",
-    "movement": 2,
-    "cost": 70,
-    "strength": 15,
-    "uniques": ["[+30]% Strength <vs [Ranged] units> <when defending>", "[-25]% Strength <on foreign continents>"]
-    "promotions": ["Devoted Protector II", "Devoted Protector I"]
-	},
 	{
     //Based on the macula which is used to provide the brain a clear image of what is in front of it
     "name": "Maculaus",
@@ -207,7 +183,8 @@
       "[0] XP gained from combat",
       "[-35]% Strength <vs cities>",
       "[+10]% Strength <vs [Wounded] units> <when attacking>",
-      "[This Unit] loses the [Bloodrage] promotion <hidden from users>"
+      "[This Unit] loses the [Bloodrage] promotion <hidden from users>",
+			"Can only be built <in cities with a [Portal of Blood]>"
     ]
     "promotions": ["Hardstuck"]
   },
@@ -230,7 +207,8 @@
       "[+90]% Strength <vs [Bomber] units>",
       "[+90]% Strength <vs [Fighter] units>",
       "[+60]% Damage when intercepting",
-      "[75]% chance to intercept air attacks"
+      "[75]% chance to intercept air attacks",
+			"Can only be built <in cities with a [Portal of Blood]>"
     ]
     "promotions": ["Hardstuck"]
     "civilopediaText": [
@@ -252,7 +230,8 @@
       "[-35]% Strength <vs cities>",
       "[+10]% Strength <vs [Wounded] units> <when attacking>",
       "[-3] Range <when below [1] [Blood]>",
-      "Consumes [1] [Blood]"
+      "Consumes [1] [Blood]",
+			"Can only be built <in cities with a [Portal of Blood]>"
      ]
   },
   {
@@ -270,12 +249,13 @@
     "interceptRange": 4
     "uniques": [
       "[-35]% Strength <vs cities>",
-      "[+100]% Strength <vs [Bomber] units>",
+      "[+150]% Strength <vs [Bomber] units>",
       "[+100]% Strength <vs [Fighter] units>",
       "[+70]% Damage when intercepting",
       "[85]% chance to intercept air attacks",
       "[-2] Range <when below [1] [Blood]>",
-      "Consumes [1] [Blood]"
+      "Consumes [1] [Blood]",
+			"Can only be built <in cities with a [Portal of Blood]>"
     ]
     "civilopediaText": [
       {"text": "The same swarm bats as before, but now enhanced with the power of blood."}
