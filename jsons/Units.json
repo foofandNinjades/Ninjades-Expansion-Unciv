@@ -437,7 +437,6 @@
 		"strength": 5
 		"cost": 32
     "uniques": [
-      "Unbuildable",
 			"[This Unit] gains [1] XP <upon turn end> <every [7] turns> <in [Friendly] cities>",
       "Limited to [8] per Civilization"
 		]
