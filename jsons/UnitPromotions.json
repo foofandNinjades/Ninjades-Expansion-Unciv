@@ -155,7 +155,7 @@
     "prerequisites": ["Great Growth"]
     "uniques": [
       "[+5]% Strength <vs cities> <when attacking>",
-      "Only available <for units with [Root Wedging 3]>"
+      "Only available <for units with [Root Wedging III]>"
     ]
     "unitTypes": ["Natureborne"]
     "row": 15
