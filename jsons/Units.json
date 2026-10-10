@@ -432,11 +432,12 @@
 		"name": "Sproutling",
     "unitType": "Natureborne",
     "uniqueTo": "Zevia",
+		"replaces": "Warrior",
     "movement": 1
 		"strength": 5
     "uniques": [
       "Unbuildable",
-			"[This Unit] gains [1] XP <upon turn end> <every [2] turns> <in [Friendly] cities>",
+			"[This Unit] gains [1] XP <upon turn end> <every [5] turns> <in [Friendly] cities>",
       "Limited to [8] per Civilization"
 		]
 		"promotions": ["Element - Nature", "Training with Trees"]
