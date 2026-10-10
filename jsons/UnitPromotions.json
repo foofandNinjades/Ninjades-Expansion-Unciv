@@ -117,7 +117,8 @@
   {
     "name": "Training with Trees"
     "uniques": [
-      "[This Unit] gains [1] XP <upon turn end> <every [5] turns> <in [Friendly] cities> <in [Forest] tiles>"
+      "[This Unit] gains [1] XP <upon turn end> <every [5] turns> <in [Friendly] cities> <in [Forest] tiles>",
+      "[This Unit] gains [2] XP <upon turn end> <every [4] turns> <in [Friendly] cities> <in [Jungle] tiles>",
     ]
   },
   {
