@@ -435,7 +435,7 @@
 		"replaces": "Warrior",
     "movement": 1
 		"strength": 5
-		"cost": 65
+		"cost": 32
     "uniques": [
       "Unbuildable",
 			"[This Unit] gains [1] XP <upon turn end> <every [7] turns> <in [Friendly] cities>",
