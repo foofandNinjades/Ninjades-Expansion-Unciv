@@ -164,7 +164,8 @@
     "name": "Root Wedging MAX"
     "prerequisites": ["Root Wedging IV"]
     "uniques": [
-      "[+15]% Strength <vs cities> <when attacking>"
+      "[+35]% Strength <vs cities> <when attacking>",
+      "[+10]% Strength <vs cities> <when defending>"
     ]
     "unitTypes": ["Natureborne"]
     "row": 15
