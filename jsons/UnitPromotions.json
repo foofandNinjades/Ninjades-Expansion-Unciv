@@ -150,6 +150,15 @@
     "row": 15
     "column": 14
   },
+  {
+    "name": "Great Growth I"
+    "prerequisites": ["Root Wedging III"]
+    "uniques": [
+      "[+5]% Strength"
+    ]
+    "unitTypes": ["Natureborne"]
+    "row": 15
+    "column": 14
   // General \\
   {
     "name": "Hardstuck",
