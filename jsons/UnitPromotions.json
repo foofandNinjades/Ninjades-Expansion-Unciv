@@ -217,7 +217,9 @@
     "uniques": [
       "[+16]% Strength <when defending>",
       "[+15]% Strength <when defending> <vs [Ranged] units>",
-      "[+25]% Strength <when defending> <vs cities>"
+      "[+25]% Strength <when defending> <vs cities>",
+      "Comment [Unavailable with any other MAX promotion]",
+      "Only available <for units without [Root Wedging MAX]> <hidden from users>"
     ]
     "unitTypes": ["Natureborne"]
     "row": 16
