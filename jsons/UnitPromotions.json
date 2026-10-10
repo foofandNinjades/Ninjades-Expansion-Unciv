@@ -213,12 +213,11 @@
   },
   {
     "name": "Hardening MAX"
-    "prerequisites": ["Great Growth I"]
+    "prerequisites": ["Hardening IV"]
     "uniques": [
       "[+16]% Strength <when defending>",
       "[+15]% Strength <when defending> <vs [Ranged] units>",
-      "[+25]% Strength <when defending> <vs cities>",
-      "Only available <for units with [Hardening III]>" 
+      "[+25]% Strength <when defending> <vs cities>"
     ]
     "unitTypes": ["Natureborne"]
     "row": 16
