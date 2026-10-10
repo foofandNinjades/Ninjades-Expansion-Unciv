@@ -171,7 +171,7 @@
   },
   {
     "name": "Hardening III"
-    "prerequisites": ["Hardening I"]
+    "prerequisites": ["Hardening II"]
     "uniques": [
       "[+6]% Strength <when defending>"
     ]
