@@ -151,14 +151,44 @@
     "column": 14
   },
   {
-    "name": "Great Growth I"
-    "prerequisites": ["Root Wedging III"]
+    "name": "Hardening I"
     "uniques": [
-      "[+5]% Strength"
+      "[+6]% Strength <when defending>"
     ]
     "unitTypes": ["Natureborne"]
-    "row": 15
+    "row": 16
+    "column": 12
+  },
+  {
+    "name": "Hardening II"
+    "prerequisites": ["Hardening I"]
+    "uniques": [
+      "[+6]% Strength <when defending>"
+    ]
+    "unitTypes": ["Natureborne"]
+    "row": 16
+    "column": 13
+  },
+  {
+    "name": "Hardening III"
+    "prerequisites": ["Hardening I"]
+    "uniques": [
+      "[+6]% Strength <when defending>"
+    ]
+    "unitTypes": ["Natureborne"]
+    "row": 16
     "column": 14
+  },
+  {
+    "name": "Great Growth I"
+    "prerequisites": ["Root Wedging III", "Hardening III"]
+    "uniques": [
+      "[+5]% Strength",
+      "[+1] Movement"
+    ]
+    "unitTypes": ["Natureborne"]
+    "row": 17
+    "column": 15
   },
   // General \\
   {
