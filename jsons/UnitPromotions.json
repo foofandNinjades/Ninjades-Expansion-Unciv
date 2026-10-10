@@ -74,7 +74,6 @@
     "name": "Blood Rain",
     "uniques": [
       "[+10]% Strength <when attacking>",
-      "[+1] Sight",
       "Earn [25]% of killed [Wounded] unit's [Strength] as [Blood]",
       "[+8] HP when healing",
       "Only Available <for units without [Hardstuck]>"
@@ -151,11 +150,21 @@
     "column": 14
   },
   {
-    "name": "Root Wedging MAX"
-    "prerequisites": ["Great Growth"]
+    "name": "Root Wedging IV"
+    "prerequisites": ["Great Growth I"]
     "uniques": [
       "[+5]% Strength <vs cities> <when attacking>",
       "Only available <for units with [Root Wedging III]>"
+    ]
+    "unitTypes": ["Natureborne"]
+    "row": 15
+    "column": 14
+  },
+  {
+    "name": "Root Wedging MAX"
+    "prerequisites": ["Root Wedging IV"]
+    "uniques": [
+      "[+15]% Strength <vs cities> <when attacking>"
     ]
     "unitTypes": ["Natureborne"]
     "row": 15
