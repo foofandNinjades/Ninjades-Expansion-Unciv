@@ -2,17 +2,6 @@
   // Civilian units \\
   
   // Viewers of Beyond
-	{
-		"name": "Cornae",
-    "unitType": "Civilian",
-    "uniqueTo": "Viewers of Beyond",
-    "replaces": "Worker",
-    "movement": 2,
-    "cost": 85
-    "uniques": ["Can build [Land] improvements on tiles",
-    "Automation is a primary action",
-    "[-10]% construction time for [All] improvements"]  
-  },
   {
     "name": "The Seer",
     "unitType": "Civilian",
@@ -40,7 +29,6 @@
     "unitType": "Dragonborne",
     "uniqueTo": "Cryomēnès",
     "movement": 0
-    "maintenance": 0
     "uniques": [
       "Unbuildable",
       "Cannot Attack",
@@ -58,7 +46,6 @@
     "requiredTech": "Astronomy",
     "movement": 2,
     "cost": 90
-    "maintenance": 1,
     "strength": 10,
 		"rangedStrength": 15
     "uniques": [
@@ -79,9 +66,9 @@
     "requiredTech": "Nuclear Fission",
     "movement": 8,
     "cost": 2500
-    "maintenance": 15,
     "strength": 115,
     "uniques": [
+			"[+250]% maintenance costs",
 			"[+999]% Strength <vs [City-States]>", 
       "[+999]% Strength <vs [Barbarians]>",
       "Limited to [1] per Civilization", 
@@ -99,9 +86,9 @@
     "requiredTech": "Nuclear Fission",
     "movement": 6,
     "cost": 1750,
-    "maintenance": 15,
     "strength": 75,
     "uniques": [
+			"[+250]% maintenance costs",
       "[+50]% Strength <when defending>",
       "[+150]% Strength <vs cities> <when defending>",
       "Limited to [2] per Civilization",
@@ -114,7 +101,6 @@
     "unitType": "Vampire",
     "uniqueTo": "Blood Born",
     "movement": 2
-    "maintenance": 0
     "strength": 25
     "uniques": [
       "Unbuildable",
@@ -180,10 +166,10 @@
     "uniqueTo": "Blood Born",
     "requiredTech": "Scientific Theory",
     "movement": 3
-    "maintenance": 5
     "cost": 650
     "strength": 40
     "uniques": [
+			"[150]% maintenance costs",
       "[+10]% Strength bonus for [Vampire] units within [2] tiles",
       "Limited to [3] per Civilization",
       "Can only be built <in cities with a [Portal of Blood]>"
@@ -286,7 +272,6 @@
     "unitType": "Blood Spawn",
     "uniqueTo": "Blood Born",
     "movement": 2
-    "maintenance": 0
     "strength": 3
     "upgradesTo": "Giant Hemogoblin"
     "uniques": [
@@ -307,7 +292,6 @@
     "requiredTech": "Mathematics"
     "movement": 2
     "cost": 50
-    "maintenance": 0
     "strength": 16
     "upgradesTo": "Titanic Hemogoblin"
     "uniques": [
@@ -326,7 +310,6 @@
     "requiredTech": "Military Science"
     "movement": 2
     "cost": 80
-    "maintenance": 0
     "strength": 45
     "uniques": [
       "Unbuildable",
@@ -344,7 +327,6 @@
     "requiredTech": "Civil Service"
     "movement": 3
     "cost": 80
-    "maintenance": 0
     "strength": 25
     "upgradesTo": "Blood Tyrant"
     "uniques": [
@@ -360,7 +342,6 @@
     "uniqueTo": "Blood Born",
     "requiredTech": "Rifling"
     "movement": 3
-    "maintenance": 0
     "strength": 65
     "uniques": [
       "Unbuildable",
@@ -380,7 +361,6 @@
     "requiredTech": "Combustion",
     "movement": 3
     "cost": 450
-    "maintenance": 2
     "strength": 55
     "uniques": [
       "Can only be built <in cities with a [Blood Engine]>",
@@ -406,11 +386,11 @@
     "unitType": "Dragonborne",
     "uniqueTo": "Cryomēnès",
     "movement": 3
-    "maintenance": 5
     "strength": "50"
     "uniques": [
       "Unbuildable",
       "[-18]% Strength bonus for [Enemy] units within [3] tiles",
+			"[+500]% maintenance costs",
       "Limited to [1] per Civilization",
       "Shown while unbuildable"
     ]
