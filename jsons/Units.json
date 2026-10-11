@@ -52,6 +52,25 @@
   
   // Viewers of Beyond
 	{
+		"name": "Opta",
+    "unitType": "Beyonder",
+    "uniqueTo": "Viewers of Beyond",
+    "requiredTech": "Astronomy",
+    "movement": 2,
+    "cost": 90
+    "maintenance": 1,
+    "strength": 10,
+		"rangedStrength": 15
+    "uniques": [
+			"Cannot be purchased",
+      "Limited to [2] per Civilization", 
+      "[+50]% Strength <vs cities> <when attacking>",
+      "Can see over obstacles",
+      "All tiles cost 1 movement",
+      "Cannot Embark"
+    ]
+	},
+	{
     //Based on the macula which is used to provide the brain a clear image of what is in front of it
     "name": "Maculaus",
     "unitType": "Beyonder",
@@ -62,7 +81,8 @@
     "cost": 2500
     "maintenance": 15,
     "strength": 115,
-    "uniques": ["[+999]% Strength <vs [City-States]>", 
+    "uniques": [
+			"[+999]% Strength <vs [City-States]>", 
       "[+999]% Strength <vs [Barbarians]>",
       "Limited to [1] per Civilization", 
       "[+50]% Strength <vs cities> <when attacking>",
@@ -78,7 +98,7 @@
     "uniqueTo": "Viewers of Beyond",
     "requiredTech": "Nuclear Fission",
     "movement": 6,
-    "cost": 1750
+    "cost": 1750,
     "maintenance": 15,
     "strength": 75,
     "uniques": [
