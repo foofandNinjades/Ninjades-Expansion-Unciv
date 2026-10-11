@@ -71,7 +71,6 @@
     "uniques": [
 			"Unable to capture cities",
 			"Gain [500] [Science] <upon conquering a city>",
-			"[+1500]% maintenance costs",
 			"[+999]% Strength <vs [City-States]>", 
       "[+999]% Strength <vs [Barbarians]>",
       "Limited to [1] per Civilization", 
@@ -91,7 +90,6 @@
     "cost": 1750,
     "strength": 75,
     "uniques": [
-			"[+1000]% maintenance costs",
       "[+50]% Strength <when defending>",
       "[+150]% Strength <vs cities> <when defending>",
       "Limited to [2] per Civilization",
@@ -172,7 +170,6 @@
     "cost": 650
     "strength": 40
     "uniques": [
-			"[150]% maintenance costs",
       "[+10]% Strength bonus for [Vampire] units within [2] tiles",
       "Limited to [3] per Civilization",
       "Can only be built <in cities with a [Portal of Blood]>"
@@ -393,7 +390,6 @@
     "uniques": [
       "Unbuildable",
       "[-18]% Strength bonus for [Enemy] units within [3] tiles",
-			"[+500]% maintenance costs",
       "Limited to [1] per Civilization",
       "Shown while unbuildable"
     ]
