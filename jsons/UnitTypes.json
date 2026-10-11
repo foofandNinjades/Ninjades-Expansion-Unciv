@@ -24,7 +24,8 @@
     "movementType": "Land"
     "uniques": [
       "Cannot embark",
-      "[-80]% Strength <without [Blood]>"
+      "[-80]% Strength <without [Blood]>",
+      "[-100]% maintenance costs"
     ]
   },
   {
