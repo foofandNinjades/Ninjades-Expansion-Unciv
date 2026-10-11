@@ -56,6 +56,7 @@
       "All tiles cost 1 movement",
       "Cannot Embark"
     ]
+		"attackSound": "slider"
 	},
 	{
     //Based on the macula which is used to provide the brain a clear image of what is in front of it
@@ -68,6 +69,8 @@
     "cost": 2500
     "strength": 115,
     "uniques": [
+			"Unable to capture cities",
+			"Gain [500] [Science] <upon conquering a city>",
 			"[+1500]% maintenance costs",
 			"[+999]% Strength <vs [City-States]>", 
       "[+999]% Strength <vs [Barbarians]>",
