@@ -8,7 +8,7 @@
 		"preferredVictoryType": "Domination",
 		"uniqueName": "To See the Truth"
     "uniques": [
-      "[All] units gain the [Truth Seeking] promotion",
+      "[+1] Sight <for [Military] units>",
       "[+5]% [Science] [in all cities]",
       "[+10]% [Science] [in all cities] <during the [Renaissance era]>",
       "[+15]% spy effectiveness [in enemy cities] <for [40] turns> <starting from the [Renaissance era]>",
