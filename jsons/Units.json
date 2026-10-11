@@ -68,7 +68,7 @@
     "cost": 2500
     "strength": 115,
     "uniques": [
-			"[+250]% maintenance costs",
+			"[+1500]% maintenance costs",
 			"[+999]% Strength <vs [City-States]>", 
       "[+999]% Strength <vs [Barbarians]>",
       "Limited to [1] per Civilization", 
@@ -88,7 +88,7 @@
     "cost": 1750,
     "strength": 75,
     "uniques": [
-			"[+250]% maintenance costs",
+			"[+1000]% maintenance costs",
       "[+50]% Strength <when defending>",
       "[+150]% Strength <vs cities> <when defending>",
       "Limited to [2] per Civilization",
