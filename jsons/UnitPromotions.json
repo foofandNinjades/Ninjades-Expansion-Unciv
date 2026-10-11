@@ -1,26 +1,6 @@
 [
   // Viewers of Beyond \\
-  {
-    "name": "Devoted Protector I",
-    "uniques": [
-      "[+15]% Strength <in [Friendly Land] tiles>",
-      "[-10]% Strength <in [Enemy Land] tiles>",
-      "Only Available <for units without [Hardstuck]>"
-    ]
-      "row": 11
-      "column": 0
-  },
-  {
-    "name": "Devoted Protector II",
-    "prerequisites": ["Devoted Protector I"]
-    "uniques": [
-      "[+15]% Strength <in [Friendly Land] tiles>",
-      "[-15]% Strength <in [Enemy Land] tiles>",
-      "[+1] Movement <in [Friendly Land] tiles>"
-    ]
-      "row": 11
-      "column": 1
-  },
+  
   // Blood Born \\
   {
     "name": "Bloodrage",
