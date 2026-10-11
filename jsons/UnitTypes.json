@@ -5,6 +5,7 @@
     "movementType": "Land"
     "uniques": [
       "Can see over obstacles",
+      "Can pass through impassable tiles",
       "[+1]% Strength <for every [40] [Science]>"
     ]
   },
