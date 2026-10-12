@@ -79,17 +79,16 @@
     "expansion": 10,
           
     "priorities": {
-        "Tradition": 0,
-        "Feudalism1": 0,
-        "Liberty": 0,
-        "Autocracy": 8,
-        "Freedom": 0,
-        "Order": 0,
-              
-        "Honor": 8,
-        "Piety": 0,
-        "Commerce": 10,
-        "Patronage": 0,
+      "Tradition": 0,
+      "Feudalism1": 0,
+      "Liberty": 0,
+      "Autocracy": 8,
+      "Freedom": 0,
+      "Order": 0,
+      "Honor": 8,
+      "Piety": 0,
+      "Commerce": 10,
+      "Patronage": 0,
         "Industrial": 1,
         "Rationalism": 0
     }
@@ -112,12 +111,12 @@
     "expansion": 8,
         
     "priorities": {
-        "Tradition": 10,
-        "Feudalism1": 5,
-        "Liberty": 20,
-        "Autocracy": 0,
-        "Freedom": 0,
-        "Order": 0,
+      "Tradition": 10,
+      "Feudalism1": 5,
+      "Liberty": 20,
+      "Autocracy": 0,
+      "Freedom": 0,
+      "Order": 0,
               
         "Honor": 20,
         "Piety": 0,
