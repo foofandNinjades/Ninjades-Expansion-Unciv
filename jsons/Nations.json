@@ -60,21 +60,6 @@
 		{"text": "Blood, blud, bloody blud blood"},
 	]
 	},
-	// Add a building that gives a free The Frozen Sarcophogus and automatically spawns in capital
-	{
-		"name": "Cryomēnès",
-		"leaderName": "Sicle",
-		"adjective": ["Cryomēnians"],
-		"startBias": ["Snow"],
-		"personality": "Créodahmè Restorers",
-		"preferredVictoryType": "Domination",
-		"uniques": [
-			"Comment [Free Frozen Sarcophagus appears in capital cities]"
-		]
-		"outerColor": [0,0,50],
-		"innerColor": [100,255,255]
-		"cities": ["Créodahmè's Abode", "Mégar", "Frosht", "Freygaurd", "Icegate", "Dracor", "Seldole", "Sastērm"]
-	},
 	{
 		"name": "Zevia",
 		"leaderName": "Loid",
@@ -90,6 +75,6 @@
 		]
 		"outerColor": [0,200,0],
 		"innerColor": [0,50,0]
-		"cities": ["Rootsel", "Mégar", "Frosht", "Freygaurd", "Icegate", "Dracor", "Seldole", "Sastērm"]
+		"cities": ["Rootsel", "Zen", "Grenguard", "Zarsk", "Icegate", "Dracor", "Seldole", "Sastērm"]
 	}
 ]
