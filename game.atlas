@@ -1,11 +1,27 @@
+
 game.png
-size: 512, 256
+size: 2048, 2048
+format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/GlassManufactory
+BuildingIcons/Glass Manufactory
   rotate: false
-  xy: 220, 44
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 712
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+NationIcons/Viewers of Beyond
+  rotate: false
+  xy: 712, 712
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+UnitIcons/The Seer
+  rotate: false
+  xy: 4, 4
+  size: 700, 700
+  orig: 700, 700
   offset: 0, 0
   index: -1
