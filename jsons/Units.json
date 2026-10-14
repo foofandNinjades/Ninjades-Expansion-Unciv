@@ -55,9 +55,10 @@
     "movement": 8,
     "cost": 2500
     "strength": 115,
-    "uniques": 
+    "uniques":
+[ 
 			"Gain [500] [Science] <upon conquering a city>",
-			"[+999]% Strength <vs [City-States]>", 
+"[+999]% Strength <vs [City-States]>", 
       "[+999]% Strength <vs [Barbarians]>",
       "Limited to [1] per Civilization", 
       "[+50]% Strength <vs cities> <when attacking>",
