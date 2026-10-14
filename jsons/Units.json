@@ -23,19 +23,6 @@
       {"text": "''Nothing will stop their visionary prowess''"},
     ]
   },
-  // Cryomēnès
-  {
-    "name": "The Frozen Sarcophagus",
-    "unitType": "Dragonborne",
-    "uniqueTo": "Cryomēnès",
-    "movement": 0
-    "uniques": [
-      "Unbuildable",
-      "Cannot Attack",
-      "[-50] Movement <when above [0] movement>",
-      "Can transform to [Créodahmè] <costs [5] [Fragments of Pyirdra]>",
-    ]
-  },
   // Military Units \\
   
   // Viewers of Beyond
@@ -117,7 +104,7 @@
     "requiredTech": "Education",
     "movement": 2
     "cost": 100
-    "strength": 15
+    "strength": 12
     "obsoleteTech": "Scientific Theory",
     "upgradesTo": "Vampire Knight"
     "uniques": [
@@ -132,7 +119,7 @@
     "requiredTech": "Scientific Theory",
     "movement": 2
     "cost": 235
-    "strength": 36
+    "strength": 30
     "uniques": [
       "[+15]% Strength <vs [Ranged]> <when defending>",
       "Consumes [1] [Iron]",
@@ -148,10 +135,8 @@
     "movement": 2
     "cost": 450
     "strength": 25
-    "rangedStrength": 30
     "uniques": [
       "Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength <when attacking>",
-      "[+25]% Strength <when above [10] HP>",
       "[-50]% Strength <when below [10] HP>",
       "[+1] Movement <when below [10] HP>",
       "[+8] HP when healing",
@@ -300,7 +285,7 @@
       "[+100]% Strength <vs cities> <when attacking>",
       "[-15]% Strength <vs [Ranged]> <when defending>",
       "All tiles cost 1 movement",
-      "Consumes [4] [Blood]"
+      "Consumes [8] [Blood]"
     ]
   },
   { 
@@ -313,11 +298,11 @@
     "strength": 45
     "uniques": [
       "Unbuildable",
-      "[+125]% Strength <vs cities> <when attacking>",
+      "[+150]% Strength <vs cities> <when attacking>",
       "[-10]% Strength <vs [Ranged]> <when defending>",
       "No defensive terrain bonus",
       "All tiles cost 1 movement",
-      "Consumes [15] [Blood]"
+      "Consumes [30] [Blood]"
     ]
   },
   {
