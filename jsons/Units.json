@@ -55,8 +55,7 @@
     "movement": 8,
     "cost": 2500
     "strength": 115,
-    "uniques": [
-			"Unable to capture cities",
+    "uniques": 
 			"Gain [500] [Science] <upon conquering a city>",
 			"[+999]% Strength <vs [City-States]>", 
       "[+999]% Strength <vs [Barbarians]>",
