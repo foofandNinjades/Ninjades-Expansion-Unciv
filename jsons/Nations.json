@@ -86,7 +86,7 @@
 	  "preferredVictoryType": "Domination",
 	  "uniqueName": "A True Plague",
 	  "uniques": [
-			"Comment []"
+			"Comment [Any enemy at war with this nation will slowly gain [Toxin] and gain debuffs]"
       ] 
     "outerColor": [20,20,20],
     "innerColor": [150,0,0],
