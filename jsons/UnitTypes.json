@@ -6,6 +6,7 @@
     "uniques": [
       "Can see over obstacles",
       "Can pass through impassable tiles",
+      "[+75]% Strength <vs [Missile] units> <starting from the [Atomic era]>",
       "[+1]% Strength <for every [40] [Science]>"
     ]
   },
