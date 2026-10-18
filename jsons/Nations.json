@@ -1,6 +1,7 @@
 [
   {
-    "name": "Viewers of Beyond",
+    // MAKE IMAGE .PNG WHITE
+		"name": "Viewers of Beyond",
 		"leaderName": "Visionary",
 		"adjective": ["Viewer"]
     "startBias": ["Desert"],
