@@ -1,6 +1,6 @@
 [
   {
-    // MAKE VOB.PNG WHITE??
+    // MAKE VOB.PNG WHITE?????
 		"name": "Viewers of Beyond",
 		"leaderName": "Visionary",
 		"adjective": ["Viewer"]
@@ -33,7 +33,6 @@
     ]
       
   },
-  
   {
 	  "name": "Blood Born",
 		"leaderName": "Nehrak",
@@ -43,10 +42,10 @@
 	  "preferredVictoryType": "Domination",
 	  "uniqueName": "A Hunger for Blood",
 	  "uniques": [
-			"[-25]% Unhappiness from [Population] [in all cities]",
+			"[-10]% Unhappiness from [Population] [in all cities]",
 			"[{All} {Melee} {Military}] units gain the [Bloodrage] promotion",
 			"[-6] HP when healing <for [{All} {military units}] Civilizations>",
-			"[-25]% Strength <for [{All} {Ranged} {Military}] units>",
+			"[-35]% Strength <for [{All} {Ranged} {Military}] units>",
 			"No damage penalty for wounded units",
 			"Rebel units may spawn <every [50] turns> <starting from the [Classical era]> <when not at war>",
 			"[+15]% [Production] [in all cities] <when at war>",
@@ -77,5 +76,23 @@
 		"outerColor": [0,200,0],
 		"innerColor": [0,50,0]
 		"cities": ["Rootsel", "Zen", "Grenguard", "Zarsk", "Icegate", "Dracor", "Seldole", "Sastērm"]
-	}
+	},
+	{
+	  "name": "Deasia",
+		"leaderName": "Okreo",
+		"adjective": ["Deasians"],
+	  "startBias": ["Avoid [Coastal]"],
+	  "personality": "Planet Haters",
+	  "preferredVictoryType": "Domination",
+	  "uniqueName": "A True Plague",
+	  "uniques": [
+			"Comment []"
+      ] 
+    "outerColor": [20,20,20],
+    "innerColor": [150,0,0],
+    "cities": [""],
+    "civilopediaText": [
+		{"text": "WE are dying"},
+	]
+	},
 ]
