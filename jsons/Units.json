@@ -405,5 +405,21 @@
       "Limited to [8] per Civilization"
 		]
 		"promotions": ["Element - Nature", "Training with Trees"]
+  },
+	{
+		"name": "Thornie",
+    "unitType": "Natureborne",
+    "uniqueTo": "Zevia",
+		"replaces": "Spearman",
+		"requiredTech": "Bronze Working",
+    "movement": 1
+		"strength": 5
+		"cost": 75
+    "uniques": [
+			"[This Unit] gains [1] XP <upon turn end> <every [10] turns> <in [Friendly] cities>",
+			"Comment [Units take 5 damage when attacking this unit]",
+      "Limited to [8] per Civilization"
+		]
+		"promotions": ["Element - Nature", "Training with Trees"]
   }
 ]
