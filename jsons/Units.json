@@ -33,24 +33,28 @@
     "requiredTech": "Astronomy",
     "movement": 2,
     "cost": 90
-    "strength": 10,
+    "strength": 20,
 		"rangedStrength": 15
     "uniques": [
 			"Cannot be purchased",
       "Limited to [3] per Civilization", 
-      "[+25]% Strength <when attacking> <starting from the [Industrial era]>",
-			"[+1] Range <starting from the [Industrial era]>",
-			"[+1] Sight <starting from the [Industrial era]>",
-			"[+50]% Strength <when attacking> <starting from the [Modern era]>",
-			"[+25]% Strength <when attacking> <starting from the [Atomic era]>",
-			"[+1] Range <starting from the [Atomic era]>",
-			"[+1] Sight <starting from the [Atomic era]>",
-			"[+50]% Strength <when attacking> <starting from the [Information era]>",
-			"[+2] Sight <starting from the [Information era]>",
-			"[+25]% Strength <when attacking> <starting from the [Future era]>",
-			"[+100]% Strength <when attacking> <during the [Future era]>",
-			"All tiles cost 1 movement <starting from the [Industrial era]>",
-      "Cannot Embark"
+      "[+25]% Strength <when attacking> <starting from the [Industrial era]> <hidden from users>",
+			"[+1] Range <starting from the [Industrial era]> <hidden from users>",
+			"[+1] Sight <starting from the [Industrial era]> <hidden from users>",
+			"[+50]% Strength <when attacking> <starting from the [Modern era]> <hidden from users>",
+			"[2] extra interceptions may be made per turn <with [85]% chance> <starting from the [Modern era]> <hidden from users>",
+			"[+25]% Strength <when attacking> <starting from the [Atomic era]> <hidden from users>",
+			"[+1] Range <starting from the [Atomic era]> <hidden from users>",
+			"[+1] Sight <starting from the [Atomic era]> <hidden from users>",
+			"[+1] Movement <starting from the [Atomic era]> <hidden from users>",
+			"[+50]% Strength <when attacking> <starting from the [Information era]> <hidden from users>",
+			"[+2] Sight <starting from the [Information era]> <hidden from users>",
+			"[+25]% Strength <when attacking> <starting from the [Future era]> <hidden from users>",
+			"[+100]% Strength <when attacking> <during the [Future era]> <hidden from users>",
+			"All tiles cost 1 movement <starting from the [Industrial era]> <hidden from users>",
+			"Comment [Gets progressively stronger depending on the era]",
+			"Comment [Gains the ability to intercept, with an 85% chance, within a 6 tile radius up to 2 times per turn after the Modern era]",
+      "Cannot Embark <before the [Atomic era]>"
     ]
 		"attackSound": "slider"
 	},
