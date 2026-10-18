@@ -17,8 +17,8 @@
       "[+10]% enemy spy effectiveness [in all cities] <starting from the [Industrial era]>",
       "[+25]% [Culture] [in all cities] <for [50] turns> <starting from the [Renaissance era]>",
       "Starts with [Rationalism] adopted"],
-    "outerColor": [0, 0, 0],
-    "innerColor": [115, 50, 115],
+    "outerColor": [115, 50, 115],
+    "innerColor": [0,0,0],
     "cities": ["Viewpoint", "Cornar", "Aqeua", "Stahre", "Opti", "Sight Stroll"],
     "spyNames": ["Foreseen", "Clairvoyant", "Theas", "Witness", "Axeus", "Watcher", "Seen", "Tri-eye", "Obser"],
     "civilopediaText": [
