@@ -399,7 +399,7 @@
 		"replaces": "Warrior",
     "movement": 1
 		"strength": 5
-		"cost": 32
+		"cost": 60
     "uniques": [
 			"[This Unit] gains [1] XP <upon turn end> <every [7] turns> <in [Friendly] cities>",
       "Limited to [8] per Civilization"
