@@ -1,6 +1,6 @@
 [
   {
-    // MAKE VOB.PNG WHITE
+    // MAKE VOB.PNG WHITE??
 		"name": "Viewers of Beyond",
 		"leaderName": "Visionary",
 		"adjective": ["Viewer"]
@@ -18,8 +18,8 @@
       "[+10]% enemy spy effectiveness [in all cities] <starting from the [Industrial era]>",
       "[+25]% [Culture] [in all cities] <for [50] turns> <starting from the [Renaissance era]>",
       "Starts with [Rationalism] adopted"],
-    "outerColor": [115, 50, 115],
-    "innerColor": [0,0,0],
+    "outerColor": [0,0,0],
+    "innerColor": [115, 50, 115],
     "cities": ["Viewpoint", "Cornar", "Aqeua", "Stahre", "Opti", "Sight Stroll"],
     "spyNames": ["Foreseen", "Clairvoyant", "Theas", "Witness", "Axeus", "Watcher", "Seen", "Tri-eye", "Obser"],
     "civilopediaText": [
