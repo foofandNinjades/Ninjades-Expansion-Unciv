@@ -50,7 +50,6 @@
 			"[+25]% Strength <when attacking> <starting from the [Future era]>",
 			"[+100]% Strength <when attacking> <during the [Future era]>",
 			"All tiles cost 1 movement <starting from the [Industrial era]>",
-      "Can see over obstacles <starting from the [Modern era]>",
       "Cannot Embark"
     ]
 		"attackSound": "slider"
