@@ -65,7 +65,7 @@
     "name": "Gold Lovers",
     "production": 6,
     "food": 5,
-    "gold": 10,
+    "gold": 12,
     "science": 5,
     "culture": 4,
     "happiness": 6,
@@ -73,7 +73,7 @@
     "military": 9,
     "aggressive": 5,
     "declareWar": 7,
-    "commerce": 2,
+    "commerce": 5,
     "diplomacy": 2,
     "loyal": 8,
     "expansion": 10,
@@ -121,6 +121,37 @@
       "Rationalism": 3,
       "Freedom": 0,
       "Autocracy": 10,
+      "Order": 0
+    }
+  },
+  {
+    "name": "Planet Haters",
+    "production": 7,
+    "food": 4,
+    "gold": 6,
+    "science": 5,
+    "culture": 5,
+    "happiness": 6,
+    "faith": 0,
+    "military": 8,
+    "aggressive": 7,
+    "declareWar": 7,
+    "commerce": 3,
+    "diplomacy": 4,
+    "loyal": -2,
+    "expansion": 7,
+    "denounceWillingness": 9,
+    
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 1,
+      "Honor": 10,
+      "Commerce": 5,
+      "Patronage": 0,
+      "Piety": 0,
+      "Rationalism": 3,
+      "Freedom": 15,
+      "Autocracy": 5,
       "Order": 0
     }
   }
