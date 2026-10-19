@@ -79,7 +79,7 @@
 	},
 	{
 	  "name": "Deasia",
-		"leaderName": "Okreo",
+		"leaderName": "Petsael",
 		"adjective": ["Deasians"],
 	  "startBias": ["Avoid [Coastal]"],
 	  "personality": "Planet Haters",
@@ -88,7 +88,7 @@
 	  "uniques": [
 			"Comment [Any enemy at war with this nation will slowly gain [Toxin] and gain debuffs]"
       ] 
-    "outerColor": [200,200,0],
+    "outerColor": [255,255,0],
     "innerColor": [0,0,0],
     "cities": [""],
     "civilopediaText": [
