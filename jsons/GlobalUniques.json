@@ -1,9 +1,15 @@
 {
+  "uniques": [
+    // Deasia \\
+    "Provides 1 [DWarTrue] <upon entering a war with [Destria] Civilizations>",
+    "Provides 1 [Toxin] <when at war> <for {non-[Deasia]} Civilizations>",
+
+    ],
   "unitUniques": [
     // Zevia \\
     // Jiangeshi's Idea from Leader Mission 2 Rising Power
     
     "[This Unit] gains [1] XP <upon ending a turn in a [Land] tile> <every [4] turns> <for [Zevia] Civilizations> <in [Your] cities> <hidden from users> <for [{Land} {Military}] units>",
     "[This Unit] takes [5] damage <hidden from users> <upon damaging a [Thornie] unit>"
-    ]
+  ]
 }
