@@ -88,8 +88,8 @@
 	  "uniques": [
 			"Comment [Any enemy at war with this nation will slowly gain [Toxin] and gain debuffs]"
       ] 
-    "outerColor": [20,20,20],
-    "innerColor": [150,0,0],
+    "outerColor": [200,200,0],
+    "innerColor": [0,0,0],
     "cities": [""],
     "civilopediaText": [
 		{"text": "WE are dying"},
