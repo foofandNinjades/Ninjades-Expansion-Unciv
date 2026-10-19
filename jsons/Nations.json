@@ -86,7 +86,8 @@
 	  "preferredVictoryType": "Domination",
 	  "uniqueName": "A True Plague",
 	  "uniques": [
-			"Comment [Any enemy at war with this nation will slowly gain [Toxin] and gain debuffs]"
+			"Comment [Any enemy at war with this nation will slowly gain [Toxin] and gain debuffs]",
+			"[+25]% City-State Influence degradation",
       ] 
     "outerColor": [255,255,0],
     "innerColor": [0,0,0],
