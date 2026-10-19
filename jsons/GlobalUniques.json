@@ -1,8 +1,9 @@
 {
   "uniques": [
     // Deasia \\
-    "Provides 1 [DWarTrue] <upon entering a war with [Destria] Civilizations>",
-    "Provides 1 [Toxin] <when at war> <for {non-[Deasia]} Civilizations>",
+    "Provides 1 [D_WarTrue] <upon entering a war with [Destria] Civilizations> <hidden from users>",
+    "Provides 1 [Toxin] <when at war> <for {non-[Deasia]} Civilizations> <hidden from users>",
+    "Instantly consumes [1] [D_WarTrue <upon]  <upon signing a peace treaty with [D_WarTrue] Civilizations> <hidden from users>"
 
     ],
   "unitUniques": [
