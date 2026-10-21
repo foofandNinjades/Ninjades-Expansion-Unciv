@@ -2,7 +2,7 @@
   {
     // MAKE VOB.PNG WHITE?????
 		"name": "Viewers of Beyond",
-		"leaderName": "Visionary",
+		"leaderName": "A Visionary",
 		"adjective": ["Viewer"]
     "startBias": ["Desert"],
 		"personality": "Seer Followers",
@@ -96,22 +96,21 @@
 		]
 	},
 	{
-	  "name": "Deasia",
-		"leaderName": "Jinkler",
-		"adjective": ["Deasians"],
-	  "startBias": ["Avoid [Coastal]"],
-	  "personality": "Planet Haters",
+	  "name": "Casind",
+		"leaderName": "Jinkle",
+		"adjective": ["Casinds"],
+	  "personality": "Gambling Addicts",
 	  "preferredVictoryType": "Domination",
-	  "uniqueName": "A True Plague",
+	  "uniqueName": "The Probability Spectrum",
 	  "uniques": [
-			"Comment [Any enemy at war with this nation will slowly gain [Toxin] and gain debuffs]",
-			"[+30]% City-State Influence degradation",
+			
+			"[+1 Happiness] from all [Gambling] buildings"
       ]
-    "outerColor": [255,255,0],
+    "outerColor": [255,0,0],
     "innerColor": [0,0,0],
-    "cities": [""],
+    "cities": ["Routle"],
     "civilopediaText": [
-		{"text": "WE are dying"},
+		{"text": "Gamble Gamble Gamble Gamble Gamble"},
 		]
 	}
 ]
