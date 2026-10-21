@@ -46,12 +46,11 @@
 			"[{All} {Melee} {Military}] units gain the [Bloodrage] promotion",
 			"[-6] HP when healing <for [{All} {military units}] Civilizations>",
 			"[-35]% Strength <for [{All} {Ranged} {Military}] units>",
-			"No damage penalty for wounded units",
+			"No damage penalty for wounded units <when below [50] HP>",
 			"Rebel units may spawn <every [50] turns> <starting from the [Classical era]> <when not at war>",
 			"[+15]% [Production] [in all cities] <when at war>",
-			"Earn [50]% of killed [Wounded] unit's [Strength] as [Blood]",
-			"Earn [10]% of the damage done to [Wounded] units as [Blood]",
-			"Earn [25]% of the damage done to [Wounded] units as [Faith]"
+			"Earn [25]% of killed [Wounded] unit's [Strength] as [Blood]",
+			"Earn [10]% of the damage done to [Wounded] units as [Faith]"
       ] 
     "outerColor": [20,20,20],
     "innerColor": [150,0,0],
@@ -87,13 +86,32 @@
 	  "uniqueName": "A True Plague",
 	  "uniques": [
 			"Comment [Any enemy at war with this nation will slowly gain [Toxin] and gain debuffs]",
-			"[+25]% City-State Influence degradation",
-      ] 
+			"[+30]% City-State Influence degradation",
+      ]
     "outerColor": [255,255,0],
     "innerColor": [0,0,0],
     "cities": [""],
     "civilopediaText": [
 		{"text": "WE are dying"},
-	]
+		]
 	},
+	{
+	  "name": "Deasia",
+		"leaderName": "Jinkler",
+		"adjective": ["Deasians"],
+	  "startBias": ["Avoid [Coastal]"],
+	  "personality": "Planet Haters",
+	  "preferredVictoryType": "Domination",
+	  "uniqueName": "A True Plague",
+	  "uniques": [
+			"Comment [Any enemy at war with this nation will slowly gain [Toxin] and gain debuffs]",
+			"[+30]% City-State Influence degradation",
+      ]
+    "outerColor": [255,255,0],
+    "innerColor": [0,0,0],
+    "cities": [""],
+    "civilopediaText": [
+		{"text": "WE are dying"},
+		]
+	}
 ]
