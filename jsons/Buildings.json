@@ -156,13 +156,14 @@
       "Destroyed when the city is captured"
     ]
   },
-// Cryomēnès
+// Castind
 	{
 		"name": "Furnace of Pyirdra"
-		"uniqueTo": "Cryomēnès"
+		"uniqueTo": "Castind"
 		"cost": 250
 		"unique": [
 			"Unsellable",
+			"Probability",
 			"Limited to [5] per Civilization",
 			"Can only be built <in cities with at least [5] [Population]>"
 		]
