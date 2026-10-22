@@ -96,14 +96,14 @@
 		]
 	},
 	{
-	  "name": "Casind",
+	  "name": "Castind",
 		"leaderName": "Jinkle",
-		"adjective": ["Casinds"],
+		"adjective": ["Castinds"],
 	  "personality": "Gambling Addicts",
 	  "preferredVictoryType": "Domination",
 	  "uniqueName": "The Probability Spectrum",
 	  "uniques": [
-			
+			"Comment [Every [Probability] building gives a random stat (Production, Science, Gold, Culture, or Faith)]",
 			"[+1 Happiness] from all [Probability] buildings"
       ]
     "outerColor": [255,0,0],
