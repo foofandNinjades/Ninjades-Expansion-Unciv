@@ -158,14 +158,84 @@
   },
 // Castind
 	{
-		"name": "Furnace of Pyirdra"
+		"name": "Probability Theory"
 		"uniqueTo": "Castind"
-		"cost": 250
+		"requiredTech": "Mathematics"
+		"cost": 175
+		"isWonder": true
 		"unique": [
-			"Unsellable",
+			"Unsellable <hidden from users>",
 			"Probability",
-			"Limited to [5] per Civilization",
+			"Can only be built <in cities with at least [4] [Population]>",
+			"Can only be built <in [Capital] cities>"
+		]
+	},
+	{
+		"name": "Probability Equation"
+		"uniqueTo": "Castind"
+		"requiredTech": "Mathematics"
+		"cost": 175
+		"isWonder": true
+		"unique": [
+			"Unsellable <hidden from users>",
+			"Probability",
+			"Can only be built <in cities with at least [4] [Population]>",
+			"Can only be built <in [Capital] cities>"
+		]
+	},
+	{
+		"name": "Probability Graph"
+		"uniqueTo": "Castind"
+		"requiredTech": "Architechure"
+		"cost": 175
+		"unique": [
+			"Unsellable <hidden from users>",
+			"Probability",
 			"Can only be built <in cities with at least [5] [Population]>"
+		]
+	},
+	{
+		"name": "Probability Manipulation"
+		"uniqueTo": "Castind"
+		"requiredTech": "Architechure"
+		"cost": 175
+		"unique": [
+			"Unsellable <hidden from users>",
+			"Probability",
+			"Can only be built <in cities with at least [6] [Population]>"
+		]
+	},
+	{
+		"name": "Probability Manipulation"
+		"uniqueTo": "Castind"
+		"requiredTech": "Architechure"
+		"cost": 175
+		"unique": [
+			"Unsellable <hidden from users>",
+			"Probability",
+			"Can only be built <in cities with at least [6] [Population]>"
+		]
+	},
+	{
+		"name": "Probability Manipulation"
+		"uniqueTo": "Castind"
+		"requiredTech": "Architechure"
+		"cost": 175
+		"unique": [
+			"Unsellable <hidden from users>",
+			"Probability",
+			"Can only be built <in cities with at least [6] [Population]>"
+		]
+	},
+	{
+		"name": "The Probability Atlas"
+		"uniqueTo": "Castind"
+		"requiredTech": "Atomic Theory"
+		"cost": 175
+		"unique": [
+			"Unsellable <hidden from users>",
+			"Probability",
+			"Can only be built <in cities with at least [6] [Population]>"
 		]
 	}
 ]
