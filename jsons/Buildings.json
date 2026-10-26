@@ -217,7 +217,7 @@
 		]
 	},
 	{
-		"name": "Probability Manipulation"
+		"name": "Probability Vectors"
 		"uniqueTo": "Castind"
 		"requiredTech": "Architechure"
 		"cost": 175
@@ -235,7 +235,7 @@
 		"unique": [
 			"Unsellable <hidden from users>",
 			"Probability",
-			"Can only be built <in cities with at least [6] [Population]>"
+			"Can only be built <in cities with at least [7] [Population]>"
 		]
 	}
 ]
