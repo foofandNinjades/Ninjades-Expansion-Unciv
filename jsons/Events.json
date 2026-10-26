@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Element Awakens",
+		"text": "After entering combat, next attacks inflict status ailment",
+		"presentation": "None", // "None" will select at random.
+		"choices": [
+			{
+				"text": "Production",
+				"uniques": [
+					"[This Unit] gains the [Fireball] promotion",
+					"Only available <for units without [Fireball]>"
+				]
+			},
+  }
+]
