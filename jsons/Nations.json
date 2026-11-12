@@ -87,6 +87,7 @@
 	  "uniques": [
 			"Comment [Any enemy at war with this nation will slowly gain [Toxin] and gain debuffs]",
 			"[+30]% City-State Influence degradation",
+			"Provides [1] [Toxin] <for [Hostile] Civilizations">
       ]
     "outerColor": [255,255,0],
     "innerColor": [0,0,0],
