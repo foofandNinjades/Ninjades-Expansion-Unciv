@@ -28,7 +28,7 @@
     "happiness": 2,
     "science": 2,
     "production": 3,
-    "maintenance": 5,
+    "maintenance": 8,
     "percentStatBonus": {"production": 10, "science": 10}
     "greatPersonPoints": {"Great Scientist": 3}
     "uniques": [
