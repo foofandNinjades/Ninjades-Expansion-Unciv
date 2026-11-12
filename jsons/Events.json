@@ -1,15 +1,14 @@
 [
   {
-    "name": "Element Awakens",
-		"text": "After entering combat, next attacks inflict status ailment",
+    "name": "Probability 1",
+		"text": "After building [Probability Theory], it will gain a random stat",
 		"presentation": "None", // "None" will select at random.
+		
 		"choices": [
 			{
 				"text": "Production",
 				"uniques": [
-					"[This Unit] gains the [Fireball] promotion",
-					"Only available <for units without [Fireball]>"
+					"<[+5 Production]> from all [Probability Theory] buildings <in this city>"
 				]
-			},
-  }
+			}
 ]
