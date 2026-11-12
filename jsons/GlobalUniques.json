@@ -1,10 +1,10 @@
 {
   "uniques": [
     // Deasia \\
-    "Provides 1 [D_WarTrue] <upon entering a war with [Destria] Civilizations> <hidden from users>",
-    "Provides 1 [Toxin] <when at war> <for {non-[Deasia]} Civilizations> <hidden from users>",
+    // "Provides 1 [D_WarTrue] <upon entering a war with [Destria] Civilizations> <hidden from users>",
+    //  "Provides 1 [Toxin] <when at war> <for {non-[Deasia]} Civilizations> <hidden from users>",
 
-    "[+5]% Unhappiness from [Population] [in all cities]"
+    //"[+5]% Unhappiness from [Population] [in all cities]"
     ],
   "unitUniques": [
     // Zevia \\
