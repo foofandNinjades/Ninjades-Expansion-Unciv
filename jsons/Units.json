@@ -399,7 +399,7 @@
 		"replaces": "Spearman",
 		"requiredTech": "Bronze Working",
     "movement": 1
-		"strength": 5
+		"strength": 3
 		"cost": 75
     "uniques": [
 			"[This Unit] gains [1] XP <upon turn end> <every [10] turns> <in [Friendly] cities>",
