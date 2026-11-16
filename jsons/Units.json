@@ -343,11 +343,11 @@
     "uniques": [
       "Unbuildable",
       "Uncapturable",
-      "Heals [33] damage if it kills a unit",
-      "[+10]% Strength bonus for [Melee] units within [2] tiles",
+      "Heals [50] damage if it kills a unit",
+      "[+15]% Strength bonus for [Melee] units within [2] tiles",
       "[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
       "Earn [150]% of killed [Wounded] unit's [Strength] as [Blood]",
-      "Consumes [25] [Blood]"
+      "Consumes [50] [Blood]"
     ]
   },
   {
@@ -363,17 +363,17 @@
       "Can only be built <in cities with a [Blood Engine]>",
       "[This Unit] gains [4] movement <upon defeating a [Land] unit> <when above [12] [Blood]>",
       "[This Unit] gains [2] movement <upon defeating a [Land] unit> <when below [12] [Blood]>",
-      "[-100]% Strength <when attacking> <vs cities>",
+      "[-125]% Strength <when attacking> <vs cities>",
       "[+33]% Strength <when attacking> <vs [non-[Armored]]>",
-      "[-50]% Strength <when attacking> <vs [Armored]>",
-      "[+50]% Strength <when defending> <vs [Ranged]>",
+      "[-66]% Strength <when attacking> <vs [Armored]>",
+      "[+66]% Strength <when defending> <vs [Ranged]>",
       "Can move after attacking",
       "[-40]% Strength <when below [12] [Blood]> <when attacking>",
       "[-2] Movement <when below [12] [Blood]>",
       "[2] additional attacks per turn",
       "No movement cost to pillage",
       "No defensive terrain bonus",
-      "Consumes [12] [Blood]"
+      "Consumes [16] [Blood]"
     ]
     "attackSound": "metalhit"
   },
@@ -399,7 +399,7 @@
 		"replaces": "Spearman",
 		"requiredTech": "Bronze Working",
     "movement": 1
-		"strength": 3
+		"strength": 5
 		"cost": 75
     "uniques": [
 			"[This Unit] gains [1] XP <upon turn end> <every [10] turns> <in [Friendly] cities>",
