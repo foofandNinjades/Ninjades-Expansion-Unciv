@@ -85,7 +85,7 @@
 		"preferredVictoryType": "Domination",
 		"uniqueName": "Polluted Ideology",
 		"uniques": [
-			[-15]% City-State Influence degradation
+			"[-15]% City-State Influence degradation"
 		]
 		"outerColor": [0,200,0],
 		"innerColor": [0,50,0]
