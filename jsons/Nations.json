@@ -78,19 +78,17 @@
 	},
 	{
 		"name": "Desia",
-		"leaderName": "Loid",
-		"adjective": ["Zevians"],
-		"startBias": ["Plains", "Forest"],
-		"personality": "Zoidrac Worshipers",
+		"leaderName": "Pestael",
+		"adjective": ["Desians"],
+		"startBias": [""],
+		"personality": "Planet Haters",
 		"preferredVictoryType": "Domination",
-		"uniqueName": "Ambition for Growth",
+		"uniqueName": "Polluted Ideology",
 		"uniques": [
-			"Comment [Units gains 1 XP upon ending a turn in a land tile in your cities every 4 turns]",
-			"[+50]% XP required for promotions",
-			"[+20]% XP gained from combat"
+			[-15]% City-State Influence degradation
 		]
 		"outerColor": [0,200,0],
 		"innerColor": [0,50,0]
-		"cities": ["Rootsel", "Zen", "Grenguard", "Zarsk", "Icegate", "Dracor", "Seldole", "Sastērm"]
+		"cities": [""]
 	}
 ]
