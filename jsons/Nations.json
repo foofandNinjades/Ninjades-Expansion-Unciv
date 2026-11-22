@@ -73,8 +73,10 @@
 			"[+20]% XP gained from combat"
 		]
 		"outerColor": [0,200,0],
-		"innerColor": [0,50,0]
-		"cities": ["Rootsel", "Zen", "Grenguard", "Zarsk", "Icegate", "Dracor", "Seldole", "Sastērm"]
+		"innerColor": [0,50,0],
+		"cities": ["Rootsel", "Zen", "Grenguard", "Zarsk", "Icegate", "Dracor", "Seldole", "Sastērm"],
+		"civilopediaText": [
+		{"text": "Zevia [Zeh-vee-ah]"}
 	},
 	{
 		"name": "Deasia",
