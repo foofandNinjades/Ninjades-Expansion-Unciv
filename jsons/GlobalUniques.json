@@ -1,7 +1,7 @@
 {
   "uniques": [
     // Deasia \\
-    "Provides 1 [Toxin] <when at war> <for {non-[Desia]} Civilizations> <hidden from users>",
+    [-10000] [Gold] <when above [1] [Toxin]
 
     ],
   "unitUniques": [
