@@ -1,7 +1,12 @@
 {
   "uniques": [
     // Deasia \\
-    "[-10000]% [Gold] <when above [1] [Toxin]>"
+    "[-5]% [Gold] <when above [10] [Toxin]> <hidden from users>",
+    "[10]% [Happiness] <when above [15] [Toxin]> <hidden from users>",
+    "[-25]% Strength <for [Military] units> <when above [50] [Toxin]> <hidden from users>,
+    
+    "[-1] [Toxin] <when not at war> <when below [30] [Toxin]",
+    "[-2] [Toxin] <when not at war> <when above [29] [Toxin]"
 
     ],
   "unitUniques": [
