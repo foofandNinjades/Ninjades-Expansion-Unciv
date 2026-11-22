@@ -77,16 +77,16 @@
 		"cities": ["Rootsel", "Zen", "Grenguard", "Zarsk", "Icegate", "Dracor", "Seldole", "Sastērm"]
 	},
 	{
-		"name": "Desia",
+		"name": "Deasia",
 		"leaderName": "Pestael",
-		"adjective": ["Desians"],
+		"adjective": ["Deasians"],
 		"startBias": [""],
 		"personality": "Planet Haters",
 		"preferredVictoryType": "Domination",
 		"uniqueName": "Polluted Ideology",
 		"uniques": [
 			"[-15]% City-State Influence degradation",
-			"Provides [1] [Toxin] <for [Hostile] Civilizations>"
+			"Provides [1] [Toxin] <for [Hostile] Civilizations> <every [1] turns>"
 		]
 		"outerColor": [0,200,0],
 		"innerColor": [0,50,0]
