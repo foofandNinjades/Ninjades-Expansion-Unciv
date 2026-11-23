@@ -96,5 +96,11 @@
 		"outerColor": [255,255,0],
 		"innerColor": [0,0,0]
 		"cities": [""]
+		"civilopediaText": [
+			{"text": "Zevia [Zeh-vee-ah]"},
+			{"separator": true},
+			{"text": "Expand as much as possible"}
+			
+		]
 	}
 ]
