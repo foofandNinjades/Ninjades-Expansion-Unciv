@@ -87,7 +87,11 @@
 		"preferredVictoryType": "Domination",
 		"uniqueName": "Polluted Ideology",
 		"uniques": [
-			"[+15]% City-State Influence degradation"
+			"Comment [Every [Pollution] building provides 5 culture",
+			"[+20]% City-State Influence degradation",
+			"[-20]% resources gifted by City-States",
+			"Units are [+10]% more effective at intimidating City-States",
+			"[+25]% Culture cost of adopting new Policies"
 		]
 		"outerColor": [255,255,0],
 		"innerColor": [0,0,0]
