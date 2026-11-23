@@ -83,7 +83,6 @@
 		"name": "Deasia",
 		"leaderName": "Pestael",
 		"adjective": ["Deasians"],
-		"startBias": ["Avoid [Coastal]"],
 		"personality": "Planet Haters",
 		"preferredVictoryType": "Domination",
 		"uniqueName": "Polluted Ideology",
