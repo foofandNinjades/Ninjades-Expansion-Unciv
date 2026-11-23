@@ -83,15 +83,14 @@
 		"name": "Deasia",
 		"leaderName": "Pestael",
 		"adjective": ["Deasians"],
-		"startBias": [""],
 		"personality": "Planet Haters",
 		"preferredVictoryType": "Domination",
 		"uniqueName": "Polluted Ideology",
 		"uniques": [
 			"[+15]% City-State Influence degradation"
 		]
-		"outerColor": [0,200,0],
-		"innerColor": [0,50,0]
+		"outerColor": [255,255,0],
+		"innerColor": [0,0,0]
 		"cities": [""]
 	}
 ]
